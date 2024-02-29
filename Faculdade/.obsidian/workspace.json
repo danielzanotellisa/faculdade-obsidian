@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "24b54da8f9c36fbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "a283eea8484ec5d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70e32609c6bfcdee",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "14bbb233283716e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e79a944f5ba6053",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c163a479831542d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2f38c448585dfbbe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#TI",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6b049544b5de1579",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 209.51103591918945
+  },
+  "right": {
+    "id": "edf5c37a06a3e69c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f11dab7bae973e13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7124995cc0276df8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a83615f45b95a50",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "67ad4dd5ac993cd5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4e14595af9fc891a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c163a479831542d2",
+  "lastOpenFiles": [
+    "faculdade-obsidian",
+    "2024-02-29.md",
+    "1º Semestre/1Semestre-faculdade/README.md",
+    "1º Semestre/1º Módulo/Fundamentos de Sistemas de Informação/Tópico 3 - Conceitos e aplicações de tecnologia da informação/2024-02-28 Aula ao vivo Abrantes -Tópico 3.md",
+    "1º Semestre/1Semestre-faculdade",
+    "1Semestre-copia",
+    "1º Semestre/1º Módulo/Fundamentos de Sistemas de Informação/Tópico 3 - Conceitos e aplicações de tecnologia da informação/Binários.md",
+    "1º Semestre/1º Módulo/Fundamentos de Sistemas de Informação/Tópico 4 - Desenvolvimento de Sistemas de Informação/2024-02-29 Aula ao Vivo - SI - Tópico 4.md",
+    "1º Semestre/1º Módulo/Fundamentos de Sistemas de Informação/Tópico 4 - Desenvolvimento de Sistemas de Informação",
+    "1º Semestre/1º Módulo/Fundamentos de Sistemas de Informação/Tópico 3 - Conceitos e aplicações de tecnologia da informação/Como os dados são representados.md",
+    "1º Semestre/1º Módulo/Estrutura de Computadores/Tópico 3 - Redes/Serviços de rede/Servidores.canvas",
+    "1º Semestre/1º Módulo/Fundamentos de Sistemas de Informação/Tópico 3 - Conceitos e aplicações de tecnologia da informação/Software.md",
+    "1º Semestre/1º Módulo/Fundamentos de Sistemas de Informação/Tópico 3 - Conceitos e aplicações de tecnologia da informação/Sistemas de Numeração.md",
+    "1º Semestre/1º Módulo/Fundamentos de Sistemas de Informação/Tópico 3 - Conceitos e aplicações de tecnologia da informação/Hexadecimais.md",
+    "1º Semestre/1º Módulo/Fundamentos de Sistemas de Informação/Tópico 3 - Conceitos e aplicações de tecnologia da informação/Hardware.md",
+    "1º Semestre/1º Módulo/Estrutura de Computadores/Tópico 3 - Redes/Dispositivos de segurança/Serviço de gerenciamento de terminal.md",
+    "1º Semestre/1º Módulo/Estrutura de Computadores/Tópico 3 - Redes/Dispositivos de segurança/IDS e IPS.md",
+    "1º Semestre/1º Módulo/Estrutura de Computadores/Tópico 3 - Redes/Dispositivos de segurança/Firewalls.md",
+    "1º Semestre/1º Módulo/Estrutura de Computadores/Tópico 3 - Redes/Outros dispositivos de rede/Sistemas integrados e legados.md",
+    "1º Semestre/1º Módulo/Estrutura de Computadores/Tópico 3 - Redes/Outros dispositivos de rede/Power over Ethernet e Ethernet over Power.md",
+    "1º Semestre/1º Módulo/Estrutura de Computadores/Tópico 3 - Redes/Outros dispositivos de rede/Patch Panel.md",
+    "1º Semestre/1º Módulo/Estrutura de Computadores/Tópico 3 - Redes/Outros dispositivos de rede/Controlador de rede baseado em nuvem.md",
+    "1º Semestre/1º Módulo/Estrutura de Computadores/Tópico 3 - Redes/Protocolos de rede/Protocolos sem fio - ZigBee e Z-Wave.md",
+    "1º Semestre/1º Módulo/Estrutura de Computadores/Tópico 3 - Redes/Protocolos de rede/Gerações de Celular.md",
+    "1º Semestre/1º Módulo/Estrutura de Computadores/Tópico 3 - Redes/Serviços de rede/Serviços de Rede.md",
+    "1º Semestre/1º Módulo/Fundamentos de Sistemas de Informação/Tópico 3 - Conceitos e aplicações de tecnologia da informação/img/Pasted image 20240228163450.png",
+    "1º Semestre/1º Módulo/Fundamentos de Sistemas de Informação/Tópico 3 - Conceitos e aplicações de tecnologia da informação/img/Pasted image 20240228162902.png",
+    "1º Semestre/1º Módulo/Fundamentos de Sistemas de Informação/Tópico 3 - Conceitos e aplicações de tecnologia da informação/img",
+    "1º Semestre/1º Módulo/Fundamentos de Sistemas de Informação/Tópico 3 - Conceitos e aplicações de tecnologia da informação/img/Pasted image 20240228162233.png",
+    "1º Semestre/1º Módulo/Fundamentos de Sistemas de Informação/Tópico 3 - Conceitos e aplicações de tecnologia da informação/Pasted image 20240228154731.png",
+    "1º Semestre/1º Módulo/Estrutura de Computadores/Tópico 4 -Rede Aplicada/Conexão do dispositivo a Rede/Endereçamento de Rede/Endereçamento IPv4.md",
+    "1º Semestre/1º Módulo/Fundamentos de Sistemas de Informação/Tópico 3 - Conceitos e aplicações de tecnologia da informação",
+    "1º Semestre/1º Módulo/Estrutura de Computadores/Tópico 4 -Rede Aplicada/Conexão do dispositivo a Rede/Endereçamento de Rede/Endereçamento MAC.md",
+    "1º Semestre/1º Módulo/Estrutura de Computadores/Tópico 4 -Rede Aplicada/Conexão do dispositivo a Rede/Endereçamento de Rede",
+    "1º Semestre/1º Módulo/Estrutura de Computadores/Tópico 4 -Rede Aplicada/Conexão do dispositivo a Rede",
+    "1º Semestre/1º Módulo/Estrutura de Computadores/Tópico 3 - Redes/Serviços de rede/Servidor DHCP.md",
+    "1º Semestre/1º Módulo/Estrutura de Computadores/Tópico 3 - Redes/Cabos de rede/Cabos de Fibra Óptica.md",
+    "1º Semestre/1º Módulo/Estrutura de Computadores/Tópico 4 -Rede Aplicada",
+    "1º Semestre/1º Módulo/Estrutura de Computadores/Tópico 3 - Redes/Cabos de rede/Cabo de par trançado.md",
+    "1º Semestre/1º Módulo/Estrutura de Computadores/Tópico 3 - Redes/Cabos de rede",
+    "1º Semestre/1º Módulo/Estrutura de Computadores/Tópico 3 - Redes/Outros dispositivos de rede",
+    "Pasted image 20240226153327.png"
+  ]
+}

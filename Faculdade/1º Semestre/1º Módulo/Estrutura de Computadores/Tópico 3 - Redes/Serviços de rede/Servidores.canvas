@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"bf2ff9c70efbf45c","type":"text","text":"Servidores\n","x":-1360,"y":-1010,"width":250,"height":60},
+		{"id":"5f61f45a68d705b0","type":"file","file":"1º Semestre/1º Módulo/Estrutura de Computadores/Tópico 3 - Redes/Serviços de rede/Servidor DHCP.md","x":-978,"y":-1180,"width":400,"height":400},
+		{"id":"e342317150afd22f","type":"file","file":"1º Semestre/1º Módulo/Estrutura de Computadores/Tópico 3 - Redes/Serviços de rede/Servidor de arquivos.md","x":-978,"y":-740,"width":400,"height":400},
+		{"id":"4a91ad31e3030b58","type":"file","file":"1º Semestre/1º Módulo/Estrutura de Computadores/Tópico 3 - Redes/Serviços de rede/Servidor Web.md","x":-978,"y":-1620,"width":400,"height":400},
+		{"id":"8f7a0de4c17696ab","type":"file","file":"1º Semestre/1º Módulo/Estrutura de Computadores/Tópico 3 - Redes/Serviços de rede/Servidor Proxy.md","x":-1412,"y":-1620,"width":355,"height":360},
+		{"id":"76582345206e0368","type":"file","file":"1º Semestre/1º Módulo/Estrutura de Computadores/Tópico 3 - Redes/Serviços de rede/Servidor DNS.md","x":-1417,"y":-700,"width":365,"height":360},
+		{"id":"a17ddf88d96774cb","type":"file","file":"1º Semestre/1º Módulo/Estrutura de Computadores/Tópico 3 - Redes/Serviços de rede/Servidor de e-mail.md","x":-1920,"y":-1180,"width":400,"height":400},
+		{"id":"17ab907ee5ae510c","type":"file","file":"1º Semestre/1º Módulo/Estrutura de Computadores/Tópico 3 - Redes/Serviços de rede/Servidor de autentificação.md","x":-1920,"y":-740,"width":400,"height":400},
+		{"id":"f106cb3e40fd2982","type":"file","file":"1º Semestre/1º Módulo/Estrutura de Computadores/Tópico 3 - Redes/Serviços de rede/Servidor de Impressão.md","x":-1920,"y":-1620,"width":400,"height":400},
+		{"id":"a27a9370a86db8a8","x":-1412,"y":-2000,"width":355,"height":340,"type":"file","file":"1º Semestre/1º Módulo/Estrutura de Computadores/Tópico 3 - Redes/Serviços de rede/Servidor Syslog.md"}
+	],
+	"edges":[
+		{"id":"eef40fc83b44413e","fromNode":"bf2ff9c70efbf45c","fromSide":"right","toNode":"4a91ad31e3030b58","toSide":"left"},
+		{"id":"1d5789bc40ffbdd1","fromNode":"bf2ff9c70efbf45c","fromSide":"right","toNode":"5f61f45a68d705b0","toSide":"left"},
+		{"id":"6239192fa0a8002f","fromNode":"bf2ff9c70efbf45c","fromSide":"right","toNode":"e342317150afd22f","toSide":"left"},
+		{"id":"3df7fb22e8917251","fromNode":"bf2ff9c70efbf45c","fromSide":"top","toNode":"8f7a0de4c17696ab","toSide":"bottom"},
+		{"id":"50fb83ec56155eb8","fromNode":"bf2ff9c70efbf45c","fromSide":"bottom","toNode":"76582345206e0368","toSide":"top"},
+		{"id":"56b86ba559c53901","fromNode":"bf2ff9c70efbf45c","fromSide":"left","toNode":"a17ddf88d96774cb","toSide":"right"},
+		{"id":"f8ca24145d475121","fromNode":"bf2ff9c70efbf45c","fromSide":"left","toNode":"f106cb3e40fd2982","toSide":"right"},
+		{"id":"c07390b02bc678dd","fromNode":"bf2ff9c70efbf45c","fromSide":"left","toNode":"17ab907ee5ae510c","toSide":"right"},
+		{"id":"91ad9705df63270d","fromNode":"bf2ff9c70efbf45c","fromSide":"bottom","toNode":"a27a9370a86db8a8","toSide":"top"}
+	]
+}

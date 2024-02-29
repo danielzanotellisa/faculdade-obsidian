@@ -1,0 +1,55 @@
+
+- Todas as vezes que utilizamos o pc, utilizamos um modelo geral de computação, um modelo de resolução de problemas
+	- Dividido em 3 grandes partes: Entrada (problema), Algoritmo (passo a passo pra resolver o problema) e Output (solução).
+	- Dependendo da saída, ajustes são feitos no algoritmo.
+- Precisamos de alguma forma representar a informação de alguma forma para  algoritmo. Essa forma se da através de bits.
+- Devemos saber a melhor representação para entrada e saída.
+- Mudando a representação podemos facilitar nossa vida, é fundamental.
+- A formula para sabermos qual o maior números que conseguimos representar num sistema binário é $(2^n-1)$.
+- Quando chegamos no limite máximo de representação binária, acontece o chamado Overflow, que é quando tentamos armazenar um número que não temos representatividade suficiente em binários.
+- Usamos binário por ser mais fácil e consumir menos voltagem.
+- O transístor é o responsável por criar os 0s e 1s dentro do computador, 0 é quando interrompe a passagem de energia, 1 é quando permite a passagem de energia.
+- 0s e 1s é uma abstração, dentro do computador só temos energia ou não energia. 
+- Existem dispositivos que representam 2 estados diferentes.
+- O byte é a unidade básica de armazenamento no computador
+- Um byte é o necessário para armazenar uma letra.
+- Mbps sempre vai nos dar um valor em BITS não em BYTES.
+- Encoding: processo de mapeamento, para representarmos uma letra, mapeamos uma letra pra algum padrão de bits permitindo que sejam armazenados, transmitidos e processados por computadores.
+- Um padrão foi criado para que todas as mensagens pudessem ser interpretadas de forma correta, o ASCII
+- O ASCII é limitado, para abranger todas as linguagens atuais e extintas, foi criado o UNICODE.
+- Não é diretamente um encoding mas sim um grande catálogo de símbolos, caracteres e outras coisas. Cada uma com um código numérico único, exclusivo e universal, chamado de "Unicode Code Point".
+- Pode representar 1.114.111 letras, atualmente só representa 149.813, ou seja, possui muito espaço de expansão.
+- O emoji é uma letra mapeada pelo unicode.
+- Quando enviamos um emoji, nós enviamos uma letra, e não uma imagem. 
+- A "letra" do emoji pode variar o desenho dependendo do contexto. Empresas diferentes tem desenhos diferentes para a mesma letra.
+- Os code points não representam um mapeamento direto em binario. Para esse mapeamento o Unicode utiliza diversos esquemas de encoding. Os principais são:
+	- Unicode Transformation Format (UTF)
+		- UTF-8: tamanho variável: utiliza de 1 a 4 blocos de 8 bits para cada code point, compatível com ASCII
+		- UTF-16: tamanho variável, utiliza de 1 a 2 blocos de 16 bits
+		- UTF-32: tamanho variável, utiliza 1 bloco de 32 bits
+	- Universal Coded Character Set (UCS)
+- Para mudarmos a cor do nosso emoji (nos que permitem) são adicionados outros code points em cima do emoji "base".
+- Por exemplo: no emoji "homem com barba" temos um code point que representa o homem, e o outro que representa a cor do seu cabelo, barba e pele.
+- Para representar as cores em um monitor, padronizou-se que a cor de cada pixel da tela é determinada por 24 bits (3Bytes).
+	- R: quantidade de vermelho de 0  a 255
+	- G: quantidade de vermelho de 0  a 255
+	- B: quantidade de vermelho de 0  a 255
+- É um modelo aditivo, onde raios de luz diferentes cores são sobrepostos para dar o resultado final.
+- O 0 representa a ausência de cores, logo, o preto.
+- Quando temos TODAS as cores em 255, temos o branco
+- Pixel = Picture element. Cada imagem é formada por milhares de pixels, pequenos quadradinhos que possuem SOMENTE UMA COR cada.
+- Uma imagem é representada pelo armazenamento de pixels na tela que formam uma imagem só quando vistos de uma certa distância. Criamos um mapeamento de bits, um [bitmap](https://learn.microsoft.com/pt-br/dotnet/desktop/winforms/advanced/types-of-bitmaps?view=netframeworkdesktop-4.8). 
+- Resolução: quantidade de pixels horizontais e verticais que a imagem possui
+- Profundidade de cor: quantidade de bits utilizados para representar cada cor.
+- Calculamos o tamanho da imagem calculando a quantidade de pixels pela quantidade de bits ($resolution*profundidade$)
+- Geralmente não armazenamos uma imagem não comprimida, por isso o peso delas não é o mesmo que deveria ser. 
+- Através da compressão sem perda nós conseguimos armazenar imagens sem perder qualidade porem com um tamanho menor para ocupar menos espaço na memória.
+- Através do MIDI nós podemos SINTETIZAR o som através de instrumentos virtuais.
+- Para gravar um som analógico e transforma-lo em digital nós precisamos de AMOSTRAS (sample rate). Quanto maior for o sample rate (amostras) mais fiel vai ser a gravação. 
+- As amostras são dadas em kHz, um padrão alto de fidelidade é acima de 48.000kHz.
+- Os bits representam a PROFUNDIDADE desse som, quanto maior a quantidade de bits, mais qualidade iremos ter. 
+- O vídeo é uma quantidade de fotos que são passadas por segundo, dando uma ideia de movimento.
+	- A quantidade de fotos é dada pelo FPS
+- Temos compressão intra-frame e inter-frame para vídeo.
+	- intra-frame: como nas imagens
+	- inter-frame: armazena as diferenças entre frames adjacentes 
