@@ -11,8 +11,12 @@
             "id": "70e32609c6bfcdee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "teste.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "teste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "teste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "teste.md"
+              }
             }
           }
         ]
@@ -138,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c163a479831542d2",
+  "active": "70e32609c6bfcdee",
   "lastOpenFiles": [
+    "teste.md",
     "faculdade-obsidian",
     "2024-02-29.md",
     "1º Semestre/1Semestre-faculdade/README.md",
@@ -180,7 +189,6 @@
     "1º Semestre/1º Módulo/Estrutura de Computadores/Tópico 4 -Rede Aplicada",
     "1º Semestre/1º Módulo/Estrutura de Computadores/Tópico 3 - Redes/Cabos de rede/Cabo de par trançado.md",
     "1º Semestre/1º Módulo/Estrutura de Computadores/Tópico 3 - Redes/Cabos de rede",
-    "1º Semestre/1º Módulo/Estrutura de Computadores/Tópico 3 - Redes/Outros dispositivos de rede",
     "Pasted image 20240226153327.png"
   ]
 }
