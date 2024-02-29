@@ -118,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "teste.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -140,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c163a479831542d2",
+  "active": "70e32609c6bfcdee",
   "lastOpenFiles": [
     "teste.md",
     "faculdade-obsidian",
