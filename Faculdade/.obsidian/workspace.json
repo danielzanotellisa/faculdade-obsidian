@@ -11,12 +11,8 @@
             "id": "70e32609c6bfcdee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "teste.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "teste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "teste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +140,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70e32609c6bfcdee",
+  "active": "c163a479831542d2",
   "lastOpenFiles": [
     "teste.md",
     "faculdade-obsidian",
