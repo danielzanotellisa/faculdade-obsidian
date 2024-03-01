@@ -25,3 +25,9 @@ Elas podem ser representadas usando o "/" seguido do numero de bits com valor 1.
 255 . 255 . 255 . 0
 
 No exemplo acima, os 24bits de 255 representam a parte da rede, e o os 8 bits de 0 representam o host.
+
+Formato de um endereço IPv4:
+
+![[Pasted image 20240301155832.png]]
+
+

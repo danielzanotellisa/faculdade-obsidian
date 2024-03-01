@@ -26,3 +26,7 @@ Semelhante ao IPv4, o IPv6 também usa a notação prefixa com o "/" para indica
 O "/64" representa os 4 primeiros segmentos que são a porção da rede.
 
 Todos os dispositivos conectados na mesma rede vão compartilhar o mesmo prefixo de IPv6.
+
+Formato de um endereço IPv6:
+
+![[Pasted image 20240301155921.png]]
