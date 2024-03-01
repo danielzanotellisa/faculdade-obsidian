@@ -13,5 +13,8 @@ tags:
 Basta digitarmos "ipconfig /all"
 ![[Pasted image 20240301160441.png]]
 
-E quando dermos ENTER poderemos ver as informações que queremos.
+E quando dermos ENTER poderemos ver as informações que queremos
 
+![[Pasted image 20240301160735.png]]
+
+*O Windows mostra o endereço MAC como Endereço Físico.*
