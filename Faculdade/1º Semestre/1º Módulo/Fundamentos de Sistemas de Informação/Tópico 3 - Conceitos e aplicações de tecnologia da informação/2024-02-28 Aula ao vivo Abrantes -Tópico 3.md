@@ -1,3 +1,11 @@
+---
+tags:
+  - binarios
+  - hexdecimal
+  - SI
+  - sistemasDeInformação
+  - TI
+---
 
 - Todas as vezes que utilizamos o pc, utilizamos um modelo geral de computação, um modelo de resolução de problemas
 	- Dividido em 3 grandes partes: Entrada (problema), Algoritmo (passo a passo pra resolver o problema) e Output (solução).
