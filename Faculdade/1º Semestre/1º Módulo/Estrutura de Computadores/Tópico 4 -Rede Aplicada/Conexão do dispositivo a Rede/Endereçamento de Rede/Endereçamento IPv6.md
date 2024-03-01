@@ -30,3 +30,4 @@ Todos os dispositivos conectados na mesma rede vão compartilhar o mesmo prefixo
 Formato de um endereço IPv6:
 
 ![[Pasted image 20240301155921.png]]
+
