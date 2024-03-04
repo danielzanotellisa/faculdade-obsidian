@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"938d1b9e7084428c","type":"text","text":"1º Identificar o Problema\n- Com perguntas abertas e fechadas","x":-125,"y":-30,"width":250,"height":60,"color":"2"},
+		{"id":"80139cc763ed663c","type":"text","text":"2º Desenvolver uma teoria\n- Partir de algumas causas comuns de problemas de rede.","x":-125,"y":60,"width":250,"height":60,"color":"6"},
+		{"id":"9939332a62ce0f03","x":-125,"y":160,"width":250,"height":60,"color":"1","type":"text","text":"3º Teste da teoria\n- Depois de desenvolver as teorias, teste-as uma a uma."},
+		{"id":"448928b5770bc990","x":-125,"y":260,"width":250,"height":60,"color":"3","type":"text","text":"4º Estabelecer um plano de ação\n- Depois de determinar a causa exata, estabeleça um plano para resolvê-lo e implementar a solução."},
+		{"id":"2551485ed5dd630a","x":-125,"y":360,"width":250,"height":60,"color":"4","type":"text","text":"5º Verifique a funcionalidade\n\n- Uma vez corrigido o problema, verifique a funcionalidade total e, se aplicável, implemente medidas preventivas."},
+		{"id":"1e863982011f581a","x":-125,"y":460,"width":250,"height":60,"color":"5","type":"text","text":"6º Documente\n-  Na etapa final do processo de solução de problemas, documente suas descobertas, ações e resultados."}
+	],
+	"edges":[
+		{"id":"7f10db5a87a1ed83","fromNode":"938d1b9e7084428c","fromSide":"bottom","toNode":"80139cc763ed663c","toSide":"top"},
+		{"id":"70e5803b80f6fd0c","fromNode":"80139cc763ed663c","fromSide":"bottom","toNode":"9939332a62ce0f03","toSide":"top"},
+		{"id":"7dcba41b260ee462","fromNode":"9939332a62ce0f03","fromSide":"bottom","toNode":"448928b5770bc990","toSide":"top"},
+		{"id":"e29a02209ade7e52","fromNode":"448928b5770bc990","fromSide":"bottom","toNode":"2551485ed5dd630a","toSide":"top"},
+		{"id":"078f6d70f0a9974a","fromNode":"2551485ed5dd630a","fromSide":"bottom","toNode":"1e863982011f581a","toSide":"top"}
+	]
+}
