@@ -11,4 +11,4 @@ Quando clientes se comunicam por e-mail eles não estão se comunicando diretame
 O e-mail suporta três protocolos separados para a operação
 
 - SMTP (Simple Mail Transfer Protocol): para o envio 
-- POP(Post Office Protocol) e IMAP(Internet Message Access Protocol): para a recuperação dos e-mails.
+- POP(Post Office Protocol) e IMAP(Internet Message Access Protocol): para a recuperação dos e-mails. 
