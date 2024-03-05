@@ -28,3 +28,5 @@ Uma variação dos passos apresentados anteriormente:
 - **Modelagem**: cria-se um “esboço” da coisa, de modo que se possa ter uma ideia do todo — qual será o seu aspecto em termos de arquitetura, como as partes constituintes se encaixarão e várias outras características;
 - **Construção**: esta atividade combina geração de código (manual ou automatizada) e testes necessários para revelar erros na codificação;
 - **Emprego**: o software (como uma entidade completa ou como um incremento parcialmente efetivado) é entregue ao cliente, que avalia o produto entregue e fornece feedback, baseado na avaliação.
+
+Outro conceito muito importante aplicado ao desenvolvimento de software são as [[Linguagens de Programação|linguagens de programação]].
