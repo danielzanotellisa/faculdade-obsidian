@@ -41,3 +41,6 @@ A intenção é sempre entregar um software com qualidade dentro do prazo para s
 É fundamental o alinhamento do processo de desenvolvimento do software aos processos de negócio, não se pode construir um software sem conhecimento das particularidades do negócio.
 
 Isso se chama processo de negócio ou processo organizacional: um conjunto de atividades logicamente relacionadas que definem como tarefas organizacionais específicas serão executadas. Refere-se, ainda, às maneiras únicas através das quais o trabalho, as informações e o conhecimento são coordenados em determinada empresa.
+
+![[Pasted image 20240305140616.png]]
+
