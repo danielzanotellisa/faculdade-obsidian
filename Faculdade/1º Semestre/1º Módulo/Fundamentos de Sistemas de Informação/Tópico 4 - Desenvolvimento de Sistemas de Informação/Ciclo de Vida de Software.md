@@ -30,3 +30,26 @@ Uma variação dos passos apresentados anteriormente:
 - **Emprego**: o software (como uma entidade completa ou como um incremento parcialmente efetivado) é entregue ao cliente, que avalia o produto entregue e fornece feedback, baseado na avaliação.
 
 Outro conceito muito importante aplicado ao desenvolvimento de software são as [[Linguagens de Programação|linguagens de programação]].
+
+## Alguns outros modelos de desenvolvimento
+
+É muito importante escolher de forma correta um modelo de desenvolvimento que vá se adequar aos recursos e demanda que temos.
+
+Se te temos algo mais simples, estático e com poucos recursos, como por exemplo, algo para um pequeno comércio, podemos utilizar um modelo mais linear. Onde o produto final só será entregue ao término de todas as atividades. [Temos o Modelo Cascata](https://pt.wikipedia.org/wiki/Modelo_em_cascata) como famoso exemplo.
+
+![[Pasted image 20240305143829.png]]
+
+Há algumas iterações (refluxos) devido a uma maior possibilidade, em algum momento, dos requisitos de negócio mudarem ou, mesmo ainda, não se encontrarem em um ponto ideal de entendimento. À medida que vão sendo identificados, podem evoluir e, junto com eles, a complexidade do produto final, que será entregue também ao final do desenvolvimento.
+
+![[Pasted image 20240305144046.png]]
+
+Temos ainda o fluxo evolutivo, que permite entregarmos parcialmente o produto ao fim do primeiro fluxo.
+
+![[Pasted image 20240305144226.png]]
+
+Essa abordagem é interessante pois permite que os usuários convivam com uma solução parcial para que possam validar seus requisitos e entenderem melhor seus objetos e alinhamento com o ambiente de negócios.
+
+Abordagens famosas que usam esse fluxo:
+- [SCRUM](https://usemobile.com.br/metodologia-scrum-desenvolvimento/)
+- [TDD](https://dev.to/womakerscode/o-que-e-tdd-4b5f#:~:text=TDD%20significa%20Desenvolvimento%20Orientado%20por,do%20XP%20(Extreme%20Programming).)
+
