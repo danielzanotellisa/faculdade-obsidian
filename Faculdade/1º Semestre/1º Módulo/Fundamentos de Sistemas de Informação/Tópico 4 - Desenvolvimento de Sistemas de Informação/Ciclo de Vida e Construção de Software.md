@@ -33,3 +33,11 @@ Precisamos utilizar uma metodologia de construção organizada que pode ser ajus
 - Atividade esforça-se para atingir um objetivo amplo e é utilizada independentemente do campo de aplicação, do tamanho do projeto, da complexidade de esforços ou do grau de rigor com que a engenharia de software será aplicada.
 - Ação envolve um conjunto de tarefas que resultam num artefato de software fundamental
 - Tarefa se concentra em um objetivo pequeno, porém, bem definido e produz um resultado tangível. 
+
+O processo é uma abordagem adaptável que possibilita às pessoas realizar o trabalho de selecionar e escolher o conjunto apropriado de ações e tarefas. 
+
+A intenção é sempre entregar um software com qualidade dentro do prazo para satisfazer àqueles que patrocinaram sua criação e àqueles que irão utilizá-lo.
+
+É fundamental o alinhamento do processo de desenvolvimento do software aos processos de negócio, não se pode construir um software sem conhecimento das particularidades do negócio.
+
+Isso se chama processo de negócio ou processo organizacional: um conjunto de atividades logicamente relacionadas que definem como tarefas organizacionais específicas serão executadas. Refere-se, ainda, às maneiras únicas através das quais o trabalho, as informações e o conhecimento são coordenados em determinada empresa.
