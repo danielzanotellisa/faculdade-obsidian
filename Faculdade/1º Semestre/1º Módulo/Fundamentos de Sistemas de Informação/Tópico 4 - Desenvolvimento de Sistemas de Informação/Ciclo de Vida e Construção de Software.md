@@ -25,3 +25,11 @@ O gráfico acima mostra duas curvas: a ideal, que deveria acontecer com todo sof
 - Eles são construídos de forma personalizada, sob encomenda, pois sempre haverá necessidades específicas de cada organização.
 
 
+## Produção de Software
+
+Precisamos utilizar uma metodologia de construção organizada que pode ser ajustada e melhorada com o tempo. Chamamos isso de **Processo de Desenvolvimento de Software**.
+
+- Processo é um conjunto de atividades, ações e tarefas realizadas na criação de algum produto de trabalho.
+- Atividade esforça-se para atingir um objetivo amplo e é utilizada independentemente do campo de aplicação, do tamanho do projeto, da complexidade de esforços ou do grau de rigor com que a engenharia de software será aplicada.
+- Ação envolve um conjunto de tarefas que resultam num artefato de software fundamental
+- Tarefa se concentra em um objetivo pequeno, porém, bem definido e produz um resultado tangível. 
