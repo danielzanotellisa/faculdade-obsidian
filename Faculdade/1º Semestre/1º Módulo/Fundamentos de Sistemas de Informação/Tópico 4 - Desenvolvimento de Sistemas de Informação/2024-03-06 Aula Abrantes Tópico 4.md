@@ -47,3 +47,4 @@ tags:
 - O Brasil possui uma avaliação <span style="color:#d97f36">BRASILEIRA</span>, chamada [<span style="color:#d97f36">MPS.BR</span>](https://www.oficinadanet.com.br/artigo/desenvolvimento/melhoria-de-processos-do-software-brasileiro--mpsbr).
 - Podemos comparar essas empresas avaliadora como um Guia de Estrela Michellin.
 - Apesar de ser importante buscar essas certificações, quem decide de fato se um software é bom é o <span style="color:#d97f36">CLIENTE</span>, o <span style="color:#d97f36">USUÁRIO</span>. 
+
