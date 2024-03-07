@@ -29,6 +29,6 @@ Eles viabilizam a construção de uma<span style="color:#d97f36"> padronizada in
 
 Links de referencias extras para estudo:
 
-- [Revista Unilasalle]([https://revistas.unilasalle.edu.br/index.php/desenvolve/article/view/926/787](https://revistas.unilasalle.edu.br/index.php/desenvolve/article/view/926/787))
+- [Revista Unilasalle](https://revistas.unilasalle.edu.br/index.php/desenvolve/article/view/926/787)
 - [Senior](https://www.senior.com.br/sistema-erp-o-que-e-e-como-funciona)
 - [Erpflex Youtube](https://www.youtube.com/watch?v=-iO-uKoN1DY) 
