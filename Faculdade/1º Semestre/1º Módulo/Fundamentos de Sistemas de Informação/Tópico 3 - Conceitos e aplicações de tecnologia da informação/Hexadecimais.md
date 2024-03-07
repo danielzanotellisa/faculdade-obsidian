@@ -21,7 +21,7 @@ Nesse caso usamos uma base 16 para representar números muito grandes.
 ---
 
 Para realizar essa conversão basta dividirmos o numero por que queremos por 16 e alinharmos os seus restos até que os restos sejam 0 ou o número n seja mais divisível por 16.
-![](Pasted%20image%2020240228162233.png)
+![](./img/Pasted%20image%2020240228162233.png)
 Caso o resto seja MAIOR que 9, usaremos a letra correspondente a ele, representado na tabela acima.
 
 3798 para hexadecimal:

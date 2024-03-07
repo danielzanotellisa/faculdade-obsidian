@@ -12,9 +12,9 @@ tags:
   - Firewall
   - Configuração
 ---
-![](Pasted%20image%2020240304165957.png)
+![](./img/Pasted%20image%2020240304165957.png)
 
-![](Pasted%20image%2020240304170006.png)
+![](./img/Pasted%20image%2020240304170006.png)
 
-![](Pasted%20image%2020240304170015.png)
+![](./img/Pasted%20image%2020240304170015.png)
 

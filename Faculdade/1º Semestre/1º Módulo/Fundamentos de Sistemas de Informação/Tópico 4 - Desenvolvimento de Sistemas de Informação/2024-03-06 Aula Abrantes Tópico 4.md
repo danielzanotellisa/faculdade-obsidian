@@ -40,10 +40,10 @@ tags:
 	- Temos também a ISO 14598 que é uma família de normas.
 - Misturamos todas elas para tentar chegar numa visão geral baseado nas normas de qualidade listadas. 
 - Dividimos a avaliação de qualidade em alguns tópicos.
-	- ![](Pasted%20image%2020240306202655.png)
+	- ![](./img/Pasted%20image%2020240306202655.png)
 - Essas normas são pagas.
 - O [<span style="color:#d97f36">CMMI</span>](http://www.isdbrasil.com.br/o-que-e-cmmi.php) é oque qualifica e avalia a nossa empresa baseado na qualidade do nosso software.
-	- ![](Pasted%20image%2020240306203548.png)
+	- ![](./img/Pasted%20image%2020240306203548.png)
 - O Brasil possui uma avaliação <span style="color:#d97f36">BRASILEIRA</span>, chamada [<span style="color:#d97f36">MPS.BR</span>](https://www.oficinadanet.com.br/artigo/desenvolvimento/melhoria-de-processos-do-software-brasileiro--mpsbr).
 - Podemos comparar essas empresas avaliadora como um Guia de Estrela Michellin.
 - Apesar de ser importante buscar essas certificações, quem decide de fato se um software é bom é o <span style="color:#d97f36">CLIENTE</span>, o <span style="color:#d97f36">USUÁRIO</span>. 
