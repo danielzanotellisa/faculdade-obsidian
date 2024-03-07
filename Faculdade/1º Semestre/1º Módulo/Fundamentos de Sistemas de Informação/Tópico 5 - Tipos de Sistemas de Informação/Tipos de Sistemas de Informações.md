@@ -42,4 +42,16 @@ Existe ainda os [[DSS|DSS]] (Decision Suporte System).
 
 ![](img/Pasted%20image%2020240307103047.png)
 
-Como visto na imagem acima, existem muitos outros
+Como visto na imagem acima, existem muitos outros sistemas de informação que são muito importantes para uma organização, atuando em níveis diferentes ou as vezes em todos os níveis.
+
+Do ponto de vista de **<span style="font-weight:bold; color:#d97f36">abrangência da organização</span>**, temos alguns que se destacam como os: [Enterprise Resource Planning (ERP)](Enterprise%20Resource%20Planning%20(ERP).md), os [Customer Relationship Management (CRM)](Customer%20Relationship%20Management%20(CRM).md) e o [Supply Chain Management (SCM)](Supply%20Chain%20Management%20(SCM).md).
+
+Ainda na classificação quanto à abrangência da organização, os <span style="color:#d97f36">Sistemas de Apoio a Executivos - SAE</span> se propõem a "acumular" o conhecimento obtido no histórico de decisões da empresa, criando uma <span style="color:#d97f36">expertise em ações</span> para que subsidiem ações futuras com <span style="color:#d97f36">menor probabilidade de erros</span> a seus gerentes sênior.
+
+## Sistemas de Informações Básicos
+
+Alguns sistemas de informações existentes nas empresas tratam de softwares de apoio às funções realizadas pelo funcionários.
+
+São chamados de <span style="color:#d97f36">Sistemas de Informações de Básicos (Office)</span>. São softwares que ajudam na edição de textos, planilhas, apresentações ou acesso a internet, que é o caso dos navegadores.
+
+Esses sistemas devem fazer parte da <span style="color:#d97f36">gestão da Tecnologia</span> pois sofrem constantes atualizações com novos recursos muito úteis às funções dos empregados, <span style="color:#d97f36">fornecendo-lhes maior produtividade</span>.
