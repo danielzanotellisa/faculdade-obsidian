@@ -42,3 +42,4 @@ Existe ainda os [[DSS|DSS]] (Decision Suporte System).
 
 ![](img/Pasted%20image%2020240307103047.png)
 
+Como visto na imagem acima, existem muitos outros
