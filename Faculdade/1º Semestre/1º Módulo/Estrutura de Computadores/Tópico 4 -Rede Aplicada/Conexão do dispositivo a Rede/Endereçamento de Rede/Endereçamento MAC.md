@@ -21,4 +21,4 @@ Roteador possuem dois endereços MACs, um para cada rede a que ele está conecta
 
 Possíveis formatos de um endereço MAC:
 
-![[Pasted image 20240301155814.png]]
+![](./img/Pasted%20image%2020240301155814.png)

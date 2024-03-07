@@ -26,7 +26,7 @@ No exemplo acima, os 24bits de 255 representam a parte da rede, e o os 8 bits de
 
 Formato de um endereço IPv4:
 
-![[Pasted image 20240301155832.png]]
+![](./img/Pasted%20image%2020240301155832.png)
 
 
 Quando configuramos manualmente um dispositivo com um endereço IPv4, usamos o formato decimal. Cada número separado por um ponto é chamado de octeto porque representa 8 bits.
@@ -35,9 +35,9 @@ Sabemos que o endereço IPv4 é composto por duas partes: a primeira que identif
 
 A mascara de sub-rede é usada pelo dispositivo para determinar a rede.
 
-![[Pasted image 20240301162210.png]]
+![](./img/Pasted%20image%2020240301162210.png)
 
-![[Pasted image 20240301161715.png]]
+![](./img/Pasted%20image%2020240301161715.png)
 
 No exemplo acima, a parte da rede é composta pelos 3 primeiros octetos: 192.168.200 enquanto o dispositivo é identificado pelo ultimo octeto: ".8", essa é a parte exclusiva desse dispositivo na rede 192.168.200.0.
 

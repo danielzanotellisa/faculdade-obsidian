@@ -14,7 +14,7 @@ Ninguém imaginava que os softwares criados na época teriam de ser corrigidos, 
 
 Softwares mal desenvolvidos geram muitos problemas e necessidades de manutenções futuras.
 
-![[Pasted image 20240305134132.png]]
+![](Pasted%20image%2020240305134132.png)
 
 O gráfico acima mostra duas curvas: a ideal, que deveria acontecer com todo software e a curva descrita como real, que representa melhor oque acontece quando algo precisa ser mudado no software, e que esse comportamento se repete enquanto o software existir.
 
@@ -42,5 +42,5 @@ A intenção é sempre entregar um software com qualidade dentro do prazo para s
 
 Isso se chama processo de negócio ou processo organizacional: um conjunto de atividades logicamente relacionadas que definem como tarefas organizacionais específicas serão executadas. Refere-se, ainda, às maneiras únicas através das quais o trabalho, as informações e o conhecimento são coordenados em determinada empresa.
 
-![[Pasted image 20240305140616.png]]
+![](Pasted%20image%2020240305140616.png)
 

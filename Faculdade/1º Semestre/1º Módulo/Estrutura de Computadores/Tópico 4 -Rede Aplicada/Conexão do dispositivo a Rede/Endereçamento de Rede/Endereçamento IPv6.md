@@ -18,7 +18,7 @@ Podemos comprimir esse endereço usando duas regras:
 
   - Os Zeros iniciais de cada segmento de 16 bits podem ser omitidos
   - Um segmento que houver apenas 0s pode ser substituído por "::"
-  ![[Pasted image 20240301162629.png]]
+  ![](./img/Pasted%20image%2020240301162629.png)
 
 Semelhante ao IPv4, o IPv6 também usa a notação prefixa com o "/" para indicar a porção da rede e a do host
 
@@ -30,5 +30,5 @@ Todos os dispositivos conectados na mesma rede vão compartilhar o mesmo prefixo
 
 Formato de um endereço IPv6:
 
-![[Pasted image 20240301155921.png]]
+![](./img/Pasted%20image%2020240301155921.png)
 

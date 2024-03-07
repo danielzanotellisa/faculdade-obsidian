@@ -18,5 +18,5 @@ Podemos assimilar o nosso endereço MAC com a nossa digital, já que ele vem cod
 
 O endereçamento IP é atribuído por administradores de rede com base na localização dentro da rede, caso o dispositivo seja movido de uma rede para outra, provavelmente seu endereço IP vai mudar.
 
-![[Pasted image 20240301155939.png]]
+![](./img/Pasted%20image%2020240301155939.png)
 

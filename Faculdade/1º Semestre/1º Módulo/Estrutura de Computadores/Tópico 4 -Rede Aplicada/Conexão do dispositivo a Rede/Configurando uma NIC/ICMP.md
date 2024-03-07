@@ -16,11 +16,11 @@ Podemos por exemplo, usar o comando ***ping*** para testar a conexão entre dois
 
 Para ver uma lista de opções que podem ser usadas, podemos digitar ***ping /?***.
 
-![[Pasted image 20240304110844.png]]
+![](./img/Pasted%20image%2020240304110844.png)
 
 O ping funciona enviando uma solicitação de eco ICMP para o endereço IP digitado, caso o dispositivo que corresponde ao endereço IP digitado esteja acessível, o dispositivo receptor retornará uma mensagem de resposta de eco ICMP para confirmar a conectividade.
 
 É possível usar o ***ping*** para testar conectividade com um site digitando o nome de domínio. O computador primeiro usará o DNS para encontrar o endereço IP e depois enviar a solicitação de eco ICMP para esse endereço IP.
 
-![[Pasted image 20240304111126.png]]
+![](./img/Pasted%20image%2020240304111126.png)
 

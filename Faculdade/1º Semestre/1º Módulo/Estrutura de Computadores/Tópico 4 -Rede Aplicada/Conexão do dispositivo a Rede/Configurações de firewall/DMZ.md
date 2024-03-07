@@ -17,7 +17,7 @@ Servidores de e-mail, web ou um servidor FTP são colocados geralmente na DMZ pa
 
 Em um roteador sem fio, você pode criar uma DMZ para um dispositivo encaminhando todas as portas de tráfego da Internet para um endereço IP ou endereço MAC específico. Um servidor, uma máquina de jogo, ou uma câmera web podem estar na DMZ, para que o dispositivo possa ser acessado por qualquer pessoa.
 
-![[Pasted image 20240304153758.png]]
+![](./img/Pasted%20image%2020240304153758.png)
 
-![[Pasted image 20240304153817.png]]
+![](./img/Pasted%20image%2020240304153817.png)
 

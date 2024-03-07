@@ -11,15 +11,15 @@ tags:
   - EndereçamentoDeRede
   - Configuração
 ---
-![[Pasted image 20240304165803.png]]
+![](Pasted%20image%2020240304165803.png)
 
-![[Pasted image 20240304165814.png]]
+![](Pasted%20image%2020240304165814.png)
 
-![[Pasted image 20240304165823.png]]
+![](Pasted%20image%2020240304165823.png)
 
-![[Pasted image 20240304165835.png]]
+![](Pasted%20image%2020240304165835.png)
 
-![[Pasted image 20240304165844.png]]
+![](Pasted%20image%2020240304165844.png)
 
 
 

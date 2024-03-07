@@ -16,4 +16,4 @@ Um software de aplicativo pode ser por exemplo um editor de texto, que pode tant
 
 Um software básico é um sistema operacional, que da a base para que um software de aplicativo tenha os recursos necessários para poder realizar todas as suas tarefas e ações.
 
-![[Pasted image 20240228163450.png]]
+![](Pasted%20image%2020240228163450.png)

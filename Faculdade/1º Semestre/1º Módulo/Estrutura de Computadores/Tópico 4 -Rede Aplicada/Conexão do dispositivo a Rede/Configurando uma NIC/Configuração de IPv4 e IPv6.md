@@ -14,7 +14,7 @@ As configurações de endereço IP devem ser feitas após os drivers da NIC esta
 
 Após conectar fisicamente um computador Windows à rede, ele enviará automaticamente uma solicitação de endereçamento IPv4 ao servidor DHCP, caso um servidor DHCP esteja disponível, o computador receberá uma mensagem com todas as suas informações de endereçamento IPv4
 
-![[Pasted image 20240304110131.png]]
+![](./img/Pasted%20image%2020240304110131.png)
 
 Esse comportamento dinâmico também é encontrado em smartphones, tablets, consoles e outros dispositivos. 
 

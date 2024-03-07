@@ -14,8 +14,8 @@ Atribuiríamos um endereço IP exclusivo para cada host na mesma rede, isso é c
 
 Endereçamento Estático IPv4:
 
-![[Pasted image 20240301163029.png]]
+![](./img/Pasted%20image%2020240301163029.png)
 
 Endereçamento estático IPv6:
 
-![[Pasted image 20240301163101.png]]
+![](./img/Pasted%20image%2020240301163101.png)

@@ -24,6 +24,6 @@ Se o seu computador windows não puder se comunicar com um servidor DHCP para ob
 
 Assim como o IPv4, o endereço local do link IPv6 permite que o dispositivo se comunique com outros dispositivos habilitados para IPv6 na mesma rede e somente nessa rede. Diferentemente do IPv4, todos os dispositivos habilitados para IPv6 precisam ter um endereço local de link. Os endereços locais de link IPv6 estão no intervalo de fe80:: a febf::. Por exemplo, na figura, os links para outras redes estão inativos (não conectados) como notados pelos Xs vermelhos. No entanto, todos os dispositivos na LAN ainda podem usar endereços IPv6 locais de link para se comunicarem.
 
-![[Pasted image 20240301164722.png]]
+![](./img/Pasted%20image%2020240301164722.png)
 
 **NOTA:** *Diferentemente dos endereços locais de link IPv4, os endereços locais de link IPv6 são usados em uma variedade de processos, incluindo protocolos de descoberta de rede e protocolos de roteamento.

@@ -17,7 +17,7 @@ Em um pequeno escritório ou rede doméstica, um roteador sem fio pode ser sufic
 
 Conforme mostrado na rede mesh sem fio na figura, dois pontos de acesso são configurados com as mesmas configurações da WLAN que configurarmos em nosso roteador.
 
-![[Pasted image 20240304141844.png]]
+![](./img/Pasted%20image%2020240304141844.png)
 
 Importante lembrar do canal que utilizamos para que possamos selecionar um diferente para cada AP para que não haja interferência de sinal.
 

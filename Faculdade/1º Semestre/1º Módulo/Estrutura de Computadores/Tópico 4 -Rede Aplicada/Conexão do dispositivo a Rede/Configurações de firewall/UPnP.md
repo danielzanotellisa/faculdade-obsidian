@@ -18,6 +18,6 @@ Além disso, possui várias vulnerabilidades de segurança, como por exemplo, um
 
 Muitos roteadores sem fio domésticos e de pequenos escritórios têm o UPnP ativado por padrão.
 
-![[Pasted image 20240304152809.png]]
+![](./img/Pasted%20image%2020240304152809.png)
 
 

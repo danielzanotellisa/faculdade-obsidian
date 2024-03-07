@@ -16,5 +16,5 @@ Semelhante a [[Filtragem de endereços MAC|filtragem de endereços MAC]], podemo
 
 Em um roteador sem fio, isso geralmente é feito usando uma lista de acesso ou política de acesso, conforme mostrado na figura. Consulte a documentação do seu roteador sem fio para obter etapas específicas ou procure um tutorial na Internet.
 
-![[Pasted image 20240304161517.png]]
+![](./img/Pasted%20image%2020240304161517.png)
 

@@ -8,21 +8,21 @@ tags:
   - MAC
   - IP
 ---
-![[Pasted image 20240304165416.png]]
+![](Pasted%20image%2020240304165416.png)
 
-![[Pasted image 20240304165435.png]]
+![](Pasted%20image%2020240304165435.png)
 
-![[Pasted image 20240304165445.png]]
+![](Pasted%20image%2020240304165445.png)
 
-![[Pasted image 20240304165503.png]]
+![](Pasted%20image%2020240304165503.png)
 
-![[Pasted image 20240304165519.png]]
+![](Pasted%20image%2020240304165519.png)
 
-![[Pasted image 20240304165534.png]]
+![](Pasted%20image%2020240304165534.png)
 
-![[Pasted image 20240304165547.png]]
+![](Pasted%20image%2020240304165547.png)
 
-![[Pasted image 20240304165557.png]]
+![](Pasted%20image%2020240304165557.png)
 
 
 

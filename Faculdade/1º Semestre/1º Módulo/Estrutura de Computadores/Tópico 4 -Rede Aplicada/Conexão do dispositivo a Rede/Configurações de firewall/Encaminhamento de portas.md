@@ -17,7 +17,7 @@ Oque o encaminhamento de portas faz é: Enviar o tráfego de uma rede externa pa
 
 Quando o tráfego chega no roteador, o roteador determina se o tráfego deverá ser encaminhado para um determinado dispositivo, com base no número da porta encontrado com o tráfego.
 
-![[Pasted image 20240304160740.png]]
+![](./img/Pasted%20image%2020240304160740.png)
 
 
 

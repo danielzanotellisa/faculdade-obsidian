@@ -15,7 +15,7 @@ Fazendo isso, reduzimos a possibilidade de atribuir endereços IP duplicados ou 
 
 Por padrão, a maioria dos dispositivos host está configurada para solicitar endereçamento IP de um servidor DHCP.
 
-![[Pasted image 20240301163756.png]]
+![](./img/Pasted%20image%2020240301163756.png)
 
 Quando o dispositivo está configurado para receber o endereço IP automaticamente, perdemos a possibilidade de fazer esse processo manualmente.
 
