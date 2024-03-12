@@ -1,0 +1,6 @@
+---
+tags:
+  - sistemasDeInformação
+  - SI
+  - IA
+---
