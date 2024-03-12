@@ -36,3 +36,12 @@ Consiste na garantia de que as informações estejam acessíveis às pessoas e a
 
 É a propriedade de que a informação não esteja disponível ou revelada a indivíduos, entidades ou processos não autorizados.
 
+---
+
+Além das características básicas associadas à segurança, temos ainda <span style="color:#d97f36">criticidade</span> que é a classificação da informação com base na integridade, confidencialidade e disponibilidade.
+
+O <span style="color:#d97f36">não-repúdio</span> ou <span style="color:#d97f36">irretratabilidade</span> como sendo a garantia de que uma pessoa não consiga negar a autoria ou envio de uma informação.
+
+E a <span style="color:#d97f36">proporcionalidade</span>, em que a organização, em seu poder discricionário(decisão), buscará subsídio na forma da lei.
+
+![](../Tópico%206%20-%20Mercado%20de%20Tecnologia%20da%20Informação%20-%20TI/img/Pasted%20image%2020240312082458.png)
