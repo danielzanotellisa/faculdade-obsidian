@@ -19,3 +19,20 @@ Precisamos mensurar um grau de importância aos diferentes tipos de informaçõe
 ## Definindo Segurança da Informação
 
 A <span style="color:#d97f36">Segurança da Informação</span> visa garantir a <span style="color:#d97f36">integridade</span>, <span style="color:#d97f36">confidencialidade</span>, <span style="color:#d97f36">autenticidade</span> e <span style="color:#d97f36">disponibilidade</span> das informações processadas pela instituição, levando-se em consideração seu <span style="color:#d97f36">nível de sensibilidade</span>.
+
+### Integridade
+
+A manutenção da integridade pressupõe a garantia da não violação dos dados com intuito de alteração, gravação ou exclusão, seja ela acidental ou proposital.
+
+### Autenticidade
+
+Refere-se à garantia da veracidade da fonte das informações, por meio dela, podemos confirmar a identidade da pessoa ou entidade que presta as informações.
+
+### Disponibilidade
+
+Consiste na garantia de que as informações estejam acessíveis às pessoas e aos processos autorizados, a qualquer momento requerido. Manter a disponibilidade de informações pressupõe garantir a prestação contínua de serviço, sem interrupções no fornecimento de informações para quem é de direito.
+
+### Confidencialidade 
+
+É a propriedade de que a informação não esteja disponível ou revelada a indivíduos, entidades ou processos não autorizados.
+
