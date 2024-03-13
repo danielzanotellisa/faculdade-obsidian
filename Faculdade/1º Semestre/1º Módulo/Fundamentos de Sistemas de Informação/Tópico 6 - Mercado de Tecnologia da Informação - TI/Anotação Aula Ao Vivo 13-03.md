@@ -6,7 +6,7 @@ tags:
 
 - Para tomar uma boa decisão, é necessário entender:
 	- <span style="color:#d97f36">Processos</span> da empresa
-	- <span style="color:#d97f36">Softwares</span> disponíveis 
+	- <span style="color:#d97f36">Softwares</span> disponíveis (CUIDADO COM PIRATARIA)
 	- <span style="color:#d97f36">Hardware</span> necessário(servidor, clientes e rede)
 	- Necessidade de <span style="color:#d97f36">telecomunicação</span> 
 	- <span style="color:#d97f36">Custos</span> (software, hardware, rede, implementação, treinamento, manutenção)
