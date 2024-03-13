@@ -13,4 +13,24 @@ tags:
 	- <span style="color:#d97f36">Restrições</span> existentes
 	- <span style="color:#d97f36">Tendências</span> entre as empresas e no mercado fornecedor
 	- Retorno sobre o investimento(<span style="color:#d97f36">ROI - Return Over Investiment</span>).
+- O quê estudar?
+	- O currículo do curso
+	- Estudar coisas extras
+		- Graduação
+		- Certificações de empresas e organizações
+			- Microsoft
+			- Google
+			- Amazon
+			- Oracle
+			- Cisco
+		- Dados
+			- Analytics
+			- Data Science
+		- Softwares
+			- Sistemas Operacionais
+			- SGBD
+			- Segurança
+		- Nuvem
+			- Redes
+			- Cloud Computing
 - 
