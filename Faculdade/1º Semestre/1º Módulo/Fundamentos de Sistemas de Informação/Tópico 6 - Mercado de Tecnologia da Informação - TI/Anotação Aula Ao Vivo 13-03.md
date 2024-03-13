@@ -33,4 +33,12 @@ tags:
 		- Nuvem
 			- Redes
 			- Cloud Computing
-- 
+- Como mostrar ao mercado?
+	- Linkedin
+	- Github
+		- Portfólio pessoal
+		- Participação em projetos
+	- Site/blog pessoal
+	- Canal no Youtube
+	- Redes Sociais
+		- CUIDADO COM OQUE VOCÊ POSTA
