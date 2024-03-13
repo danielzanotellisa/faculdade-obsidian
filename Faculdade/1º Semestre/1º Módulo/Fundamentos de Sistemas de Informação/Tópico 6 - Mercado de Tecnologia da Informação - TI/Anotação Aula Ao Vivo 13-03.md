@@ -18,10 +18,10 @@ tags:
 	- Estudar coisas extras
 		- Graduação
 		- Certificações de empresas e organizações
-			- Microsoft
-			- Google
-			- Amazon
-			- Oracle
+			- <span style="color:#d97f36">Microsoft</span>
+			- <span style="color:#d97f36">Google</span>
+			- <span style="color:#d97f36">Amazon</span>
+			- <span style="color:#d97f36">Oracle</span> 
 			- Cisco
 		- Dados
 			- Analytics
