@@ -16,6 +16,7 @@ tags:
 - O quê estudar?
 	- O currículo do curso
 	- Estudar coisas extras
+		- Sikt Learn, Python, R
 		- Graduação
 		- Certificações de empresas e organizações
 			- <span style="color:#d97f36">Microsoft</span>
