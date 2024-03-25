@@ -14,7 +14,7 @@
 - Menu de navegação
 - Assistente de voz Google Now
 - Backup Remoto por meio do Google Sync
-
+- Rooting para acessar ter acesso privilegiado ao código
 
 ## <span style="color:#d97f36">iOS</span> 
 
@@ -26,3 +26,5 @@
 - Não possui menu de navegação
 - Assistente de voz Siri
 - Backup Remoto por meio do iCloud
+- Não permite verificação automática dos arquivos por antivírus 
+- Jailbreak para remover restrições do fabricante
