@@ -13,6 +13,7 @@
 - Permite instalação de aplicativos fora da playstore]
 - Menu de navegação
 - Assistente de voz Google Now
+- Backup Remoto por meio do Google Sync
 
 
 ## <span style="color:#d97f36">iOS</span> 
@@ -24,3 +25,4 @@
 - Não permite a instalação de aplicativos fora da AppStore
 - Não possui menu de navegação
 - Assistente de voz Siri
+- Backup Remoto por meio do iCloud
