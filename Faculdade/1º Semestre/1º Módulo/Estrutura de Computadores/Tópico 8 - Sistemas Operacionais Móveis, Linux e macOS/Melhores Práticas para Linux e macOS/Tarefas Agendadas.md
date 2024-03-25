@@ -1,1 +1,0 @@
-#EstruturaDeComputadores #SIstemaOperacional #Linux #macOS 
