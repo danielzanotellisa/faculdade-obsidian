@@ -14,9 +14,9 @@
 
 ## Valores de Permissão
 
-![](../../../../../../Pasted%20image%2020240325132837.png)
+![](../../img/Pasted%20image%2020240325132837.png)
 
-![](../../../../../../Pasted%20image%2020240325132850.png)
+![](../../img/Pasted%20image%2020240325132850.png)
 
 - <span style="color:#d97f36">777 (-rwxrwxrwx)</span> - Não há restrições, qualquer um pode ler, gravar ou executar o arquivo
 - <span style="color:#d97f36">755 (-rwxr-xr-x)</span> - O proprietário tem todas as permissões, os outros só podem ler e executar o arquivo
