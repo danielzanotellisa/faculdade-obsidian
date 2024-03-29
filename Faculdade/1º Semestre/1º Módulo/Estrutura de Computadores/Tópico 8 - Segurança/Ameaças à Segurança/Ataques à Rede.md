@@ -35,3 +35,9 @@
 		- Tipo um DDoS que explora o handshake triplo do TCP
 		- Envia solicitações de SYN falsas contínuas ao destino
 		- O destino é sobrecarregado e não é possível estabelecer solicitações de SYN válidas, criando um ataque DoS
+- O termo "Zero Day" é usado como referência à quantidade de tempo que um fornecedor teve que solucionar a vulnerabilidade
+	- "Zero hour" é o momento em que a exploração é descoberta
+	- A rede permanece vulnerável entre o dia zero e o tempo que o fornecedor leva para desenvolver uma solução
+- Uma proteção em camadas é uma ótima abordagem para se proteger de ataques a rede em uma empresa
+	- Várias formas de proteção são usadas em diferentes lugares da rede, como VPN, Firewalls, servidores AAA, filtros de gateway nos e-mails.
+	- ![](../img/Pasted%20image%2020240329124712.png)
