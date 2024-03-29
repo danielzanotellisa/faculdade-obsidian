@@ -18,3 +18,20 @@
 		- Botnets permanecem inativos até que sejam instruídos pelo manipulador
 			- Podem ser usados em SPAM e phising
 	- Envenenamento de DNS
+		- Registros de DNS falsos redirecionam para servidores mal intencionados
+	- Man in the Middle 
+		- Intercepta a comunicação entre dois hosts
+		- Pode capturar pacotes e visualizar o conteúdo, manipular e muito mais
+		- Podem ser criados usando um ataque de spoofing de ARP
+	- Replay
+		- Uma repetição de um ataque de falsificação
+			- Capturou um pacote autenticado
+			- Alterou o conteúdo
+			- Enviou para o destino original
+		- O host de destino aceita o pacote alterado como autêntico
+	- Spoofing
+		- Falsifica os endereços IP para obter acesso aos recursos
+	- Inundação de SYN
+		- Tipo um DDoS que explora o handshake triplo do TCP
+		- Envia solicitações de SYN falsas contínuas ao destino
+		- O destino é sobrecarregado e não é possível estabelecer solicitações de SYN válidas, criando um ataque DoS
