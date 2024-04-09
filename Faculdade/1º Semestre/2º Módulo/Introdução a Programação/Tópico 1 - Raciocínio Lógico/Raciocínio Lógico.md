@@ -3,7 +3,7 @@
 
 - O raciocínio lógico gira em torno da capacidade de resolução de problemas a partir das informações dadas em determinado contexto
 - Uma operação lógica é composta de premissas que levam à uma conclusão
-	- ![](../../../../Pasted%20image%2020240409153221.png)
+	- ![](img/Pasted%20image%2020240409153221.png)
 	- Proposições são conjunto de palavras ou símbolos que exprimem um pensamento de sentido completo. Elas afirmam fatos ou exprimem juízos que formamos a respeito de determinados entes
 
 ### Lógica Aristotélica
@@ -16,7 +16,7 @@
 - Silogismo é a máxima da lógica aristotélica
 	- Uma estrutura de dedução baseada em premissas e tem uma conclusão
 	- Deve apresentar uma premissa maior, uma premissa menor e a partir delas uma conclusão
-	- ![](../../../../Pasted%20image%2020240409154124.png)
+	- ![](img/Pasted%20image%2020240409154124.png)
 - Existem outros tipos de lógica, como a dialética, que não é muito usada no mundo computacional
 
 ### Lógica Matemática
@@ -35,5 +35,15 @@
 - Operações feitas a partir de proposições são operações lógicas
 	- Segue as regras do cálculo proposicional
 	- As operações fundamentais são negação, conjunção, disjunção, condicional e bi condicional.
-		- <span style="color:#d97f36">Operação de Negação</span>: Representa o valor lógico oposto de uma dada proposição![](../../../../Pasted%20image%2020240409155350.png)
-		- 
+		- <span style="color:#d97f36">Operação de Negação</span>: Representa o valor lógico oposto de uma dada proposição
+			 ![](img/Pasted%20image%2020240409155350.png)
+		- <span style="color:#d97f36">Operação de Conjunção</span>: Utilizada quando existe o conectivo "e" entre as frases, será verdadeira quando todas as proposições forem verdadeiras (se, e somente se)
+			 ![](img/Pasted%20image%2020240409160039.png)
+		- <span style="color:#d97f36">Operação de Disjunção Inclusiva</span>: Utilizada quando existe o conectivo "ou" entre as proposições, será verdadeira quando pelo uma das proposições for verdadeira
+			 ![](img/Pasted%20image%2020240409160257.png)
+		- <span style="color:#d97f36">Operação de Disjunção Exclusiva</span>: Diferente da Inclusiva, o resultado só será verdadeiro quando somente UMA das proposições forem verdadeiras
+			 ![](img/Pasted%20image%2020240409160553.png)
+		- <span style="color:#d97f36">Operação Condicional</span>: Realizada quando a proposição utiliza o conectivo "se... então...". O resultado dessa operação só será falso quando a primeira proposição for verdadeira e a consequente for falsa
+			 ![](img/Pasted%20image%2020240409160852.png)
+		- <span style="color:#d97f36">Operação Bi Condicional</span>: Indica uma proposição do tipo "...se e somente se...". Será verdadeira quando ambas as proposições forem verdadeiras ou falsas
+			 ![](img/Pasted%20image%2020240409161121.png)
