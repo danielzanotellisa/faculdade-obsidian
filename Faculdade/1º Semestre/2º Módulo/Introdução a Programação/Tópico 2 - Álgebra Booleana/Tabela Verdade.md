@@ -10,3 +10,4 @@
 	- Criar colunas para as variáveis de entrada e listar todas as combinações possíveis
 	- Criar uma coluna pra cada variável de entrada que apareça complementada na equação e anotar o resultado
 	- Avaliar a equação seguindo a ordem de precedência
+
