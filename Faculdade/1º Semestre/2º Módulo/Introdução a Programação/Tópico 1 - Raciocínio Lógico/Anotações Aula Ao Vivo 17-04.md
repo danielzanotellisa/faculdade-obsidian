@@ -1,0 +1,13 @@
+
+- Algoritmos são uma sequencia de passos que devem ser seguidos um após o outro
+	- Algoritmos são a espinha dorsal da programação
+	- São escritos para solucionar um problema em questão
+	- É crucial desenvolver algoritmos eficazes
+- Etapas de um Algoritmo
+	- <span style="color:#d97f36">Entrada</span> - Dados iniciais que são fornecidos
+	- <span style="color:#d97f36">Processamento</span> - Conjunto de operações realizadas com base nas entradas
+	- <span style="color:#d97f36">Saída</span> - Resultado final produzido após o processamento
+	- ![](../../../../Pasted%20image%2020240417212924.png)
+	- ![](../../../../Pasted%20image%2020240417213238.png)
+	- ![](../../../../Pasted%20image%2020240417213456.png)
+	- 
