@@ -17,3 +17,4 @@
 - Uma linguagem de programação é um método padronizado para comunicar instruções a um computador. É a ferramenta que programadores usam para escrever scripts ou programas que executam operações específicas.
 	- Elas fazem o intermédio entre a linguagem humana e a linguagem de máquina
 	- Existem linguagens de baixo nível e de alto nível
+	- É um padrão de comunicação, uma linguagem, um idioma
