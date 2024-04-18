@@ -11,3 +11,16 @@
 	- Criar uma coluna pra cada variável de entrada que apareça complementada na equação e anotar o resultado
 	- Avaliar a equação seguindo a ordem de precedência
 
+## Tautologia, Contradições e Contingências
+---
+
+### Tautologia
+- Tautologia é toda proposição composta que apresenta valor lógico verdadeiro, independentemente dos valores lógicos das proposições simples que a compõem
+- A ultima coluna de sua tabela verdade encerra somente em verdade
+
+### Contradição
+- Contradição é toda a proposição composta que apresenta valor lógico falso, independentemente dos valores lógicos das proposições simples que a compõem
+- A última coluna da sua tabela verdade encerra somente em mentira
+
+### Contingência
+- Tudo oque não é uma Tautologia ou Contradição
