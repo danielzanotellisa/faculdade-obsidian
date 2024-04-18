@@ -11,3 +11,21 @@
 
 ## Operação E (Multiplicação Lógica)
 ---
+
+- Deve retornar verdadeiro somente quando uma E outra variável forem ***VERDADEIRAS***
+- Pode ser representada pelo sinal de ¨.¨ ou pelo sinal de conjunção ¨^¨
+- ![](../../../../Pasted%20image%2020240418100152.png)
+- No caso de ter 3 entradas, todas devem ser verdadeiras para que o valor lógico seja verdadeiro
+
+## Complementação (negação)
+---
+
+- Deve retornar o valor inverso ao valor da variável de entrada
+- É representada na forma de ¨~¨. A negação de p será ~p
+- ![](../../../../Pasted%20image%2020240418101123.png)
+
+
+## Precedência entre os conectivos
+---
+
+- 
