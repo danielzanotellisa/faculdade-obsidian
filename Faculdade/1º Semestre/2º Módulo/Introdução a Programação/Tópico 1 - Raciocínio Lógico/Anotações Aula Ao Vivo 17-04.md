@@ -10,4 +10,9 @@
 	- ![](../../../../Pasted%20image%2020240417212924.png)
 	- ![](../../../../Pasted%20image%2020240417213238.png)
 	- ![](../../../../Pasted%20image%2020240417213456.png)
-	- 
+- Definir claramente as entradas é fundamental para o bom funcionamento de um algoritmo, pois a saída dependerá delas para poder estar correta ou não.
+- ![](../../../../Pasted%20image%2020240417215135.png)
+- Nossos algoritmos podem ser condicionais
+	- ![](../../../../Pasted%20image%2020240417215329.png)
+- Uma linguagem de programação é um método padronizado para comunicar instruções a um computador. É a ferramenta que programadores usam para escrever scripts ou programas que executam operações específicas.
+- 
