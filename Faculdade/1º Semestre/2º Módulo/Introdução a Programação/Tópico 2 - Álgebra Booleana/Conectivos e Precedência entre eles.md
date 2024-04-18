@@ -28,4 +28,6 @@
 ## Precedência entre os conectivos
 ---
 
-- 
+- A operação **E**(^) deve ser executada antes da operação **OU** (V)
+- Resolvemos primeiro os parênteses, depois a complementação e por último os operadores
+- ![](../../../../Pasted%20image%2020240418101932.png)
