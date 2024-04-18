@@ -15,4 +15,5 @@
 - Nossos algoritmos podem ser condicionais
 	- ![](../../../../Pasted%20image%2020240417215329.png)
 - Uma linguagem de programação é um método padronizado para comunicar instruções a um computador. É a ferramenta que programadores usam para escrever scripts ou programas que executam operações específicas.
-- 
+	- Elas fazem o intermédio entre a linguagem humana e a linguagem de máquina
+	- Existem linguagens de baixo nível e de alto nível
