@@ -1,4 +1,4 @@
-
+#Lógica #IntroduçãoAProgramação #Programação 
 - Algoritmos são uma sequencia de passos que devem ser seguidos um após o outro
 	- Algoritmos são a espinha dorsal da programação
 	- São escritos para solucionar um problema em questão
@@ -7,13 +7,13 @@
 	- <span style="color:#d97f36">Entrada</span> - Dados iniciais que são fornecidos
 	- <span style="color:#d97f36">Processamento</span> - Conjunto de operações realizadas com base nas entradas
 	- <span style="color:#d97f36">Saída</span> - Resultado final produzido após o processamento
-	- ![](../../../../Pasted%20image%2020240417212924.png)
-	- ![](../../../../Pasted%20image%2020240417213238.png)
-	- ![](../../../../Pasted%20image%2020240417213456.png)
+	- ![](img/Pasted%20image%2020240417212924.png)
+	- ![](img/Pasted%20image%2020240417213238.png)
+	- ![](img/Pasted%20image%2020240417213456.png)
 - Definir claramente as entradas é fundamental para o bom funcionamento de um algoritmo, pois a saída dependerá delas para poder estar correta ou não.
-- ![](../../../../Pasted%20image%2020240417215135.png)
+- ![](img/Pasted%20image%2020240417215135.png)
 - Nossos algoritmos podem ser condicionais
-	- ![](../../../../Pasted%20image%2020240417215329.png)
+	- ![](img/Pasted%20image%2020240417215329.png)
 - Uma linguagem de programação é um método padronizado para comunicar instruções a um computador. É a ferramenta que programadores usam para escrever scripts ou programas que executam operações específicas.
 	- Elas fazem o intermédio entre a linguagem humana e a linguagem de máquina
 	- Existem linguagens de baixo nível e de alto nível
