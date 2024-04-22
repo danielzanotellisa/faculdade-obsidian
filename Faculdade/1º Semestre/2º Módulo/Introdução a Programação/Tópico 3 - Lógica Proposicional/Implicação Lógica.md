@@ -13,3 +13,7 @@
 - p ^ q implica p (p ^ q => p) porque todas as vezes em que a proposição composta p ^ q é verdadeira, p também é verdadeiro
 - 
 
+
+
+
+
