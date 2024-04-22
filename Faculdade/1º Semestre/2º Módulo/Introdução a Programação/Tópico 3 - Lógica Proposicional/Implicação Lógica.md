@@ -11,7 +11,7 @@
 | F   | V   | F     |
 
 - p ^ q implica p (p ^ q => p) porque todas as vezes em que a proposição composta p ^ q é verdadeira, p também é verdadeiro
-- 
+- Ocorre uma implicação lógica entre duas proposições compostas quando o a proposição condicional (P -> Q) é uma tautologia.
 
 
 
