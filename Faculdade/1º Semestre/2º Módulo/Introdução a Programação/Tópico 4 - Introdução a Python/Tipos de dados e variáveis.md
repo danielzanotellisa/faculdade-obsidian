@@ -42,3 +42,5 @@
 - <span style="color:#d97f36">Tuplas</span>: Lista imutável. Qualquer operação sobre ela resulta em uma nova tupla
 - <span style="color:#d97f36">Dicionários</span>: Sequências que podem utilizar índices (imutáveis) de tipos variados
 - <span style="color:#d97f36">Arquivo</span>: Python possui um tipo pré-definido para manipular arquivos
+- <span style="color:#d97f36">Classes e instâncias</span>
+
