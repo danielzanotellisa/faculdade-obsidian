@@ -77,3 +77,6 @@ idade_humano = idade_cachorro*7
 print(idade_humano)
 ```
 - Usamos a palavra reservada <span style="color:#8ef3f5">def</span> para criar uma função
+
+
+***Link de referência extra***: https://realpython.com/python-f-strings/#interpolating-and-formatting-strings-before-python-36
