@@ -50,4 +50,17 @@ else:
 			print('Idoso')
 ```
 - Adicionando o ELSE nós podemos PARAR o código assim que a condição de algum IF for atingida
-- 
+- Ainda é possível otimizar mais ainda o nosso código para que ele fique mais legível, para isso usamos o ELIF
+```python
+idade = 29
+
+if idade <= 12:
+	print('Criança')
+elif idade > 12 <= 25:
+	print('Jovem')
+elif idade > 25 < 60:
+	print('Adulto')
+else:
+	print('Idoso')
+```
+- Podemos usar o ELIF para avaliar expressões intermediárias antes de usar o ELSE
