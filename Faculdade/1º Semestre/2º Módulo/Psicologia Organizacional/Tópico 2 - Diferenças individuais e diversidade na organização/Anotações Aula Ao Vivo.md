@@ -12,3 +12,42 @@
 	- Com frequência ocorre de duas pessoas observarem um mesmo fato, evento ou pessoa e emitirem avaliações diametralmente opostas.
 	- É sempre o meu olhar particular sobre algo
 	- Ela é seletiva e nos mostra características de uma pessoa, objeto ou evento que se sobressai em relação aos demais, segundo os nossos próprios interesses e as experiências pessoais.
+	- A incapacidade de ver o todo pode levar a erros de gestão
+	- Quando uma pessoa fica submetida a um mesmo estímulo durante muito tempo a sua sensibilidade a ele começa a se reduzir.
+	- A percepção externa se vincula aos comportamentos provocados por situações ou pelo ambiente em que o indivíduo está inserido
+	- A percepção interna se baseia nas experiências culturais e sociais do próprio observador, e definem o modo como ele vê se sente o mundo ao seu redor.
+	- A percepção se  refere ao impacto que provoca na relação entre as pessoas.
+- Alguns problemas no processo de percepção
+	- Contraste: Pessoas são percebidas dentro de um contexto e contrastadas com outras, o que produz impressões favoráveis e desfavoráveis
+	- Estereótipos: As características de um grupo social são simplificadas e projetadas em todos os seus integrantes.
+	- Efeito Halo: Um traço de comportamento serve de base para uma generalização a respeito da conduta de uma pessoa.
+	- Projeção: Os outros são exagerados segundo as perspectivas do observador, que faz julgamentos baseados em suas características.
+- A um conceito de inteligências múltiplas
+	- Inteligência Linguística: Domínio, gosto e desejo de explorar linguagem e palavras
+	- Inteligência Lógico-Matemática: Capacidade de confrontar e avaliar objetivos e abstrações, bem como de entender suas relações e princípios.
+	- Inteligência Musical: Competência não apenas para compor e executar peças, mas também para ouvir e entender
+	- Inteligência Espacial: Habilidade para perceber com precisão o mundo visual, transformar e modificar percepções e recriar a realidade visual.
+	- Inteligência Corporal-Sinestésica: Capacidade de controlar e orquestrar o movimento do corpo e manejar objetos com habilidade.
+	- Inteligências Pessoais: Capacidade de entender a si próprio e (intrapessoal) e aos outros (interpessoal)
+	- Inteligência Naturalista: Capacidade de reconhecer e categorizar objetos da natureza
+	- Inteligência Existencial: Capacidade de entender e ponderar as questões fundamentais da existência humana.
+- A atitude está vinculada a ação que está ligada aos nossos valores subjetivos
+- Dificilmente duas pessoas reagirão do mesmo modo.
+- Atitudes são passiveis de mudanças
+- Aptidão é usada para definir características psicológicas inatas que permitem identificar possibilidades futuras de aprendizagem em uma ampla variedade de capacidades e competências.
+- Aptidões significativas para o trabalho:
+	- Concentração mental
+	- Memória, a inventividade
+	- Atenção
+	- Raciocínio indutivo e dedutivo
+	- Compreensão verbal
+	- Pensamento lógico e abstrato
+- Existem aptidões intelectuais, físicas, interpessoais, etc.
+- A biografia é nossa história de vida.
+- Personalidade diz respeito ao conjunto de características dinâmicas e singulares que distingue e dá consistência ao indivíduo e que definem seu ajuste singular ao ambiente
+	- A teoria da personalidade Big Five descreve cinco grandes dimensões da personalidade
+		- Extroversão
+		- Socialização
+		- Realização
+		- Neuroticismo
+		- Abertura de novas experiências
