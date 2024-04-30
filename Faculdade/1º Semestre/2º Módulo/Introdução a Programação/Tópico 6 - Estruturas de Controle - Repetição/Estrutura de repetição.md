@@ -71,4 +71,37 @@ print(frutas_nao_gosto)
 ```
 - Aqui checar se a fruta está em alguma cesta, caso ela esteja, o loop será resetado e passará para a próxima fruta (índice).
 	- [Leitura extra para a função ANY()](https://www.programiz.com/python-programming/methods/built-in/any)
-- 
+
+## Range
+---
+
+- Usamos a função range para construir uma lista de iteração
+- Pode ser usada para construir a lista de iteração para o <span style="color:#f04ff3">FOR</span> para definirmos como o nosso loop será iterado
+```python
+sum, inicio, fim, lista = 0,1,5,[]
+
+for x in range(inicio,fim):
+	lista.append(x)
+	sum += x
+print(lista)
+print(sum)
+```
+- A nossa iteração vai ATÉ o número q selecionamos, o seu final é EXCLUSIVO, ou seja, ele não inclui o valor definido como o fim.
+
+## While
+---
+
+- Podemos criar um loop com VÁRIAS instruções usando o <span style="color:#f04ff3">WHILE</span> onde será realizado um teste a cada iteração
+
+```python
+contador = 0
+fim = 10
+
+while(contador < fim):
+	contador += 1
+	print(contador)
+```
+
+- Temos que tomar cuidado para não criarmos loops infinitos com o <span style="color:#f04ff3">WHILE</span> 
+- Assim como no <span style="color:#f04ff3">FOR</span>, nós podemos usar o <span style="color:#f04ff3">BREAK</span> e o <span style="color:#f04ff3">CONTINUE</span> 
+	- Assim como estrutura <span style="color:#f04ff3">IF</span> e <span style="color:#f04ff3">ELSE</span> 
