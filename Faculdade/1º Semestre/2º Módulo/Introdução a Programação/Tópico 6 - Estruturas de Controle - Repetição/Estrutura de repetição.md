@@ -47,4 +47,28 @@ print('Total: 'total)
 ```
 - Tudo oque esta dentro do <span style="color:#f04ff3">ELSE</span> só é executado no fim do bloco de código do <span style="color:#f04ff3">FOR</span> 
 	- Quando usamos o comando <span style="color:#f04ff3">BREAK</span> para terminar a iteração antes do bloco de código do <span style="color:#f04ff3">ELSE</span>, o computador ignora todo aquele código.
+- Podemos acessar os dados através do índice, e com isso criarmos iterações a partir do fatiamento dos índices.
+- Podemos usar o <span style="color:#f04ff3">CONTINUE</span> nos nossos loops, basicamente oque ele faz é sempre que a condicional aonde ele está colocado for verdadeira, o loop será reiniciado.
+```python
+lista = [0,1,2,3,4,5,6,7,8,9,10]
+
+for i in lista:
+	if i == 4:
+		continue
+	print('Item: ', i)
+```
+- O output que teremos será todos os itens da lista menos o 4 já que quando o condicional <span style="color:#f04ff3">IF</span> foi verdadeiro, o computador voltou para o inicio do loop, ignorando o comando <span style="color:#c5de0d">print</span> logo abaixo.
+```python
+cesta = ["maçã", "laranja", "pêra", "maçã", "laranja", "maçã", "uva", "mamão", "pêra"]
+frutas_nao_gosto = []
+frutas_gosto = ["maçã", "laranja"]
+
+for fruta in cesta:
+	if any([fruta in frutas_gosto, fruta in frutas_nao_gosto]):
+		continue
+	frutas_nao_gosto.append(fruta)
+print(frutas_nao_gosto)
+```
+- Aqui checar se a fruta está em alguma cesta, caso ela esteja, o loop será resetado e passará para a próxima fruta (índice).
+	- [Leitura extra para a função ANY()](https://www.programiz.com/python-programming/methods/built-in/any)
 - 
