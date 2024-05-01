@@ -73,7 +73,7 @@ print(arr+1)
 import numpy as np
 arr1 = np.array([[1, 2, 3], [4, 5, 6]])
 arr2 = np.array([[6, 5, 4], [3, 2, 1]])
-print(arr1 > arr2)
+ptemorint(arr1 > arr2)
 
 # [OUT]:
 # [[False False False]
@@ -82,4 +82,37 @@ print(arr1 > arr2)
 
 - Podemos usar o também o fatiamento e os índices nas nossas arrays
 - No caso de arrays de duas dimensões, os elementos de um índice passam a representar a linha da matriz
-- 
+- Podemos fazer cópias entre estruturas usando dois métodos: DEEP e SHALLOW
+	- O método DEEP nós fazemos uma cópia e temos uma nova matriz, não afetando a matriz original
+	- No método SHALLOW, a matriz original é afetada
+```python
+import numpy as np
+
+arr1 = np.range(10)
+arr2 = arr1[3:6]
+arr2[1] = 15
+
+print(arr2)
+
+# [OUT]:
+# [ 3 15 5]
+
+print(arr1)
+
+# [OUT]:
+# [ 0 1 2 3 15 5 6 7 8 9] METODO SHALLOW
+
+arr1 = np.range(10)
+arr2 = np.copy(arr1[3:6])
+arr2[1] = 15
+
+print(arr2)
+
+# [OUT]:
+# [ 3 15 5]
+
+print(arr1) 
+
+# [OUT]: 
+# [0 1 2 3 4 5 6 7 8 9] METODO DEEP
+```
