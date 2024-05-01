@@ -116,3 +116,26 @@ print(arr1)
 # [OUT]: 
 # [0 1 2 3 4 5 6 7 8 9] METODO DEEP
 ```
+
+- Podemos transpor e fazer mudanças nos eixos das matrizes de forma rápida e fácil
+
+```python
+import numpy as py
+
+arr = np.arange(12).reshape((3, 4))
+print(arr)
+
+# [OUT]: 
+# [[ 0 1 2 3] 
+# [ 4 5 6 7] 
+# [ 8 9 10 11]]
+
+
+print(arr.T)
+
+# [OUT]: 
+# [[ 0 4 8] 
+# [ 1 5 9] 
+# [ 2 6 10] 
+# [ 3 7 11]]
+```
