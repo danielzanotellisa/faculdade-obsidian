@@ -85,6 +85,7 @@ ptemorint(arr1 > arr2)
 - Podemos fazer cópias entre estruturas usando dois métodos: DEEP e SHALLOW
 	- O método DEEP nós fazemos uma cópia e temos uma nova matriz, não afetando a matriz original
 	- No método SHALLOW, a matriz original é afetada
+
 ```python
 import numpy as np
 
