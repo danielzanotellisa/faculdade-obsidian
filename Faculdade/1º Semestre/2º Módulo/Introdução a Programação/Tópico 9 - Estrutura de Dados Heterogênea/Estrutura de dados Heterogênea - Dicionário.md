@@ -10,3 +10,5 @@
 - Com os métodos .get() e .pop(), nós podemos definir uma mensagem de erro para caso a chave que estamos consultando não exista.
 - Podemos usar o método setdefault(chave, []).append(valor) para quando queremos separar elementos de uma lista de acordo com determinado critério.
 	- Podemos usar também o defaultdict, importado do collections.
+- Embora os valores de um DICT possam ser qualquer objeto Python, as chaves devem ser objetos imutáveis
+- 
