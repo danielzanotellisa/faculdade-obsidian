@@ -45,6 +45,11 @@ são ordenados como nas listas ^fGUkgFPj
 Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
                     e não pelo o valor atribuído a ela!!! ^aDWGweuS
 
+Quando deletamos uma 
+chave em um dicionário,
+ deletamos também todos 
+os valores atribuídos a ela! ^UoOSfW3D
+
 %%
 # Drawing
 ```json
@@ -72,11 +77,11 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"seed": 1970894321,
-			"version": 334,
-			"versionNonce": 449358111,
+			"version": 335,
+			"versionNonce": 944260593,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1191,11 +1196,11 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"seed": 1330566129,
-			"version": 330,
-			"versionNonce": 1380531281,
+			"version": 331,
+			"versionNonce": 62655903,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2296,11 +2301,11 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"seed": 1590848913,
-			"version": 32,
-			"versionNonce": 526354993,
+			"version": 33,
+			"versionNonce": 1833370047,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2338,11 +2343,11 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"seed": 205595391,
-			"version": 95,
-			"versionNonce": 802827615,
+			"version": 96,
+			"versionNonce": 804404657,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"text": "Dicionários em Python\n",
@@ -2377,11 +2382,11 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"seed": 2072438193,
-			"version": 56,
-			"versionNonce": 2013997439,
+			"version": 57,
+			"versionNonce": 1461804945,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2419,11 +2424,11 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"seed": 229874687,
-			"version": 156,
-			"versionNonce": 1085633009,
+			"version": 157,
+			"versionNonce": 768794111,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"text": "Não possui um índice numérico\n",
@@ -2458,11 +2463,11 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"seed": 894926463,
-			"version": 79,
-			"versionNonce": 1694998943,
+			"version": 80,
+			"versionNonce": 1943094641,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2502,8 +2507,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"seed": 832709617,
-			"version": 142,
-			"versionNonce": 166988753,
+			"version": 143,
+			"versionNonce": 1625605663,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -2511,7 +2516,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 					"type": "arrow"
 				}
 			],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false
 		},
@@ -2534,11 +2539,11 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"seed": 1460280593,
-			"version": 354,
-			"versionNonce": 1207965119,
+			"version": 355,
+			"versionNonce": 558460753,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"text": "Não é ordenado da mesma\n forma que as listas ou tuplas",
@@ -2573,11 +2578,11 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"seed": 1607688689,
-			"version": 135,
-			"versionNonce": 1208248753,
+			"version": 136,
+			"versionNonce": 96774719,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2619,11 +2624,11 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"seed": 1567365215,
-			"version": 173,
-			"versionNonce": 2014643679,
+			"version": 174,
+			"versionNonce": 635526449,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"text": "Os índices são sempre strings\n",
@@ -2639,8 +2644,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "line",
-			"version": 2258,
-			"versionNonce": 910717297,
+			"version": 2259,
+			"versionNonce": 1751148159,
 			"isDeleted": false,
 			"id": "9jQqCUhr7ie6WPJ7HyLUw",
 			"fillStyle": "solid",
@@ -2664,7 +2669,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2701,8 +2706,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "line",
-			"version": 478,
-			"versionNonce": 96885279,
+			"version": 479,
+			"versionNonce": 421430513,
 			"isDeleted": false,
 			"id": "HycHyHukayvVlwyF5AOSe",
 			"fillStyle": "solid",
@@ -2725,7 +2730,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2773,11 +2778,11 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"seed": 1304715441,
-			"version": 233,
-			"versionNonce": 1677400913,
+			"version": 234,
+			"versionNonce": 1907179167,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"text": "Porém em python\nos índices podem ser\nnúmeros ou tuplas!!!!",
@@ -2812,11 +2817,11 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"seed": 282909087,
-			"version": 128,
-			"versionNonce": 1096007231,
+			"version": 129,
+			"versionNonce": 969064145,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2856,11 +2861,11 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"seed": 920972913,
-			"version": 284,
-			"versionNonce": 2105379121,
+			"version": 285,
+			"versionNonce": 1206522559,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false
 		},
@@ -2883,11 +2888,11 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"seed": 789224607,
-			"version": 342,
-			"versionNonce": 1239391839,
+			"version": 343,
+			"versionNonce": 293911729,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"text": "ESTRUTURA DE DADOS TABULAR",
@@ -2922,11 +2927,11 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"seed": 2079446943,
-			"version": 150,
-			"versionNonce": 2083994385,
+			"version": 151,
+			"versionNonce": 1136091871,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2964,11 +2969,11 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"seed": 1230876127,
-			"version": 222,
-			"versionNonce": 1916435071,
+			"version": 223,
+			"versionNonce": 786065,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"text": "AUSÊNCIA DE ORDEM DE DADOS ",
@@ -3001,11 +3006,11 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"seed": 92982001,
-			"version": 24,
-			"versionNonce": 809396945,
+			"version": 25,
+			"versionNonce": 137721631,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3120,11 +3125,11 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"seed": 1234772017,
-			"version": 13,
-			"versionNonce": 1229924031,
+			"version": 14,
+			"versionNonce": 1498959441,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3195,11 +3200,11 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"seed": 1482801361,
-			"version": 76,
-			"versionNonce": 329967793,
+			"version": 77,
+			"versionNonce": 1104624447,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"text": "ÍNDICES DE TIPOS DIFERENTES \n",
@@ -3234,11 +3239,11 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"seed": 1589833649,
-			"version": 30,
-			"versionNonce": 2136602335,
+			"version": 31,
+			"versionNonce": 1455184945,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3262,8 +3267,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"type": "text",
 			"x": 1750.9820971008567,
 			"y": 1408.695587763489,
-			"width": 613.0378080539407,
-			"height": 196.05932617187503,
+			"width": 613.009033203125,
+			"height": 196.05932617187509,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -3276,8 +3281,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"seed": 505630385,
-			"version": 145,
-			"versionNonce": 668320511,
+			"version": 147,
+			"versionNonce": 1337029823,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -3285,7 +3290,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 					"type": "arrow"
 				}
 			],
-			"updated": 1714994545755,
+			"updated": 1714995726784,
 			"link": null,
 			"locked": false,
 			"text": "Criando um Dict\n",
@@ -3294,7 +3299,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 163.99999999999991,
+			"baseline": 166,
 			"containerId": null,
 			"originalText": "Criando um Dict\n",
 			"lineHeight": 1.25
@@ -3320,11 +3325,11 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"seed": 513999473,
-			"version": 57,
-			"versionNonce": 1000026225,
+			"version": 58,
+			"versionNonce": 2076358527,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3350,10 +3355,10 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		{
 			"id": "YXPpkWj0_gX6xa8BS5hMA",
 			"type": "freedraw",
-			"x": 961.9515881802023,
-			"y": 2109.527602295793,
-			"width": 58.197212593678145,
-			"height": 150.7836509969074,
+			"x": 1146.9378644536496,
+			"y": 2151.5305427319545,
+			"width": 47.64256428279045,
+			"height": 123.43752329805491,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -3368,11 +3373,11 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"seed": 782515057,
-			"version": 529,
-			"versionNonce": 1791715935,
+			"version": 594,
+			"versionNonce": 1448136817,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1714994560306,
+			"updated": 1714995505712,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3381,396 +3386,396 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 					0
 				],
 				[
-					-2.6453318649030058,
+					-2.1655743944796053,
 					0
 				],
 				[
-					-5.2906637298060115,
+					-4.331148788959211,
 					0
 				],
 				[
-					-7.935995594709016,
+					-6.496723183438815,
 					0
 				],
 				[
-					-10.581327459612023,
+					-8.662297577918421,
 					0
 				],
 				[
-					-13.226659324515028,
+					-10.827871972398025,
 					0
 				],
 				[
-					-15.871991189418033,
+					-12.99344636687763,
 					0
 				],
 				[
-					-18.51732305432104,
+					-15.159020761357235,
 					0
 				],
 				[
-					-18.51732305432104,
-					2.6453318649030058
+					-15.159020761357235,
+					2.1655743944796053
 				],
 				[
-					-18.51732305432104,
-					5.2906637298060115
+					-15.159020761357235,
+					4.331148788959211
 				],
 				[
-					-21.162654919224046,
-					7.935907160521041
+					-17.324595155836843,
+					6.496650787677959
 				],
 				[
-					-21.162654919224046,
-					10.581239025424047
+					-17.324595155836843,
+					8.662225182157563
 				],
 				[
-					-21.162654919224046,
-					13.226570890327052
+					-17.324595155836843,
+					10.827799576637169
 				],
 				[
-					-21.162654919224046,
-					15.871902755230058
+					-17.324595155836843,
+					12.993373971116775
 				],
 				[
-					-21.162654919224046,
-					18.517234620133063
+					-17.324595155836843,
+					15.158948365596379
 				],
 				[
-					-21.162654919224046,
-					21.16256648503607
+					-17.324595155836843,
+					17.324522760075983
 				],
 				[
-					-21.162654919224046,
-					23.807898349939073
+					-17.324595155836843,
+					19.49009715455559
 				],
 				[
-					-21.162654919224046,
-					26.45323021484208
+					-17.324595155836843,
+					21.655671549035194
 				],
 				[
-					-21.162654919224046,
-					29.098562079745086
+					-17.324595155836843,
+					23.8212459435148
 				],
 				[
-					-18.51732305432104,
-					29.098562079745086
+					-15.159020761357235,
+					23.8212459435148
 				],
 				[
-					-18.51732305432104,
-					31.743893944648093
+					-15.159020761357235,
+					25.986820337994406
 				],
 				[
-					-18.51732305432104,
-					34.3892258095511
+					-15.159020761357235,
+					28.15239473247401
 				],
 				[
-					-15.871991189418033,
-					34.3892258095511
+					-12.99344636687763,
+					28.15239473247401
 				],
 				[
-					-13.226659324515028,
-					37.0345576744541
+					-10.827871972398025,
+					30.31796912695361
 				],
 				[
-					-13.226659324515028,
-					39.679889539357106
+					-10.827871972398025,
+					32.48354352143322
 				],
 				[
-					-10.581327459612023,
-					39.679889539357106
+					-8.662297577918421,
+					32.48354352143322
 				],
 				[
-					-10.581327459612023,
-					42.32522140426011
+					-8.662297577918421,
+					34.649117915912825
 				],
 				[
-					-10.581327459612023,
-					44.97055326916312
+					-8.662297577918421,
+					36.81469231039243
 				],
 				[
-					-10.581327459612023,
-					47.615885134066126
+					-8.662297577918421,
+					38.98026670487204
 				],
 				[
-					-7.935995594709016,
-					50.26121699896913
+					-6.496723183438815,
+					41.14584109935164
 				],
 				[
-					-7.935995594709016,
-					52.90646042968416
+					-6.496723183438815,
+					43.31134309807039
 				],
 				[
-					-7.935995594709016,
-					55.55188072877514
+					-6.496723183438815,
+					45.47698988831085
 				],
 				[
-					-7.935995594709016,
-					58.19712415949017
+					-6.496723183438815,
+					47.6424918870296
 				],
 				[
-					-7.935995594709016,
-					60.84254445858115
+					-6.496723183438815,
+					49.80813867727006
 				],
 				[
-					-7.935995594709016,
-					63.487787889296186
+					-6.496723183438815,
+					51.97364067598881
 				],
 				[
-					-10.581327459612023,
-					63.487787889296186
+					-8.662297577918421,
+					51.97364067598881
 				],
 				[
-					-13.226659324515028,
-					63.487787889296186
+					-10.827871972398025,
+					51.97364067598881
 				],
 				[
-					-15.871991189418033,
-					66.13320818838716
+					-12.99344636687763,
+					54.13928746622926
 				],
 				[
-					-18.51732305432104,
-					66.13320818838716
+					-15.159020761357235,
+					54.13928746622926
 				],
 				[
-					-21.162654919224046,
-					66.13320818838716
+					-17.324595155836843,
+					54.13928746622926
 				],
 				[
-					-23.80798678412705,
-					66.13320818838716
+					-19.490169550316445,
+					54.13928746622926
 				],
 				[
-					-26.453318649030056,
-					68.7784516191022
+					-21.65574394479605,
+					56.30478946494802
 				],
 				[
-					-26.453318649030056,
-					71.42387191819317
+					-21.65574394479605,
+					58.470436255188474
 				],
 				[
-					-29.098650513933062,
-					71.42387191819317
+					-23.821318339275656,
+					58.470436255188474
 				],
 				[
-					-31.743982378836066,
-					71.42387191819317
+					-25.98689273375526,
+					58.470436255188474
 				],
 				[
-					-34.38931424373907,
-					71.42387191819317
+					-28.152467128234864,
+					58.470436255188474
 				],
 				[
-					-37.03464610864208,
-					71.42387191819317
+					-30.31804152271447,
+					58.470436255188474
 				],
 				[
-					-34.38931424373907,
-					71.42387191819317
+					-28.152467128234864,
+					58.470436255188474
 				],
 				[
-					-31.743982378836066,
-					71.42387191819317
+					-25.98689273375526,
+					58.470436255188474
 				],
 				[
-					-29.098650513933062,
-					71.42387191819317
+					-23.821318339275656,
+					58.470436255188474
 				],
 				[
-					-26.453318649030056,
-					71.42387191819317
+					-21.65574394479605,
+					58.470436255188474
 				],
 				[
-					-23.80798678412705,
-					71.42387191819317
+					-19.490169550316445,
+					58.470436255188474
 				],
 				[
-					-23.80798678412705,
-					74.0691153489082
+					-19.490169550316445,
+					60.63593825390722
 				],
 				[
-					-21.162654919224046,
-					74.0691153489082
+					-17.324595155836843,
+					60.63593825390722
 				],
 				[
-					-18.51732305432104,
-					74.0691153489082
+					-15.159020761357235,
+					60.63593825390722
 				],
 				[
-					-18.51732305432104,
-					76.71453564799918
+					-15.159020761357235,
+					62.801585044147686
 				],
 				[
-					-18.51732305432104,
-					79.35977907871421
+					-15.159020761357235,
+					64.96708704286644
 				],
 				[
-					-15.871991189418033,
-					79.35977907871421
+					-12.99344636687763,
+					64.96708704286644
 				],
 				[
-					-15.871991189418033,
-					82.0051993778052
+					-12.99344636687763,
+					67.1327338331069
 				],
 				[
-					-15.871991189418033,
-					84.65044280852022
+					-12.99344636687763,
+					69.29823583182565
 				],
 				[
-					-15.871991189418033,
-					87.29586310761121
+					-12.99344636687763,
+					71.46388262206611
 				],
 				[
-					-15.871991189418033,
-					89.94110653832624
+					-12.99344636687763,
+					73.62938462078486
 				],
 				[
-					-15.871991189418033,
-					92.58634996904127
+					-12.99344636687763,
+					75.7948866195036
 				],
 				[
-					-15.871991189418033,
-					95.23177026813225
+					-12.99344636687763,
+					77.96053340974407
 				],
 				[
-					-15.871991189418033,
-					97.87701369884728
+					-12.99344636687763,
+					80.12603540846281
 				],
 				[
-					-18.51732305432104,
-					97.87701369884728
+					-15.159020761357235,
+					80.12603540846281
 				],
 				[
-					-18.51732305432104,
-					100.52243399793826
+					-15.159020761357235,
+					82.29168219870328
 				],
 				[
-					-18.51732305432104,
-					103.16767742865329
+					-15.159020761357235,
+					84.45718419742202
 				],
 				[
-					-18.51732305432104,
-					105.81309772774428
+					-15.159020761357235,
+					86.6228309876625
 				],
 				[
-					-18.51732305432104,
-					108.4583411584593
+					-15.159020761357235,
+					88.78833298638123
 				],
 				[
-					-18.51732305432104,
-					111.10376145755028
+					-15.159020761357235,
+					90.9539797766217
 				],
 				[
-					-18.51732305432104,
-					113.74900488826532
+					-15.159020761357235,
+					93.11948177534045
 				],
 				[
-					-21.162654919224046,
-					113.74900488826532
+					-17.324595155836843,
+					93.11948177534045
 				],
 				[
-					-21.162654919224046,
-					116.39442518735629
+					-17.324595155836843,
+					95.2851285655809
 				],
 				[
-					-21.162654919224046,
-					119.03966861807132
+					-17.324595155836843,
+					97.45063056429964
 				],
 				[
-					-21.162654919224046,
-					121.6850889171623
+					-17.324595155836843,
+					99.61627735454012
 				],
 				[
-					-21.162654919224046,
-					124.33033234787733
+					-17.324595155836843,
+					101.78177935325886
 				],
 				[
-					-21.162654919224046,
-					126.97575264696832
+					-17.324595155836843,
+					103.94742614349933
 				],
 				[
-					-21.162654919224046,
-					129.62099607768334
+					-17.324595155836843,
+					106.11292814221807
 				],
 				[
-					-21.162654919224046,
-					132.26641637677432
+					-17.324595155836843,
+					108.27857493245853
 				],
 				[
-					-21.162654919224046,
-					134.91165980748934
+					-17.324595155836843,
+					110.44407693117728
 				],
 				[
-					-18.51732305432104,
-					137.55708010658034
+					-15.159020761357235,
+					112.60972372141775
 				],
 				[
-					-15.871991189418033,
-					137.55708010658034
+					-12.99344636687763,
+					112.60972372141775
 				],
 				[
-					-13.226659324515028,
-					137.55708010658034
+					-10.827871972398025,
+					112.60972372141775
 				],
 				[
-					-10.581327459612023,
-					137.55708010658034
+					-8.662297577918421,
+					112.60972372141775
 				],
 				[
-					-10.581327459612023,
-					140.20232353729537
+					-8.662297577918421,
+					114.77522572013649
 				],
 				[
-					-7.935995594709016,
-					140.20232353729537
+					-6.496723183438815,
+					114.77522572013649
 				],
 				[
-					-5.2906637298060115,
-					140.20232353729537
+					-4.331148788959211,
+					114.77522572013649
 				],
 				[
-					-5.2906637298060115,
-					142.84774383638634
+					-4.331148788959211,
+					116.94087251037695
 				],
 				[
-					-2.6453318649030058,
-					142.84774383638634
+					-2.1655743944796053,
+					116.94087251037695
 				],
 				[
 					0,
-					142.84774383638634
+					116.94087251037695
 				],
 				[
-					2.6453318649030058,
-					145.49298726710137
+					2.1655743944796053,
+					119.1063745090957
 				],
 				[
-					5.2906637298060115,
-					145.49298726710137
+					4.331148788959211,
+					119.1063745090957
 				],
 				[
-					10.581327459612023,
-					145.49298726710137
+					8.662297577918421,
+					119.1063745090957
 				],
 				[
-					13.226570890327052,
-					145.49298726710137
+					10.827799576637169,
+					119.1063745090957
 				],
 				[
-					15.871902755230058,
-					148.13840756619237
+					12.993373971116775,
+					121.27202129933617
 				],
 				[
-					18.517234620133063,
-					148.13840756619237
+					15.158948365596379,
+					121.27202129933617
 				],
 				[
-					21.16256648503607,
-					150.7836509969074
+					17.324522760075983,
+					123.43752329805491
 				],
 				[
-					21.16256648503607,
-					150.7836509969074
+					17.324522760075983,
+					123.43752329805491
 				]
 			],
 			"pressures": [],
@@ -3783,10 +3788,10 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		{
 			"id": "rNITetNx",
 			"type": "text",
-			"x": 961.9515881802023,
-			"y": 2122.7543500544957,
-			"width": 2220.0754845451593,
-			"height": 120.30215508560562,
+			"x": 1146.9378644536496,
+			"y": 2162.3584871001135,
+			"width": 1817.37548828125,
+			"height": 98.48415244627704,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -3801,20 +3806,20 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"seed": 1777823473,
-			"version": 563,
-			"versionNonce": 466404991,
+			"version": 630,
+			"versionNonce": 1440512689,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1714994560306,
+			"updated": 1714995726787,
 			"link": null,
 			"locked": false,
 			"text": "chave1: valor1, chave2: valor2 ... chaveN:valorN",
 			"rawText": "chave1: valor1, chave2: valor2 ... chaveN:valorN",
-			"fontSize": 96.2417240684845,
+			"fontSize": 78.78732195702163,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 85,
+			"baseline": 68,
 			"containerId": null,
 			"originalText": "chave1: valor1, chave2: valor2 ... chaveN:valorN",
 			"lineHeight": 1.25
@@ -3822,10 +3827,10 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		{
 			"id": "OYXtWRgTjZXuVDIru-mlj",
 			"type": "freedraw",
-			"x": 3155.664558300544,
-			"y": 2089.4549871775516,
-			"width": 84.65038385239474,
-			"height": 144.61123945686285,
+			"x": 2942.7989811474536,
+			"y": 2135.0982977244266,
+			"width": 69.29818756798494,
+			"height": 118.38454050952264,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -3840,11 +3845,11 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"seed": 1194177375,
-			"version": 519,
-			"versionNonce": 948805279,
+			"version": 584,
+			"versionNonce": 1345988657,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1714994560306,
+			"updated": 1714995505712,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3853,360 +3858,360 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 					0
 				],
 				[
-					3.5269912409535493,
+					2.8873359982918094,
 					0
 				],
 				[
-					7.054218306408015,
+					5.774865051945613,
 					0
 				],
 				[
-					10.581209547361563,
+					8.662201050237423,
 					0
 				],
 				[
-					14.10843661281603,
+					11.549730103891227,
 					0
 				],
 				[
-					17.635427853769578,
+					14.437066102183035,
 					0
 				],
 				[
-					21.162654919224046,
+					17.324595155836843,
 					0
 				],
 				[
-					24.689646160177595,
+					20.21193115412865,
 					0
 				],
 				[
-					28.21687322563206,
+					23.099460207782453,
 					0
 				],
 				[
-					31.74386446658561,
+					25.986796206074263,
 					0
 				],
 				[
-					35.271091532040074,
+					28.874325259728067,
 					0
 				],
 				[
-					38.798082772993624,
+					31.761661258019874,
 					0
 				],
 				[
-					42.32507401394665,
+					34.648997256311254,
 					0
 				],
 				[
-					45.85230107940164,
+					37.53652630996549,
 					0
 				],
 				[
-					49.37929232035466,
+					40.423862308256865,
 					0
 				],
 				[
-					49.37929232035466,
-					3.5271091532040075
+					40.423862308256865,
+					2.8874325259728066
 				],
 				[
-					52.90651938580965,
-					3.5271091532040075
+					43.3113913619111,
+					2.8874325259728066
 				],
 				[
-					56.433510626762676,
-					3.5271091532040075
+					46.19872736020248,
+					2.8874325259728066
 				],
 				[
-					56.433510626762676,
-					7.054218306408015
+					46.19872736020248,
+					5.774865051945613
 				],
 				[
-					59.96073769221767,
-					7.054218306408015
+					49.08625641385672,
+					5.774865051945613
 				],
 				[
-					63.48772893317069,
-					7.054218306408015
+					51.97359241214809,
+					5.774865051945613
 				],
 				[
-					63.48772893317069,
-					10.581327459612023
+					51.97359241214809,
+					8.662297577918421
 				],
 				[
-					67.01495599862568,
-					10.581327459612023
+					54.86112146580233,
+					8.662297577918421
 				],
 				[
-					70.5419472395787,
-					14.10843661281603
+					57.748457464093704,
+					11.549730103891227
 				],
 				[
-					70.5419472395787,
-					17.635545766020037
+					57.748457464093704,
+					14.437162629864034
 				],
 				[
-					70.5419472395787,
-					21.162654919224046
+					57.748457464093704,
+					17.324595155836843
 				],
 				[
-					70.5419472395787,
-					24.68976407242805
+					57.748457464093704,
+					20.212027681809644
 				],
 				[
-					70.5419472395787,
-					28.21687322563206
+					57.748457464093704,
+					23.099460207782453
 				],
 				[
-					70.5419472395787,
-					31.743982378836066
+					57.748457464093704,
+					25.98689273375526
 				],
 				[
-					67.01495599862568,
-					31.743982378836066
+					54.86112146580233,
+					25.98689273375526
 				],
 				[
-					67.01495599862568,
-					35.271091532040074
+					54.86112146580233,
+					28.874325259728067
 				],
 				[
-					63.48772893317069,
-					35.271091532040074
+					51.97359241214809,
+					28.874325259728067
 				],
 				[
-					63.48772893317069,
-					38.79820068524408
+					51.97359241214809,
+					31.761757785700873
 				],
 				[
-					59.96073769221767,
-					38.79820068524408
+					49.08625641385672,
+					31.761757785700873
 				],
 				[
-					59.96073769221767,
-					42.32530983844809
+					49.08625641385672,
+					34.649190311673685
 				],
 				[
-					56.433510626762676,
-					42.32530983844809
+					46.19872736020248,
+					34.649190311673685
 				],
 				[
-					56.433510626762676,
-					45.852418991652094
+					46.19872736020248,
+					37.53662283764648
 				],
 				[
-					56.433510626762676,
-					49.3795281448561
+					46.19872736020248,
+					40.42405536361929
 				],
 				[
-					56.433510626762676,
-					52.90663729806011
+					46.19872736020248,
+					43.3114878895921
 				],
 				[
-					59.96073769221767,
-					56.43374645126412
+					49.08625641385672,
+					46.198920415564906
 				],
 				[
-					63.48772893317069,
-					56.43374645126412
+					51.97359241214809,
+					46.198920415564906
 				],
 				[
-					63.48772893317069,
-					59.96085560446812
+					51.97359241214809,
+					49.08635294153771
 				],
 				[
-					67.01495599862568,
-					59.96085560446812
+					54.86112146580233,
+					49.08635294153771
 				],
 				[
-					70.5419472395787,
-					59.96085560446812
+					57.748457464093704,
+					49.08635294153771
 				],
 				[
-					74.0691743050337,
-					63.48796475767213
+					60.63598651774794,
+					51.97378546751052
 				],
 				[
-					77.59616554598672,
-					63.48796475767213
+					63.52332251603932,
+					51.97378546751052
 				],
 				[
-					81.12339261144172,
-					63.48796475767213
+					66.41085156969356,
+					51.97378546751052
 				],
 				[
-					81.12339261144172,
-					67.01507391087587
+					66.41085156969356,
+					54.8612179934831
 				],
 				[
-					84.65038385239474,
-					67.01507391087587
+					69.29818756798494,
+					54.8612179934831
 				],
 				[
-					84.65038385239474,
-					70.54206515182942
+					69.29818756798494,
+					57.74855399177491
 				],
 				[
-					81.12339261144172,
-					70.54206515182942
+					66.41085156969356,
+					57.74855399177491
 				],
 				[
-					77.59616554598672,
-					70.54206515182942
+					63.52332251603932,
+					57.74855399177491
 				],
 				[
-					74.0691743050337,
-					70.54206515182942
+					60.63598651774794,
+					57.74855399177491
 				],
 				[
-					74.0691743050337,
-					74.06917430503343
+					60.63598651774794,
+					60.63598651774772
 				],
 				[
-					70.5419472395787,
-					74.06917430503343
+					57.748457464093704,
+					60.63598651774772
 				],
 				[
-					70.5419472395787,
-					77.59628345823744
+					57.748457464093704,
+					63.52341904372053
 				],
 				[
-					67.01495599862568,
-					77.59628345823744
+					54.86112146580233,
+					63.52341904372053
 				],
 				[
-					67.01495599862568,
-					81.12339261144145
+					54.86112146580233,
+					66.41085156969334
 				],
 				[
-					67.01495599862568,
-					84.65050176464545
+					54.86112146580233,
+					69.29828409566615
 				],
 				[
-					67.01495599862568,
-					88.17761091784946
+					54.86112146580233,
+					72.18571662163895
 				],
 				[
-					67.01495599862568,
-					91.70472007105347
+					54.86112146580233,
+					75.07314914761176
 				],
 				[
-					67.01495599862568,
-					95.23182922425748
+					54.86112146580233,
+					77.96058167358457
 				],
 				[
-					67.01495599862568,
-					98.75893837746149
+					54.86112146580233,
+					80.84801419955737
 				],
 				[
-					67.01495599862568,
-					102.2860475306655
+					54.86112146580233,
+					83.73544672553018
 				],
 				[
-					67.01495599862568,
-					105.8131566838695
+					54.86112146580233,
+					86.62287925150298
 				],
 				[
-					67.01495599862568,
-					109.3402658370735
+					54.86112146580233,
+					89.51031177747579
 				],
 				[
-					67.01495599862568,
-					112.86737499027751
+					54.86112146580233,
+					92.39774430344859
 				],
 				[
-					67.01495599862568,
-					116.39448414348152
+					54.86112146580233,
+					95.2851768294214
 				],
 				[
-					67.01495599862568,
-					119.92159329668553
+					54.86112146580233,
+					98.17260935539421
 				],
 				[
-					67.01495599862568,
-					123.44870244988954
+					54.86112146580233,
+					101.06004188136701
 				],
 				[
-					63.48772893317069,
-					123.44870244988954
+					51.97359241214809,
+					101.06004188136701
 				],
 				[
-					63.48772893317069,
-					126.97581160309355
+					51.97359241214809,
+					103.94747440733983
 				],
 				[
-					59.96073769221767,
-					126.97581160309355
+					49.08625641385672,
+					103.94747440733983
 				],
 				[
-					56.433510626762676,
-					126.97581160309355
+					46.19872736020248,
+					103.94747440733983
 				],
 				[
-					56.433510626762676,
-					130.50280284404684
+					46.19872736020248,
+					106.83481040563143
 				],
 				[
-					56.433510626762676,
-					134.03002990950156
+					46.19872736020248,
+					109.72233945928544
 				],
 				[
-					52.90651938580965,
-					134.03002990950156
+					43.3113913619111,
+					109.72233945928544
 				],
 				[
-					49.37929232035466,
-					134.03002990950156
+					40.423862308256865,
+					109.72233945928544
 				],
 				[
-					45.85230107940164,
-					134.03002990950156
+					37.53652630996549,
+					109.72233945928544
 				],
 				[
-					45.85230107940164,
-					137.55702115045486
+					37.53652630996549,
+					112.60967545757704
 				],
 				[
-					42.32507401394665,
-					137.55702115045486
+					34.648997256311254,
+					112.60967545757704
 				],
 				[
-					38.798082772993624,
-					137.55702115045486
+					31.761661258019874,
+					112.60967545757704
 				],
 				[
-					35.271091532040074,
-					137.55702115045486
+					28.874325259728067,
+					112.60967545757704
 				],
 				[
-					31.74386446658561,
-					137.55702115045486
+					25.986796206074263,
+					112.60967545757704
 				],
 				[
-					28.21687322563206,
-					137.55702115045486
+					23.099460207782453,
+					112.60967545757704
 				],
 				[
-					24.689646160177595,
-					137.55702115045486
+					20.21193115412865,
+					112.60967545757704
 				],
 				[
-					24.689646160177595,
-					141.08424821590958
+					20.21193115412865,
+					115.49720451123106
 				],
 				[
-					21.162654919224046,
-					141.08424821590958
+					17.324595155836843,
+					115.49720451123106
 				],
 				[
-					21.162654919224046,
-					144.61123945686285
+					17.324595155836843,
+					118.38454050952264
 				],
 				[
-					21.162654919224046,
-					144.61123945686285
+					17.324595155836843,
+					118.38454050952264
 				]
 			],
 			"pressures": [],
@@ -4218,8 +4223,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "line",
-			"version": 2682,
-			"versionNonce": 759528625,
+			"version": 2683,
+			"versionNonce": 1829721055,
 			"isDeleted": false,
 			"id": "yy03osGIgmX3n7kFcDN_q",
 			"fillStyle": "solid",
@@ -4242,7 +4247,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994655097,
+			"updated": 1714995471488,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4279,8 +4284,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "line",
-			"version": 902,
-			"versionNonce": 1706344081,
+			"version": 903,
+			"versionNonce": 757570961,
 			"isDeleted": false,
 			"id": "SQcZZjlHLiKbYNKZWkbmJ",
 			"fillStyle": "solid",
@@ -4302,7 +4307,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994655097,
+			"updated": 1714995471488,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4334,8 +4339,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"type": "text",
 			"x": 2668.178747777313,
 			"y": 1578.4848528115933,
-			"width": 530.4627047527304,
-			"height": 215.509270303875,
+			"width": 530.440185546875,
+			"height": 215.50927030387513,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -4348,11 +4353,11 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"seed": 1024439583,
-			"version": 567,
-			"versionNonce": 916505713,
+			"version": 569,
+			"versionNonce": 1614972127,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1714994655097,
+			"updated": 1714995726788,
 			"link": null,
 			"locked": false,
 			"text": "Funciona como uma lista\nmas os índices não são\nsequênciais e são chamados\nde chaves. Os dados não\nsão ordenados como nas listas",
@@ -4361,7 +4366,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 201.9999999999999,
+			"baseline": 202,
 			"containerId": null,
 			"originalText": "Funciona como uma lista\nmas os índices não são\nsequênciais e são chamados\nde chaves. Os dados não\nsão ordenados como nas listas",
 			"lineHeight": 1.25
@@ -4387,11 +4392,11 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"seed": 1463576287,
-			"version": 63,
-			"versionNonce": 2101885169,
+			"version": 64,
+			"versionNonce": 1784660849,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1714994883284,
+			"updated": 1714995471488,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4413,10 +4418,10 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		{
 			"id": "aDWGweuS",
 			"type": "text",
-			"x": 149.9338117748007,
-			"y": 3078.952068751613,
-			"width": 3616.616943359375,
-			"height": 232.57415771484358,
+			"x": 706.7847028880819,
+			"y": 3088.080486720363,
+			"width": 2539.640869140625,
+			"height": 163.30333074781888,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -4429,28 +4434,109 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"seed": 1452667601,
-			"version": 369,
-			"versionNonce": 1483687921,
+			"version": 538,
+			"versionNonce": 515636369,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1714994959639,
+			"updated": 1714995726793,
 			"link": null,
 			"locked": false,
 			"text": "Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE\n                    e não pelo o valor atribuído a ela!!!",
 			"rawText": "Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE\n                    e não pelo o valor atribuído a ela!!!",
-			"fontSize": 93.02966308593743,
+			"fontSize": 65.32133229912755,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 198,
+			"baseline": 138,
 			"containerId": null,
 			"originalText": "Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE\n                    e não pelo o valor atribuído a ela!!!",
 			"lineHeight": 1.25
 		},
 		{
+			"id": "EBShBe2vfMDOTQfovCIEo",
+			"type": "arrow",
+			"x": 3117.014557814076,
+			"y": 2193.1695489768435,
+			"width": 1138.0456542968755,
+			"height": 6.08561197916697,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1500581855,
+			"version": 127,
+			"versionNonce": 1579126033,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1714995513672,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1138.0456542968755,
+					6.08561197916697
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "UoOSfW3D",
+			"type": "text",
+			"x": 4423.94184459793,
+			"y": 2071.1495599631717,
+			"width": 745.9730834960938,
+			"height": 266.4378772602014,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 429308625,
+			"version": 848,
+			"versionNonce": 947687679,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1714995726795,
+			"link": null,
+			"locked": false,
+			"text": "Quando deletamos uma \nchave em um dicionário,\n deletamos também todos \nos valores atribuídos a ela!",
+			"rawText": "Quando deletamos uma \nchave em um dicionário,\n deletamos também todos \nos valores atribuídos a ela!",
+			"fontSize": 53.28757545204027,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 246,
+			"containerId": null,
+			"originalText": "Quando deletamos uma \nchave em um dicionário,\n deletamos também todos \nos valores atribuídos a ela!",
+			"lineHeight": 1.25
+		},
+		{
 			"type": "ellipse",
-			"version": 506,
-			"versionNonce": 1728051999,
+			"version": 507,
+			"versionNonce": 1846137841,
 			"isDeleted": true,
 			"id": "hl5rdbAlPLOtwJzs2Vu1-",
 			"fillStyle": "solid",
@@ -4475,14 +4561,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 					"id": "F-xA4L-3O8pGUkMxuceA8"
 				}
 			],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 457,
-			"versionNonce": 90704465,
+			"version": 458,
+			"versionNonce": 790781855,
 			"isDeleted": true,
 			"id": "PTZseuQf",
 			"fillStyle": "solid",
@@ -4502,7 +4588,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -4518,8 +4604,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 1016,
-			"versionNonce": 1823555391,
+			"version": 1017,
+			"versionNonce": 309079505,
 			"isDeleted": true,
 			"id": "yfpLE5of1Q94jHlTKJcL_",
 			"fillStyle": "hachure",
@@ -4541,14 +4627,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 1
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 807,
-			"versionNonce": 1635031089,
+			"version": 808,
+			"versionNonce": 1007883199,
 			"isDeleted": true,
 			"id": "6ObGiTVLB2BNC322wgEMA",
 			"fillStyle": "hachure",
@@ -4570,14 +4656,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 1
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 801,
-			"versionNonce": 266665823,
+			"version": 802,
+			"versionNonce": 287853489,
 			"isDeleted": true,
 			"id": "mACH8bYBfoxktWSiQ13zo",
 			"fillStyle": "hachure",
@@ -4599,14 +4685,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 1
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 886,
-			"versionNonce": 208955921,
+			"version": 887,
+			"versionNonce": 756564959,
 			"isDeleted": true,
 			"id": "aCZkBvDY",
 			"fillStyle": "hachure",
@@ -4626,7 +4712,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"fontSize": 12.520371366409199,
@@ -4642,8 +4728,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "ellipse",
-			"version": 997,
-			"versionNonce": 1928051583,
+			"version": 998,
+			"versionNonce": 40218001,
 			"isDeleted": true,
 			"id": "pobWHr7cy1lzVF1KAIedh",
 			"fillStyle": "hachure",
@@ -4665,14 +4751,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1086,
-			"versionNonce": 1331625969,
+			"version": 1087,
+			"versionNonce": 37908479,
 			"isDeleted": true,
 			"id": "hwnNL6Za",
 			"fillStyle": "hachure",
@@ -4694,7 +4780,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"fontSize": 12.520371366409199,
@@ -4710,8 +4796,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "line",
-			"version": 505,
-			"versionNonce": 436597663,
+			"version": 506,
+			"versionNonce": 224121713,
 			"isDeleted": true,
 			"id": "-2NTUtEF_UE5Xfs8teTDj",
 			"fillStyle": "hachure",
@@ -4735,7 +4821,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4756,8 +4842,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "line",
-			"version": 570,
-			"versionNonce": 1748752849,
+			"version": 571,
+			"versionNonce": 1704073247,
 			"isDeleted": true,
 			"id": "OSaOlFrMI87SkbLeAWwA7",
 			"fillStyle": "hachure",
@@ -4781,7 +4867,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4802,8 +4888,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "ellipse",
-			"version": 861,
-			"versionNonce": 761538495,
+			"version": 862,
+			"versionNonce": 106052945,
 			"isDeleted": true,
 			"id": "0XJikUYP--2ejWI6DoKBz",
 			"fillStyle": "hachure",
@@ -4825,14 +4911,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1028,
-			"versionNonce": 1747089329,
+			"version": 1029,
+			"versionNonce": 1828174911,
 			"isDeleted": true,
 			"id": "XpBT92j6",
 			"fillStyle": "hachure",
@@ -4854,7 +4940,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"fontSize": 12.520371366409199,
@@ -4870,8 +4956,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "ellipse",
-			"version": 713,
-			"versionNonce": 2066143199,
+			"version": 714,
+			"versionNonce": 1285581617,
 			"isDeleted": true,
 			"id": "Q-tFA8waGXEYgKWSv9qA_",
 			"fillStyle": "hachure",
@@ -4893,14 +4979,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 841,
-			"versionNonce": 1362778513,
+			"version": 842,
+			"versionNonce": 475257951,
 			"isDeleted": true,
 			"id": "w2F-LMMS5aK_H7HZb6Lzk",
 			"fillStyle": "hachure",
@@ -4924,7 +5010,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4949,8 +5035,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "text",
-			"version": 1013,
-			"versionNonce": 962495487,
+			"version": 1014,
+			"versionNonce": 1756224785,
 			"isDeleted": true,
 			"id": "C02nCZ3e",
 			"fillStyle": "hachure",
@@ -4970,7 +5056,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"fontSize": 12.520371366409199,
@@ -4986,8 +5072,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "line",
-			"version": 588,
-			"versionNonce": 1958412145,
+			"version": 589,
+			"versionNonce": 662108287,
 			"isDeleted": true,
 			"id": "oTDR-euqzHpLRcsHfk_l3",
 			"fillStyle": "hachure",
@@ -5011,7 +5097,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -5032,8 +5118,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "line",
-			"version": 653,
-			"versionNonce": 134982687,
+			"version": 654,
+			"versionNonce": 1777472241,
 			"isDeleted": true,
 			"id": "c73XByyrU0i70oFzBSRol",
 			"fillStyle": "hachure",
@@ -5057,7 +5143,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -5078,8 +5164,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "text",
-			"version": 1157,
-			"versionNonce": 283896145,
+			"version": 1158,
+			"versionNonce": 1948356767,
 			"isDeleted": true,
 			"id": "CJh2bbe7",
 			"fillStyle": "hachure",
@@ -5099,7 +5185,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"fontSize": 12.520371366409199,
@@ -5115,8 +5201,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "line",
-			"version": 702,
-			"versionNonce": 857657407,
+			"version": 703,
+			"versionNonce": 83135697,
 			"isDeleted": true,
 			"id": "VziXJ1pvsT1o8s8uolzF-",
 			"fillStyle": "hachure",
@@ -5140,7 +5226,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -5161,8 +5247,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "line",
-			"version": 767,
-			"versionNonce": 790927153,
+			"version": 768,
+			"versionNonce": 1543775423,
 			"isDeleted": true,
 			"id": "eX53tHuq9gUTypii4WGgW",
 			"fillStyle": "hachure",
@@ -5186,7 +5272,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -5207,8 +5293,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "text",
-			"version": 610,
-			"versionNonce": 880308319,
+			"version": 611,
+			"versionNonce": 1900858033,
 			"isDeleted": true,
 			"id": "0NvoUk5x",
 			"fillStyle": "hachure",
@@ -5228,7 +5314,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"fontSize": 51.86128260725637,
@@ -5244,8 +5330,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "text",
-			"version": 943,
-			"versionNonce": 1103923473,
+			"version": 944,
+			"versionNonce": 784282847,
 			"isDeleted": true,
 			"id": "S6ixi88B",
 			"fillStyle": "hachure",
@@ -5267,7 +5353,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -5283,8 +5369,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "text",
-			"version": 983,
-			"versionNonce": 1978207359,
+			"version": 984,
+			"versionNonce": 128076945,
 			"isDeleted": true,
 			"id": "Z7Grj8UC",
 			"fillStyle": "hachure",
@@ -5306,7 +5392,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -5322,8 +5408,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "text",
-			"version": 1018,
-			"versionNonce": 39534321,
+			"version": 1019,
+			"versionNonce": 1944273151,
 			"isDeleted": true,
 			"id": "DQbE88V3",
 			"fillStyle": "hachure",
@@ -5345,7 +5431,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -5361,8 +5447,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "text",
-			"version": 1043,
-			"versionNonce": 1395729567,
+			"version": 1044,
+			"versionNonce": 531403377,
 			"isDeleted": true,
 			"id": "tVNea5fF",
 			"fillStyle": "hachure",
@@ -5384,7 +5470,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -5400,8 +5486,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "line",
-			"version": 180,
-			"versionNonce": 257439953,
+			"version": 181,
+			"versionNonce": 1827719455,
 			"isDeleted": true,
 			"id": "PgnQStUAMOPcWsgWxeV7T",
 			"fillStyle": "hachure",
@@ -5425,7 +5511,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -5446,8 +5532,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "line",
-			"version": 157,
-			"versionNonce": 1543583935,
+			"version": 158,
+			"versionNonce": 775101521,
 			"isDeleted": true,
 			"id": "8FIXIcXfRfPniw-F1cL23",
 			"fillStyle": "hachure",
@@ -5471,7 +5557,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -5492,8 +5578,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "text",
-			"version": 664,
-			"versionNonce": 1247475377,
+			"version": 665,
+			"versionNonce": 1465404735,
 			"isDeleted": true,
 			"id": "TLpWgydX",
 			"fillStyle": "hachure",
@@ -5513,7 +5599,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"fontSize": 97.86100663182941,
@@ -5529,8 +5615,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 1174,
-			"versionNonce": 1442433247,
+			"version": 1175,
+			"versionNonce": 588081713,
 			"isDeleted": true,
 			"id": "KaPvP_G_M-3AHQBL2M1wm",
 			"fillStyle": "hachure",
@@ -5552,14 +5638,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 1
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 786,
-			"versionNonce": 1980430481,
+			"version": 787,
+			"versionNonce": 1853508959,
 			"isDeleted": true,
 			"id": "96l8YT-3gEgRzO59-xzYH",
 			"fillStyle": "hachure",
@@ -5583,7 +5669,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -5604,8 +5690,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "line",
-			"version": 851,
-			"versionNonce": 2125157631,
+			"version": 852,
+			"versionNonce": 119733265,
 			"isDeleted": true,
 			"id": "N3FHSeY6oM1O0P9Z1akPg",
 			"fillStyle": "hachure",
@@ -5629,7 +5715,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -5650,8 +5736,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "line",
-			"version": 972,
-			"versionNonce": 337624689,
+			"version": 973,
+			"versionNonce": 765938047,
 			"isDeleted": true,
 			"id": "wyA_-MOVRs5QGeI93vBJ_",
 			"fillStyle": "hachure",
@@ -5676,7 +5762,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -5701,8 +5787,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 1309,
-			"versionNonce": 227958047,
+			"version": 1310,
+			"versionNonce": 1516982769,
 			"isDeleted": true,
 			"id": "sKA2y3SyEt2EwZ-t28iyb",
 			"fillStyle": "hachure",
@@ -5724,14 +5810,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 1
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 1295,
-			"versionNonce": 56674385,
+			"version": 1296,
+			"versionNonce": 1377812895,
 			"isDeleted": true,
 			"id": "bYNmGlHYe-IEaRdkdFx9O",
 			"fillStyle": "hachure",
@@ -5753,14 +5839,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 1
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 972,
-			"versionNonce": 1982554431,
+			"version": 973,
+			"versionNonce": 837675985,
 			"isDeleted": true,
 			"id": "rqJvDPbR",
 			"fillStyle": "hachure",
@@ -5782,7 +5868,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"fontSize": 12.520371366409199,
@@ -5798,8 +5884,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 1323,
-			"versionNonce": 1571132977,
+			"version": 1324,
+			"versionNonce": 487863743,
 			"isDeleted": true,
 			"id": "QJTnMj1-P7vo4pJJCiEy6",
 			"fillStyle": "hachure",
@@ -5821,14 +5907,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 1
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 753,
-			"versionNonce": 1774903647,
+			"version": 754,
+			"versionNonce": 365054385,
 			"isDeleted": true,
 			"id": "LB1q7rvxoLQ2Ww3qaFj3l",
 			"fillStyle": "hachure",
@@ -5850,7 +5936,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -5875,8 +5961,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 1354,
-			"versionNonce": 366323729,
+			"version": 1355,
+			"versionNonce": 1436886495,
 			"isDeleted": true,
 			"id": "Dk1ezJPuG6vegU2y9IH8L",
 			"fillStyle": "hachure",
@@ -5898,14 +5984,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 1
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 802,
-			"versionNonce": 432364927,
+			"version": 803,
+			"versionNonce": 521137041,
 			"isDeleted": true,
 			"id": "4in4Ri7wfKnmRPk47-5HK",
 			"fillStyle": "hachure",
@@ -5927,7 +6013,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -5952,8 +6038,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 1403,
-			"versionNonce": 1441299953,
+			"version": 1404,
+			"versionNonce": 182653439,
 			"isDeleted": true,
 			"id": "ttF5R2OkS1lxxdWzZqbiR",
 			"fillStyle": "hachure",
@@ -5975,14 +6061,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 1
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 901,
-			"versionNonce": 962287007,
+			"version": 902,
+			"versionNonce": 1443778929,
 			"isDeleted": true,
 			"id": "8e8ICIjluiT62_GjCHBDs",
 			"fillStyle": "hachure",
@@ -6004,7 +6090,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6029,8 +6115,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 1391,
-			"versionNonce": 484808657,
+			"version": 1392,
+			"versionNonce": 365853215,
 			"isDeleted": true,
 			"id": "qJ5wP8J5are15DYUw0kAL",
 			"fillStyle": "hachure",
@@ -6052,14 +6138,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 1
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 932,
-			"versionNonce": 1069369791,
+			"version": 933,
+			"versionNonce": 1342503761,
 			"isDeleted": true,
 			"id": "bNK2lU8ZQnN1S2tUJ5ru9",
 			"fillStyle": "hachure",
@@ -6081,7 +6167,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6106,8 +6192,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 1487,
-			"versionNonce": 484734385,
+			"version": 1488,
+			"versionNonce": 1532485183,
 			"isDeleted": true,
 			"id": "3OmjWVykEgrPBELOh_C9i",
 			"fillStyle": "hachure",
@@ -6129,14 +6215,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 1
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 1527,
-			"versionNonce": 1779153375,
+			"version": 1528,
+			"versionNonce": 223045937,
 			"isDeleted": true,
 			"id": "MPw_0wkOyb2Vy2FZRzNWP",
 			"fillStyle": "hachure",
@@ -6158,14 +6244,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 1
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 1596,
-			"versionNonce": 1493997457,
+			"version": 1597,
+			"versionNonce": 1314897503,
 			"isDeleted": true,
 			"id": "Eoz9NU3FIZE-Nr-ArkrYU",
 			"fillStyle": "hachure",
@@ -6187,14 +6273,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 1
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 1608,
-			"versionNonce": 2102863359,
+			"version": 1609,
+			"versionNonce": 390667025,
 			"isDeleted": true,
 			"id": "XXAgAVJJJw2mip0NykfMU",
 			"fillStyle": "hachure",
@@ -6216,14 +6302,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 1
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 937,
-			"versionNonce": 60128625,
+			"version": 938,
+			"versionNonce": 834050687,
 			"isDeleted": true,
 			"id": "mkvTFenUv-l3ncpLzN9lP",
 			"fillStyle": "hachure",
@@ -6247,7 +6333,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6272,8 +6358,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "line",
-			"version": 514,
-			"versionNonce": 1218448927,
+			"version": 515,
+			"versionNonce": 1584763121,
 			"isDeleted": true,
 			"id": "E2Rnv1nKvpiKy6JrS6XbO",
 			"fillStyle": "hachure",
@@ -6297,7 +6383,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6318,8 +6404,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "line",
-			"version": 1005,
-			"versionNonce": 466003793,
+			"version": 1006,
+			"versionNonce": 438104735,
 			"isDeleted": true,
 			"id": "oApRgkeLEp09nGgjTCuvr",
 			"fillStyle": "hachure",
@@ -6343,7 +6429,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6368,8 +6454,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "line",
-			"version": 571,
-			"versionNonce": 1725362751,
+			"version": 572,
+			"versionNonce": 1482181329,
 			"isDeleted": true,
 			"id": "PqXZZ54hFqkRGM5QQe0aw",
 			"fillStyle": "hachure",
@@ -6393,7 +6479,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6414,8 +6500,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "line",
-			"version": 1130,
-			"versionNonce": 1274516785,
+			"version": 1131,
+			"versionNonce": 809715391,
 			"isDeleted": true,
 			"id": "lXDMXT2GihdzEtKpmHEVQ",
 			"fillStyle": "hachure",
@@ -6439,7 +6525,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6464,8 +6550,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "line",
-			"version": 728,
-			"versionNonce": 1088180831,
+			"version": 729,
+			"versionNonce": 1569245361,
 			"isDeleted": true,
 			"id": "i_j7vByPwktHaIsBH5eCQ",
 			"fillStyle": "hachure",
@@ -6489,7 +6575,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6510,8 +6596,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "line",
-			"version": 1187,
-			"versionNonce": 126863121,
+			"version": 1188,
+			"versionNonce": 852104927,
 			"isDeleted": true,
 			"id": "zBT1oMz8OTjjPwm4ggOTd",
 			"fillStyle": "hachure",
@@ -6535,7 +6621,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6560,8 +6646,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "line",
-			"version": 767,
-			"versionNonce": 1333833343,
+			"version": 768,
+			"versionNonce": 1202621073,
 			"isDeleted": true,
 			"id": "64dGKPGK5lrS1IDF8XFPd",
 			"fillStyle": "hachure",
@@ -6585,7 +6671,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6606,8 +6692,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 1313,
-			"versionNonce": 1762049265,
+			"version": 1314,
+			"versionNonce": 943842047,
 			"isDeleted": true,
 			"id": "wQmXfsOmTDg5U3oo84yvD",
 			"fillStyle": "hachure",
@@ -6629,14 +6715,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 1
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 512,
-			"versionNonce": 495224479,
+			"version": 513,
+			"versionNonce": 1333858417,
 			"isDeleted": true,
 			"id": "OVOfGjohkmVkm8zHFlS8_",
 			"fillStyle": "hachure",
@@ -6658,14 +6744,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 745,
-			"versionNonce": 1340339921,
+			"version": 746,
+			"versionNonce": 824912671,
 			"isDeleted": true,
 			"id": "VQs5l6yD2g5gzTF51qkSw",
 			"fillStyle": "hachure",
@@ -6689,7 +6775,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6714,8 +6800,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "line",
-			"version": 824,
-			"versionNonce": 160979647,
+			"version": 825,
+			"versionNonce": 717740625,
 			"isDeleted": true,
 			"id": "k7sKQSaDgVpG_Xgy1O1kY",
 			"fillStyle": "hachure",
@@ -6739,7 +6825,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6764,8 +6850,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 1347,
-			"versionNonce": 1052701873,
+			"version": 1348,
+			"versionNonce": 704016191,
 			"isDeleted": true,
 			"id": "SV5g20flSOM0GCKY2V9N9",
 			"fillStyle": "hachure",
@@ -6787,14 +6873,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 1
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 1599,
-			"versionNonce": 1214032607,
+			"version": 1600,
+			"versionNonce": 1784309809,
 			"isDeleted": true,
 			"id": "jQRv1eqJ34akTZ8uTHTCD",
 			"fillStyle": "hachure",
@@ -6816,7 +6902,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6873,8 +6959,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 1341,
-			"versionNonce": 2034185873,
+			"version": 1342,
+			"versionNonce": 1292119903,
 			"isDeleted": true,
 			"id": "Qf2RwyWYSs3-itvrpV-w0",
 			"fillStyle": "hachure",
@@ -6896,14 +6982,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 1
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 508,
-			"versionNonce": 643954431,
+			"version": 509,
+			"versionNonce": 404765201,
 			"isDeleted": true,
 			"id": "uEY4SYtCs7s4e0dpzenJC",
 			"fillStyle": "hachure",
@@ -6923,14 +7009,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 778,
-			"versionNonce": 1646017649,
+			"version": 779,
+			"versionNonce": 614787967,
 			"isDeleted": true,
 			"id": "_gKLAKoNK-KVqciBjV0zO",
 			"fillStyle": "hachure",
@@ -6952,7 +7038,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6985,8 +7071,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 1378,
-			"versionNonce": 170442527,
+			"version": 1379,
+			"versionNonce": 353423345,
 			"isDeleted": true,
 			"id": "GA8fNcumRPUPsEJOiULRI",
 			"fillStyle": "hachure",
@@ -7008,14 +7094,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 1
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 1896,
-			"versionNonce": 421365329,
+			"version": 1897,
+			"versionNonce": 488186783,
 			"isDeleted": true,
 			"id": "BHVDMf72grfJIN04cXpYJ",
 			"fillStyle": "hachure",
@@ -7037,7 +7123,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7110,8 +7196,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 1498,
-			"versionNonce": 908165951,
+			"version": 1499,
+			"versionNonce": 926132689,
 			"isDeleted": true,
 			"id": "tkbRTgJMq5dk5pShqs4HJ",
 			"fillStyle": "hachure",
@@ -7133,14 +7219,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 1
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 573,
-			"versionNonce": 1494914097,
+			"version": 574,
+			"versionNonce": 1183930303,
 			"isDeleted": true,
 			"id": "A4Qam8JWZf5CPjLvRpR8V",
 			"fillStyle": "hachure",
@@ -7162,14 +7248,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 574,
-			"versionNonce": 1252836191,
+			"version": 575,
+			"versionNonce": 664815537,
 			"isDeleted": true,
 			"id": "sjP5EaMtSICO5v1-waKv_",
 			"fillStyle": "hachure",
@@ -7193,7 +7279,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7214,8 +7300,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 1536,
-			"versionNonce": 368764433,
+			"version": 1537,
+			"versionNonce": 1462634463,
 			"isDeleted": true,
 			"id": "sQm4ivPkH2FlZ3VUi8UAt",
 			"fillStyle": "hachure",
@@ -7237,14 +7323,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 1
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 679,
-			"versionNonce": 135987071,
+			"version": 680,
+			"versionNonce": 8268177,
 			"isDeleted": true,
 			"id": "HDjmRO378ZgNYeTqP02Vv",
 			"fillStyle": "hachure",
@@ -7266,7 +7352,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7295,8 +7381,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 1599,
-			"versionNonce": 1521875953,
+			"version": 1600,
+			"versionNonce": 1828697087,
 			"isDeleted": true,
 			"id": "XG3sMxWLsP24KYLRifq93",
 			"fillStyle": "hachure",
@@ -7318,14 +7404,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 1
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 644,
-			"versionNonce": 1353496479,
+			"version": 645,
+			"versionNonce": 721735537,
 			"isDeleted": true,
 			"id": "bnTERgw8FDAw5WORg47M6",
 			"fillStyle": "hachure",
@@ -7349,14 +7435,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 1
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 672,
-			"versionNonce": 1733514705,
+			"version": 673,
+			"versionNonce": 268885023,
 			"isDeleted": true,
 			"id": "8qqJ9aUzeh5q2KNwonWtk",
 			"fillStyle": "hachure",
@@ -7380,14 +7466,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 1
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 1637,
-			"versionNonce": 1787980735,
+			"version": 1638,
+			"versionNonce": 2105260369,
 			"isDeleted": true,
 			"id": "7JohFiuldrsWDp0vqm8IU",
 			"fillStyle": "hachure",
@@ -7409,14 +7495,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 1
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 594,
-			"versionNonce": 250246065,
+			"version": 595,
+			"versionNonce": 1949564991,
 			"isDeleted": true,
 			"id": "pOvZj3zWk7aQJ3Fc6msRZ",
 			"fillStyle": "hachure",
@@ -7438,14 +7524,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 1
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 1628,
-			"versionNonce": 32283615,
+			"version": 1629,
+			"versionNonce": 423257905,
 			"isDeleted": true,
 			"id": "J0Kcj-3LNeueHRySQgOgE",
 			"fillStyle": "hachure",
@@ -7467,14 +7553,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 1
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 620,
-			"versionNonce": 1436734865,
+			"version": 621,
+			"versionNonce": 2070388831,
 			"isDeleted": true,
 			"id": "HH6JGKikxVXLv582bp1HD",
 			"fillStyle": "hachure",
@@ -7498,7 +7584,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7527,8 +7613,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "line",
-			"version": 637,
-			"versionNonce": 1791739903,
+			"version": 638,
+			"versionNonce": 145250577,
 			"isDeleted": true,
 			"id": "UhSvrGUsQhDBW81RvdNf0",
 			"fillStyle": "hachure",
@@ -7552,7 +7638,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7581,8 +7667,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 1716,
-			"versionNonce": 1320418161,
+			"version": 1717,
+			"versionNonce": 2003975295,
 			"isDeleted": true,
 			"id": "8Piw1SICDu7c-f0lQmUzP",
 			"fillStyle": "hachure",
@@ -7604,14 +7690,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 1
 			},
 			"boundElements": [],
-			"updated": 1714994545753,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 590,
-			"versionNonce": 590376991,
+			"version": 591,
+			"versionNonce": 490540785,
 			"isDeleted": true,
 			"id": "e7X9rS917rIZlGpJsLY1i",
 			"fillStyle": "hachure",
@@ -7635,7 +7721,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7656,8 +7742,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "line",
-			"version": 560,
-			"versionNonce": 979723601,
+			"version": 561,
+			"versionNonce": 739529887,
 			"isDeleted": true,
 			"id": "yuDd9LgBMyiKjHU8S0Gyt",
 			"fillStyle": "hachure",
@@ -7681,7 +7767,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7702,8 +7788,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 1771,
-			"versionNonce": 353047615,
+			"version": 1772,
+			"versionNonce": 226494673,
 			"isDeleted": true,
 			"id": "D3UPkTYXQOhGOk9S2TU2e",
 			"fillStyle": "hachure",
@@ -7725,14 +7811,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 1
 			},
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471485,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 559,
-			"versionNonce": 1678676785,
+			"version": 560,
+			"versionNonce": 285108415,
 			"isDeleted": true,
 			"id": "PUAT6FrHYgCYxAo1PWdgI",
 			"fillStyle": "hachure",
@@ -7754,7 +7840,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7775,8 +7861,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 1483,
-			"versionNonce": 406598751,
+			"version": 1484,
+			"versionNonce": 1393084081,
 			"isDeleted": true,
 			"id": "-oIhm3eVKgcCct-YdufTi",
 			"fillStyle": "hachure",
@@ -7798,14 +7884,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 1
 			},
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 682,
-			"versionNonce": 1075250449,
+			"version": 683,
+			"versionNonce": 1406204127,
 			"isDeleted": true,
 			"id": "sEoBupGMu4LDqAhyoIAmq",
 			"fillStyle": "hachure",
@@ -7829,7 +7915,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7850,8 +7936,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "line",
-			"version": 656,
-			"versionNonce": 882135167,
+			"version": 657,
+			"versionNonce": 1216268433,
 			"isDeleted": true,
 			"id": "IQ5tXhGyGwP85qkcMtOrA",
 			"fillStyle": "hachure",
@@ -7875,7 +7961,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7896,8 +7982,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "line",
-			"version": 707,
-			"versionNonce": 1240873713,
+			"version": 708,
+			"versionNonce": 438076671,
 			"isDeleted": true,
 			"id": "TUeIasHiROf1Dd8nBUeYg",
 			"fillStyle": "hachure",
@@ -7921,7 +8007,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7942,8 +8028,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "text",
-			"version": 992,
-			"versionNonce": 601090207,
+			"version": 993,
+			"versionNonce": 127503985,
 			"isDeleted": true,
 			"id": "Cr8Eth8i",
 			"fillStyle": "hachure",
@@ -7963,7 +8049,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 65.3734950053043,
@@ -7979,8 +8065,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "diamond",
-			"version": 2224,
-			"versionNonce": 573813969,
+			"version": 2225,
+			"versionNonce": 56724767,
 			"isDeleted": true,
 			"id": "lJJOaer8ehVAJsHl6pgRC",
 			"fillStyle": "solid",
@@ -8000,14 +8086,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 2112,
-			"versionNonce": 330005695,
+			"version": 2113,
+			"versionNonce": 119576657,
 			"isDeleted": true,
 			"id": "APUdX98t",
 			"fillStyle": "solid",
@@ -8027,7 +8113,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -8043,8 +8129,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "arrow",
-			"version": 6751,
-			"versionNonce": 1818686129,
+			"version": 6752,
+			"versionNonce": 1796247871,
 			"isDeleted": true,
 			"id": "ZQdB4sAfWa1Kw3u8-IgLO",
 			"fillStyle": "solid",
@@ -8066,7 +8152,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -8095,8 +8181,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "text",
-			"version": 2459,
-			"versionNonce": 666602719,
+			"version": 2460,
+			"versionNonce": 2028693041,
 			"isDeleted": true,
 			"id": "EdVe3Zor",
 			"fillStyle": "solid",
@@ -8118,7 +8204,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 13.344432407818116,
@@ -8134,8 +8220,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "ellipse",
-			"version": 2602,
-			"versionNonce": 1832350865,
+			"version": 2603,
+			"versionNonce": 1787433311,
 			"isDeleted": true,
 			"id": "7IfxOgppXDOoJtshnLF3X",
 			"fillStyle": "solid",
@@ -8157,14 +8243,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 2440,
-			"versionNonce": 999594239,
+			"version": 2441,
+			"versionNonce": 1742829585,
 			"isDeleted": true,
 			"id": "JetfYlVl",
 			"fillStyle": "solid",
@@ -8186,7 +8272,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 13.344432407818116,
@@ -8202,8 +8288,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "ellipse",
-			"version": 2574,
-			"versionNonce": 1750907505,
+			"version": 2575,
+			"versionNonce": 454987135,
 			"isDeleted": true,
 			"id": "gc4ZSC8XZjmFBqPvRsoXN",
 			"fillStyle": "solid",
@@ -8225,14 +8311,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 4717,
-			"versionNonce": 1689723167,
+			"version": 4718,
+			"versionNonce": 368725489,
 			"isDeleted": true,
 			"id": "TmdD3i-OJJWD5SlU1VL0L",
 			"fillStyle": "solid",
@@ -8254,7 +8340,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -8283,8 +8369,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "arrow",
-			"version": 3296,
-			"versionNonce": 1050559569,
+			"version": 3297,
+			"versionNonce": 403604895,
 			"isDeleted": true,
 			"id": "g73OlfWkz-6om1-wzp__6",
 			"fillStyle": "solid",
@@ -8306,7 +8392,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8331,8 +8417,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "arrow",
-			"version": 5216,
-			"versionNonce": 882091327,
+			"version": 5217,
+			"versionNonce": 440231889,
 			"isDeleted": true,
 			"id": "lcW1Z8WooQzjyzpj3tU1b",
 			"fillStyle": "solid",
@@ -8354,7 +8440,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8379,8 +8465,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "arrow",
-			"version": 4737,
-			"versionNonce": 1272156721,
+			"version": 4738,
+			"versionNonce": 1082816959,
 			"isDeleted": true,
 			"id": "TrMZziRqn1rWD81QWw6pX",
 			"fillStyle": "solid",
@@ -8402,7 +8488,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -8427,8 +8513,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "text",
-			"version": 508,
-			"versionNonce": 982164831,
+			"version": 509,
+			"versionNonce": 1052919217,
 			"isDeleted": true,
 			"id": "irHqXzsJ",
 			"fillStyle": "hachure",
@@ -8448,7 +8534,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 68.19735326522438,
@@ -8464,8 +8550,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 681,
-			"versionNonce": 82060305,
+			"version": 682,
+			"versionNonce": 968026591,
 			"isDeleted": true,
 			"id": "evZNW--ARKhxNONqtaiMG",
 			"fillStyle": "hachure",
@@ -8489,14 +8575,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 1
 			},
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 757,
-			"versionNonce": 1173135743,
+			"version": 758,
+			"versionNonce": 514877329,
 			"isDeleted": true,
 			"id": "NWl43q46",
 			"fillStyle": "hachure",
@@ -8518,7 +8604,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 17.876598241576595,
@@ -8534,8 +8620,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 858,
-			"versionNonce": 1439136241,
+			"version": 859,
+			"versionNonce": 815289855,
 			"isDeleted": true,
 			"id": "VisdcZxyLR-_K6Q3VU8Bv",
 			"fillStyle": "hachure",
@@ -8559,14 +8645,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 1
 			},
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1032,
-			"versionNonce": 1744443807,
+			"version": 1033,
+			"versionNonce": 71257457,
 			"isDeleted": true,
 			"id": "ifkfnpC1",
 			"fillStyle": "hachure",
@@ -8588,7 +8674,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 17.188833701185466,
@@ -8604,8 +8690,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 717,
-			"versionNonce": 1065685969,
+			"version": 718,
+			"versionNonce": 1547386399,
 			"isDeleted": true,
 			"id": "TwLqDOO6n5RvJH2R8uYiF",
 			"fillStyle": "hachure",
@@ -8630,14 +8716,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 1
 			},
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 831,
-			"versionNonce": 904105407,
+			"version": 832,
+			"versionNonce": 112621393,
 			"isDeleted": true,
 			"id": "b8wzAPy6",
 			"fillStyle": "hachure",
@@ -8660,7 +8746,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 17.431982781121597,
@@ -8676,8 +8762,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "line",
-			"version": 976,
-			"versionNonce": 909406641,
+			"version": 977,
+			"versionNonce": 1066148415,
 			"isDeleted": true,
 			"id": "oi-EH1yu9cCJ3KP4e5_2-",
 			"fillStyle": "hachure",
@@ -8701,7 +8787,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8726,8 +8812,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "line",
-			"version": 1520,
-			"versionNonce": 1254718943,
+			"version": 1521,
+			"versionNonce": 1751999793,
 			"isDeleted": true,
 			"id": "YkMkol142DcIdA94x6Ud-",
 			"fillStyle": "hachure",
@@ -8751,7 +8837,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8808,8 +8894,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 788,
-			"versionNonce": 1056773009,
+			"version": 789,
+			"versionNonce": 728466015,
 			"isDeleted": true,
 			"id": "XY0xGV8n4nO8AqbeatIIs",
 			"fillStyle": "hachure",
@@ -8833,14 +8919,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 1
 			},
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 832,
-			"versionNonce": 163342847,
+			"version": 833,
+			"versionNonce": 885757713,
 			"isDeleted": true,
 			"id": "zMuuEDCR",
 			"fillStyle": "hachure",
@@ -8862,7 +8948,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 16.761586032154508,
@@ -8878,8 +8964,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 866,
-			"versionNonce": 1310095729,
+			"version": 867,
+			"versionNonce": 11132543,
 			"isDeleted": true,
 			"id": "xuepX5ktAXc5_aHtTaF4X",
 			"fillStyle": "hachure",
@@ -8903,14 +8989,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 1
 			},
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1084,
-			"versionNonce": 532468255,
+			"version": 1085,
+			"versionNonce": 508071153,
 			"isDeleted": true,
 			"id": "9VdoXDG6",
 			"fillStyle": "hachure",
@@ -8932,7 +9018,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 16.605275909338378,
@@ -8948,8 +9034,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "line",
-			"version": 1034,
-			"versionNonce": 1690837841,
+			"version": 1035,
+			"versionNonce": 839366303,
 			"isDeleted": true,
 			"id": "99ecwCKhdOIli142YR6aH",
 			"fillStyle": "hachure",
@@ -8974,7 +9060,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8999,8 +9085,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 900,
-			"versionNonce": 1169897023,
+			"version": 901,
+			"versionNonce": 476825297,
 			"isDeleted": true,
 			"id": "heZ15pgfx0gwcJTVxUmAg",
 			"fillStyle": "hachure",
@@ -9024,14 +9110,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 1
 			},
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1120,
-			"versionNonce": 1869189425,
+			"version": 1121,
+			"versionNonce": 104172223,
 			"isDeleted": true,
 			"id": "OgREqbfg",
 			"fillStyle": "hachure",
@@ -9053,7 +9139,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 16.990840878951545,
@@ -9069,8 +9155,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "line",
-			"version": 1581,
-			"versionNonce": 1117263455,
+			"version": 1582,
+			"versionNonce": 1238156465,
 			"isDeleted": true,
 			"id": "3P3g8f9Nthhw5lb9Uusxa",
 			"fillStyle": "hachure",
@@ -9095,7 +9181,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -9152,8 +9238,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 297,
-			"versionNonce": 1667384081,
+			"version": 298,
+			"versionNonce": 433314527,
 			"isDeleted": true,
 			"id": "-TC_wv7l92du5RRn2ztd6",
 			"fillStyle": "solid",
@@ -9173,14 +9259,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 219,
-			"versionNonce": 757330559,
+			"version": 220,
+			"versionNonce": 34801297,
 			"isDeleted": true,
 			"id": "UVXaW2gpogBI6e40n0xep",
 			"fillStyle": "solid",
@@ -9200,14 +9286,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 192,
-			"versionNonce": 489273585,
+			"version": 193,
+			"versionNonce": 561194751,
 			"isDeleted": true,
 			"id": "mNqasZ2U9l0wOhzDF_he7",
 			"fillStyle": "solid",
@@ -9227,14 +9313,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 128,
-			"versionNonce": 1847544479,
+			"version": 129,
+			"versionNonce": 1073089649,
 			"isDeleted": true,
 			"id": "s09TcZreiPVBkmXDOCVAS",
 			"fillStyle": "solid",
@@ -9254,14 +9340,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 162,
-			"versionNonce": 2118611665,
+			"version": 163,
+			"versionNonce": 1804857119,
 			"isDeleted": true,
 			"id": "MyD0Am2S",
 			"fillStyle": "solid",
@@ -9281,7 +9367,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -9297,8 +9383,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "text",
-			"version": 160,
-			"versionNonce": 37396159,
+			"version": 161,
+			"versionNonce": 993875537,
 			"isDeleted": true,
 			"id": "gyWhSsfK",
 			"fillStyle": "solid",
@@ -9318,7 +9404,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 65.97550123565057,
@@ -9334,8 +9420,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "text",
-			"version": 147,
-			"versionNonce": 1263726769,
+			"version": 148,
+			"versionNonce": 581350207,
 			"isDeleted": true,
 			"id": "AQtQsjhN",
 			"fillStyle": "solid",
@@ -9357,7 +9443,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 26.400011564555935,
@@ -9373,8 +9459,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "line",
-			"version": 154,
-			"versionNonce": 2081844959,
+			"version": 155,
+			"versionNonce": 1187013681,
 			"isDeleted": true,
 			"id": "rNOYp1dnJSI7LySF933fR",
 			"fillStyle": "solid",
@@ -9398,7 +9484,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -9419,8 +9505,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "text",
-			"version": 239,
-			"versionNonce": 1240707729,
+			"version": 240,
+			"versionNonce": 1326183263,
 			"isDeleted": true,
 			"id": "DdV7TB9E",
 			"fillStyle": "solid",
@@ -9440,7 +9526,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -9456,8 +9542,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "text",
-			"version": 224,
-			"versionNonce": 1178811135,
+			"version": 225,
+			"versionNonce": 1852225041,
 			"isDeleted": true,
 			"id": "mMUexFOZ",
 			"fillStyle": "solid",
@@ -9477,7 +9563,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 65.97550123565057,
@@ -9493,8 +9579,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "text",
-			"version": 203,
-			"versionNonce": 518076529,
+			"version": 204,
+			"versionNonce": 420753279,
 			"isDeleted": true,
 			"id": "abQkYUrP",
 			"fillStyle": "solid",
@@ -9516,7 +9602,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 26.400011564555935,
@@ -9532,8 +9618,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "line",
-			"version": 210,
-			"versionNonce": 625050399,
+			"version": 211,
+			"versionNonce": 1428671473,
 			"isDeleted": true,
 			"id": "jfQ4o9S4QQgLadIStF3pZ",
 			"fillStyle": "solid",
@@ -9557,7 +9643,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -9578,8 +9664,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "text",
-			"version": 304,
-			"versionNonce": 1810039377,
+			"version": 305,
+			"versionNonce": 1258284959,
 			"isDeleted": true,
 			"id": "KuIGVRyR",
 			"fillStyle": "solid",
@@ -9599,7 +9685,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -9615,8 +9701,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "text",
-			"version": 259,
-			"versionNonce": 2038548287,
+			"version": 260,
+			"versionNonce": 1393239505,
 			"isDeleted": true,
 			"id": "NAgufGMZ",
 			"fillStyle": "solid",
@@ -9636,7 +9722,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 65.97550123565057,
@@ -9652,8 +9738,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "text",
-			"version": 246,
-			"versionNonce": 768643121,
+			"version": 247,
+			"versionNonce": 318741439,
 			"isDeleted": true,
 			"id": "4byvWfRk",
 			"fillStyle": "solid",
@@ -9675,7 +9761,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 26.400011564555935,
@@ -9691,8 +9777,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "line",
-			"version": 253,
-			"versionNonce": 1097107295,
+			"version": 254,
+			"versionNonce": 1395147697,
 			"isDeleted": true,
 			"id": "gMrqyXWbtUgybExiXolrV",
 			"fillStyle": "solid",
@@ -9716,7 +9802,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -9737,8 +9823,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "text",
-			"version": 345,
-			"versionNonce": 1519477265,
+			"version": 346,
+			"versionNonce": 87280607,
 			"isDeleted": true,
 			"id": "qle8M56E",
 			"fillStyle": "solid",
@@ -9758,7 +9844,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -9774,8 +9860,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "text",
-			"version": 136,
-			"versionNonce": 1530545023,
+			"version": 137,
+			"versionNonce": 1906746769,
 			"isDeleted": true,
 			"id": "wdcaKJvQ",
 			"fillStyle": "solid",
@@ -9795,7 +9881,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 18.135923120196207,
@@ -9811,8 +9897,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "text",
-			"version": 175,
-			"versionNonce": 1058863089,
+			"version": 176,
+			"versionNonce": 1571616767,
 			"isDeleted": true,
 			"id": "MCuqrY1c",
 			"fillStyle": "solid",
@@ -9832,7 +9918,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 18.135923120196207,
@@ -9848,8 +9934,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "text",
-			"version": 220,
-			"versionNonce": 121863071,
+			"version": 221,
+			"versionNonce": 1505610609,
 			"isDeleted": true,
 			"id": "0DqAxw8d",
 			"fillStyle": "solid",
@@ -9869,7 +9955,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 18.135923120196207,
@@ -9885,8 +9971,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "text",
-			"version": 136,
-			"versionNonce": 494588369,
+			"version": 137,
+			"versionNonce": 40607775,
 			"isDeleted": true,
 			"id": "DrWbw1O0",
 			"fillStyle": "solid",
@@ -9906,7 +9992,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 18.504063055767276,
@@ -9922,8 +10008,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "text",
-			"version": 166,
-			"versionNonce": 699445183,
+			"version": 167,
+			"versionNonce": 1672820049,
 			"isDeleted": true,
 			"id": "uBUiLNga",
 			"fillStyle": "solid",
@@ -9943,7 +10029,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 18.504063055767276,
@@ -9959,8 +10045,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "text",
-			"version": 200,
-			"versionNonce": 180514737,
+			"version": 201,
+			"versionNonce": 1163936831,
 			"isDeleted": true,
 			"id": "roZu1CKI",
 			"fillStyle": "solid",
@@ -9980,7 +10066,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 18.504063055767276,
@@ -9996,8 +10082,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "text",
-			"version": 72,
-			"versionNonce": 1285709791,
+			"version": 73,
+			"versionNonce": 1927570225,
 			"isDeleted": true,
 			"id": "zdS9rUXV",
 			"fillStyle": "solid",
@@ -10017,7 +10103,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -10033,8 +10119,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "text",
-			"version": 116,
-			"versionNonce": 219894161,
+			"version": 117,
+			"versionNonce": 1718314079,
 			"isDeleted": true,
 			"id": "ENJsaNFJ",
 			"fillStyle": "solid",
@@ -10054,7 +10140,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -10070,8 +10156,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "text",
-			"version": 150,
-			"versionNonce": 1646857215,
+			"version": 151,
+			"versionNonce": 330487057,
 			"isDeleted": true,
 			"id": "usce59Fw",
 			"fillStyle": "solid",
@@ -10091,7 +10177,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -10107,8 +10193,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 245,
-			"versionNonce": 2042427249,
+			"version": 246,
+			"versionNonce": 1432191103,
 			"isDeleted": true,
 			"id": "zCYvk90BNJwaYZJ5cXBE3",
 			"fillStyle": "hachure",
@@ -10128,14 +10214,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 286,
-			"versionNonce": 1178940447,
+			"version": 287,
+			"versionNonce": 1503136497,
 			"isDeleted": true,
 			"id": "gzerYsiH",
 			"fillStyle": "hachure",
@@ -10155,7 +10241,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 29.99997456868489,
@@ -10171,8 +10257,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "text",
-			"version": 572,
-			"versionNonce": 317645137,
+			"version": 573,
+			"versionNonce": 871831711,
 			"isDeleted": true,
 			"id": "MuylpewD",
 			"fillStyle": "hachure",
@@ -10192,7 +10278,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -10208,8 +10294,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "text",
-			"version": 345,
-			"versionNonce": 15161407,
+			"version": 346,
+			"versionNonce": 2098955473,
 			"isDeleted": true,
 			"id": "gHjflsr7",
 			"fillStyle": "hachure",
@@ -10229,7 +10315,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -10245,8 +10331,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "ellipse",
-			"version": 148,
-			"versionNonce": 1711836977,
+			"version": 149,
+			"versionNonce": 401124543,
 			"isDeleted": true,
 			"id": "j9gnCO2j__buv5Qi2Mj9_",
 			"fillStyle": "solid",
@@ -10268,14 +10354,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 365,
-			"versionNonce": 1206909023,
+			"version": 366,
+			"versionNonce": 970244785,
 			"isDeleted": true,
 			"id": "d6gAAfEtlXa3TwZTLesWS",
 			"fillStyle": "solid",
@@ -10299,7 +10385,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -10320,8 +10406,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "line",
-			"version": 649,
-			"versionNonce": 1769046289,
+			"version": 650,
+			"versionNonce": 215137503,
 			"isDeleted": true,
 			"id": "Vr_PjPV5jhnxvBjyHcncP",
 			"fillStyle": "solid",
@@ -10345,7 +10431,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -10366,8 +10452,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 64,
-			"versionNonce": 1093637247,
+			"version": 65,
+			"versionNonce": 1818969233,
 			"isDeleted": true,
 			"id": "dfFLPZJfziI1ibjHGfd7H",
 			"fillStyle": "solid",
@@ -10387,14 +10473,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 97,
-			"versionNonce": 1520514801,
+			"version": 98,
+			"versionNonce": 1447414015,
 			"isDeleted": true,
 			"id": "94j7DV6IQLPUE-GljDXaH",
 			"fillStyle": "solid",
@@ -10414,14 +10500,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 126,
-			"versionNonce": 73837727,
+			"version": 127,
+			"versionNonce": 1888914033,
 			"isDeleted": true,
 			"id": "aUWxA9e6",
 			"fillStyle": "hachure",
@@ -10441,7 +10527,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -10457,8 +10543,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "text",
-			"version": 164,
-			"versionNonce": 1545547985,
+			"version": 165,
+			"versionNonce": 1908560159,
 			"isDeleted": true,
 			"id": "5x5ZjayC",
 			"fillStyle": "hachure",
@@ -10478,7 +10564,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -10494,8 +10580,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 191,
-			"versionNonce": 1564852415,
+			"version": 192,
+			"versionNonce": 1058935889,
 			"isDeleted": true,
 			"id": "13eR6k5g1khM2t-IkCc8d",
 			"fillStyle": "solid",
@@ -10517,14 +10603,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 160,
-			"versionNonce": 1401089713,
+			"version": 161,
+			"versionNonce": 1488508223,
 			"isDeleted": true,
 			"id": "in8Ho5IR",
 			"fillStyle": "solid",
@@ -10546,7 +10632,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -10562,8 +10648,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 248,
-			"versionNonce": 1299009759,
+			"version": 249,
+			"versionNonce": 1272537649,
 			"isDeleted": true,
 			"id": "QXXTU4yBYN3bKHRFbvbjN",
 			"fillStyle": "solid",
@@ -10585,14 +10671,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 220,
-			"versionNonce": 125038737,
+			"version": 221,
+			"versionNonce": 42587487,
 			"isDeleted": true,
 			"id": "cl2Pc41B",
 			"fillStyle": "solid",
@@ -10614,7 +10700,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -10630,8 +10716,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 235,
-			"versionNonce": 1315822847,
+			"version": 236,
+			"versionNonce": 598733841,
 			"isDeleted": true,
 			"id": "mMg6sMdVrhfBbMKA0i1YD",
 			"fillStyle": "solid",
@@ -10653,14 +10739,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 210,
-			"versionNonce": 2108274289,
+			"version": 211,
+			"versionNonce": 646304127,
 			"isDeleted": true,
 			"id": "crVrQ5M6",
 			"fillStyle": "solid",
@@ -10682,7 +10768,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -10698,8 +10784,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 292,
-			"versionNonce": 1405609247,
+			"version": 293,
+			"versionNonce": 1251559921,
 			"isDeleted": true,
 			"id": "KWGeLZm0GAGDKfAT_kbHh",
 			"fillStyle": "solid",
@@ -10721,14 +10807,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 270,
-			"versionNonce": 418103377,
+			"version": 271,
+			"versionNonce": 1038961055,
 			"isDeleted": true,
 			"id": "2GRVfQW9",
 			"fillStyle": "solid",
@@ -10750,7 +10836,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -10766,8 +10852,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 264,
-			"versionNonce": 216787263,
+			"version": 265,
+			"versionNonce": 1503454161,
 			"isDeleted": true,
 			"id": "h0SsuU-uR8Fz-TKNFRCZF",
 			"fillStyle": "solid",
@@ -10789,14 +10875,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 242,
-			"versionNonce": 1997639217,
+			"version": 243,
+			"versionNonce": 1173405119,
 			"isDeleted": true,
 			"id": "zyhM2KfT",
 			"fillStyle": "solid",
@@ -10818,7 +10904,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -10834,8 +10920,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 323,
-			"versionNonce": 1731881311,
+			"version": 324,
+			"versionNonce": 1557283249,
 			"isDeleted": true,
 			"id": "yj9ZN00efiJuNrkqSUXJA",
 			"fillStyle": "solid",
@@ -10857,14 +10943,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 304,
-			"versionNonce": 251830289,
+			"version": 305,
+			"versionNonce": 1102097887,
 			"isDeleted": true,
 			"id": "s1HqaiVG",
 			"fillStyle": "solid",
@@ -10886,7 +10972,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -10902,8 +10988,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 132,
-			"versionNonce": 1342432639,
+			"version": 133,
+			"versionNonce": 1902175121,
 			"isDeleted": true,
 			"id": "u3WA9hXKlZeGffbOLgfXv",
 			"fillStyle": "solid",
@@ -10925,14 +11011,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 170,
-			"versionNonce": 246838769,
+			"version": 171,
+			"versionNonce": 2084411903,
 			"isDeleted": true,
 			"id": "yEmSWbUN",
 			"fillStyle": "solid",
@@ -10954,7 +11040,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -10970,8 +11056,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 189,
-			"versionNonce": 914939295,
+			"version": 190,
+			"versionNonce": 595609969,
 			"isDeleted": true,
 			"id": "Xn1ys0BEAHlZDMRegESx6",
 			"fillStyle": "solid",
@@ -10993,14 +11079,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 234,
-			"versionNonce": 2033487825,
+			"version": 235,
+			"versionNonce": 177734175,
 			"isDeleted": true,
 			"id": "8GqFtx0X",
 			"fillStyle": "solid",
@@ -11022,7 +11108,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -11038,8 +11124,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "line",
-			"version": 103,
-			"versionNonce": 1308217791,
+			"version": 104,
+			"versionNonce": 209187665,
 			"isDeleted": true,
 			"id": "oMh8PrUt-4veGuNPkQPGH",
 			"fillStyle": "solid",
@@ -11061,7 +11147,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -11082,8 +11168,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "line",
-			"version": 196,
-			"versionNonce": 76836273,
+			"version": 197,
+			"versionNonce": 229664319,
 			"isDeleted": true,
 			"id": "2_QAjpqairxqyK-tf-y0v",
 			"fillStyle": "solid",
@@ -11105,7 +11191,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -11126,8 +11212,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "line",
-			"version": 228,
-			"versionNonce": 259473887,
+			"version": 229,
+			"versionNonce": 815751473,
 			"isDeleted": true,
 			"id": "tjpe6fT2XX1OZz83UgeA_",
 			"fillStyle": "solid",
@@ -11149,7 +11235,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -11170,8 +11256,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "line",
-			"version": 268,
-			"versionNonce": 939364241,
+			"version": 269,
+			"versionNonce": 879183455,
 			"isDeleted": true,
 			"id": "xsfmKO8DaxJar4foIhJnx",
 			"fillStyle": "solid",
@@ -11193,7 +11279,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -11214,8 +11300,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "line",
-			"version": 151,
-			"versionNonce": 2081533439,
+			"version": 152,
+			"versionNonce": 492704529,
 			"isDeleted": true,
 			"id": "9z3ZsJfWIhaXhpHluaj2Y",
 			"fillStyle": "solid",
@@ -11237,7 +11323,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -11258,8 +11344,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 67,
-			"versionNonce": 1235711345,
+			"version": 68,
+			"versionNonce": 2106401407,
 			"isDeleted": true,
 			"id": "yUn30kx-HSZkMhGQXG6eq",
 			"fillStyle": "solid",
@@ -11279,14 +11365,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471486,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 125,
-			"versionNonce": 516527647,
+			"version": 126,
+			"versionNonce": 1194035441,
 			"isDeleted": true,
 			"id": "1cwNBBDQswSj6T_86HjaK",
 			"fillStyle": "solid",
@@ -11306,14 +11392,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 183,
-			"versionNonce": 1020895057,
+			"version": 184,
+			"versionNonce": 971143839,
 			"isDeleted": true,
 			"id": "nYnTj10Bs9so6tITCbc0R",
 			"fillStyle": "solid",
@@ -11333,14 +11419,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 211,
-			"versionNonce": 1318025791,
+			"version": 212,
+			"versionNonce": 663700177,
 			"isDeleted": true,
 			"id": "HSEcBaiS0CwCaTgFf4fM5",
 			"fillStyle": "solid",
@@ -11360,14 +11446,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 340,
-			"versionNonce": 1072401713,
+			"version": 341,
+			"versionNonce": 1310183103,
 			"isDeleted": true,
 			"id": "pqYj-xIstED1Pb-oTmtm_",
 			"fillStyle": "solid",
@@ -11387,14 +11473,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 411,
-			"versionNonce": 809753183,
+			"version": 412,
+			"versionNonce": 455131313,
 			"isDeleted": true,
 			"id": "iZktPvpTdw2QPeGrGvgML",
 			"fillStyle": "solid",
@@ -11414,14 +11500,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 280,
-			"versionNonce": 1246019345,
+			"version": 281,
+			"versionNonce": 885890783,
 			"isDeleted": true,
 			"id": "sjYpqB7TtrL-JYqk9siyd",
 			"fillStyle": "solid",
@@ -11441,14 +11527,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 89,
-			"versionNonce": 2025272959,
+			"version": 90,
+			"versionNonce": 2139587217,
 			"isDeleted": true,
 			"id": "XQh6bZ7E",
 			"fillStyle": "solid",
@@ -11468,7 +11554,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -11484,8 +11570,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "text",
-			"version": 123,
-			"versionNonce": 2052895985,
+			"version": 124,
+			"versionNonce": 1083468543,
 			"isDeleted": true,
 			"id": "KuBi9FOV",
 			"fillStyle": "solid",
@@ -11505,7 +11591,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545754,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -11521,8 +11607,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "text",
-			"version": 169,
-			"versionNonce": 1856638623,
+			"version": 170,
+			"versionNonce": 293275761,
 			"isDeleted": true,
 			"id": "j6UMyczj",
 			"fillStyle": "solid",
@@ -11542,7 +11628,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -11558,8 +11644,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "text",
-			"version": 237,
-			"versionNonce": 867888849,
+			"version": 238,
+			"versionNonce": 502051615,
 			"isDeleted": true,
 			"id": "c8Tz35dm",
 			"fillStyle": "solid",
@@ -11579,7 +11665,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -11595,8 +11681,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "text",
-			"version": 282,
-			"versionNonce": 751624895,
+			"version": 283,
+			"versionNonce": 180539985,
 			"isDeleted": true,
 			"id": "gv58RnIc",
 			"fillStyle": "solid",
@@ -11616,7 +11702,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -11632,8 +11718,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "text",
-			"version": 285,
-			"versionNonce": 2096557233,
+			"version": 286,
+			"versionNonce": 356972351,
 			"isDeleted": true,
 			"id": "ZPgihjYI",
 			"fillStyle": "solid",
@@ -11653,7 +11739,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -11669,8 +11755,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "text",
-			"version": 343,
-			"versionNonce": 599798495,
+			"version": 344,
+			"versionNonce": 3563569,
 			"isDeleted": true,
 			"id": "5yzvY6gn",
 			"fillStyle": "solid",
@@ -11690,7 +11776,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -11706,8 +11792,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "line",
-			"version": 278,
-			"versionNonce": 498609809,
+			"version": 279,
+			"versionNonce": 218347359,
 			"isDeleted": true,
 			"id": "rW7iZaHV7QQ-DBSO33fYf",
 			"fillStyle": "solid",
@@ -11729,7 +11815,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -11750,8 +11836,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 53,
-			"versionNonce": 1544847103,
+			"version": 54,
+			"versionNonce": 2143105553,
 			"isDeleted": true,
 			"id": "UIZ_IG9BflF3wd77yIXhp",
 			"fillStyle": "solid",
@@ -11771,14 +11857,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 78,
-			"versionNonce": 2092315761,
+			"version": 79,
+			"versionNonce": 1265857407,
 			"isDeleted": true,
 			"id": "UI1QpFcH",
 			"fillStyle": "solid",
@@ -11798,7 +11884,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -11814,8 +11900,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 38,
-			"versionNonce": 2018133791,
+			"version": 39,
+			"versionNonce": 1850656753,
 			"isDeleted": true,
 			"id": "Sj61GwJvfZgR4VRAT6L57",
 			"fillStyle": "solid",
@@ -11835,14 +11921,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 36,
-			"versionNonce": 1035501137,
+			"version": 37,
+			"versionNonce": 2027334559,
 			"isDeleted": true,
 			"id": "3aHz4oVG",
 			"fillStyle": "solid",
@@ -11862,7 +11948,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -11878,8 +11964,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 230,
-			"versionNonce": 1993476927,
+			"version": 231,
+			"versionNonce": 636658129,
 			"isDeleted": true,
 			"id": "1UcvVg3Qau5MZc4ELqMTI",
 			"fillStyle": "solid",
@@ -11899,14 +11985,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 43,
-			"versionNonce": 529959985,
+			"version": 44,
+			"versionNonce": 1633542079,
 			"isDeleted": true,
 			"id": "Xe9FyCVX",
 			"fillStyle": "solid",
@@ -11926,7 +12012,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -11942,8 +12028,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 57,
-			"versionNonce": 873220959,
+			"version": 58,
+			"versionNonce": 1405108145,
 			"isDeleted": true,
 			"id": "BSnOcNl1PHVEuAwj4dFIn",
 			"fillStyle": "solid",
@@ -11963,14 +12049,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 45,
-			"versionNonce": 439868945,
+			"version": 46,
+			"versionNonce": 1999212511,
 			"isDeleted": true,
 			"id": "bPQP07t6",
 			"fillStyle": "solid",
@@ -11990,7 +12076,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -12006,8 +12092,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 47,
-			"versionNonce": 743016319,
+			"version": 48,
+			"versionNonce": 366944657,
 			"isDeleted": true,
 			"id": "WYVdt3AR06anQWPc-HUKx",
 			"fillStyle": "solid",
@@ -12027,14 +12113,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 35,
-			"versionNonce": 1016329201,
+			"version": 36,
+			"versionNonce": 340409343,
 			"isDeleted": true,
 			"id": "JT2aXEj2",
 			"fillStyle": "solid",
@@ -12054,7 +12140,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -12070,8 +12156,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 707,
-			"versionNonce": 2110406559,
+			"version": 708,
+			"versionNonce": 1502005105,
 			"isDeleted": true,
 			"id": "6QImlqE8Sal8Rys4yZZcC",
 			"fillStyle": "solid",
@@ -12093,14 +12179,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 857,
-			"versionNonce": 1253199313,
+			"version": 858,
+			"versionNonce": 2092983327,
 			"isDeleted": true,
 			"id": "m3RnhDfHaMoct7sjAtas_",
 			"fillStyle": "solid",
@@ -12122,14 +12208,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 903,
-			"versionNonce": 717157311,
+			"version": 904,
+			"versionNonce": 2029957457,
 			"isDeleted": true,
 			"id": "psbeUGxOCQmtXuKXXHjqL",
 			"fillStyle": "solid",
@@ -12151,14 +12237,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 550,
-			"versionNonce": 464153521,
+			"version": 551,
+			"versionNonce": 545032255,
 			"isDeleted": true,
 			"id": "qFXHzCbdKNSqIz7SckbSe",
 			"fillStyle": "cross-hatch",
@@ -12180,14 +12266,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 592,
-			"versionNonce": 457712607,
+			"version": 593,
+			"versionNonce": 429809457,
 			"isDeleted": true,
 			"id": "IU3RtKKKOfKcuUtebiL07",
 			"fillStyle": "cross-hatch",
@@ -12209,14 +12295,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 999,
-			"versionNonce": 933481873,
+			"version": 1000,
+			"versionNonce": 492775519,
 			"isDeleted": true,
 			"id": "HyXx5yFiW1-UewMiaHPDf",
 			"fillStyle": "hachure",
@@ -12238,14 +12324,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 1003,
-			"versionNonce": 1601589247,
+			"version": 1004,
+			"versionNonce": 1238192401,
 			"isDeleted": true,
 			"id": "XI4DqWWbWrgT3Ss7FXfOu",
 			"fillStyle": "hachure",
@@ -12267,14 +12353,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 999,
-			"versionNonce": 903213937,
+			"version": 1000,
+			"versionNonce": 20497535,
 			"isDeleted": true,
 			"id": "SJmFctjzsFx9CcN0xAIby",
 			"fillStyle": "hachure",
@@ -12296,14 +12382,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 994,
-			"versionNonce": 826931231,
+			"version": 995,
+			"versionNonce": 1594033905,
 			"isDeleted": true,
 			"id": "bhVPcaxgGcBdLp3qVVpIo",
 			"fillStyle": "hachure",
@@ -12325,14 +12411,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 1248,
-			"versionNonce": 1518886225,
+			"version": 1249,
+			"versionNonce": 1271520415,
 			"isDeleted": true,
 			"id": "f8urWSGW3wO4GScgBhn1U",
 			"fillStyle": "solid",
@@ -12352,7 +12438,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -12393,8 +12479,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 1103,
-			"versionNonce": 917740607,
+			"version": 1104,
+			"versionNonce": 331808977,
 			"isDeleted": true,
 			"id": "Ddse4hMgF0tqnckD7JfPC",
 			"fillStyle": "hachure",
@@ -12416,14 +12502,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 1108,
-			"versionNonce": 1964149553,
+			"version": 1109,
+			"versionNonce": 818081983,
 			"isDeleted": true,
 			"id": "bz_0feX9cyprx7x0gwJC_",
 			"fillStyle": "hachure",
@@ -12445,14 +12531,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 1168,
-			"versionNonce": 60013663,
+			"version": 1169,
+			"versionNonce": 1706081969,
 			"isDeleted": true,
 			"id": "g3VHOzi8aP_Gw5N9ZAk5A",
 			"fillStyle": "hachure",
@@ -12474,14 +12560,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 1167,
-			"versionNonce": 2111569169,
+			"version": 1168,
+			"versionNonce": 432308447,
 			"isDeleted": true,
 			"id": "zw-bZu4Uo8bPQJI9bD0Fg",
 			"fillStyle": "hachure",
@@ -12503,14 +12589,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 1527,
-			"versionNonce": 1538971775,
+			"version": 1528,
+			"versionNonce": 862437521,
 			"isDeleted": true,
 			"id": "W1bEhi-DpeC8op2AFq5ae",
 			"fillStyle": "solid",
@@ -12530,7 +12616,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -12571,8 +12657,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "arrow",
-			"version": 1887,
-			"versionNonce": 1952199409,
+			"version": 1888,
+			"versionNonce": 1751059711,
 			"isDeleted": true,
 			"id": "f34XS9vYmGKbUKJ3ir68X",
 			"fillStyle": "solid",
@@ -12592,7 +12678,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -12637,8 +12723,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "arrow",
-			"version": 1616,
-			"versionNonce": 887713951,
+			"version": 1617,
+			"versionNonce": 446924401,
 			"isDeleted": true,
 			"id": "sciU8UEC3Zu7PRcoEK5HL",
 			"fillStyle": "solid",
@@ -12658,7 +12744,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -12703,8 +12789,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		},
 		{
 			"type": "rectangle",
-			"version": 1048,
-			"versionNonce": 2098900177,
+			"version": 1049,
+			"versionNonce": 2014516511,
 			"isDeleted": true,
 			"id": "imEvURohtCbuQ9CQl3bDI",
 			"fillStyle": "hachure",
@@ -12726,14 +12812,14 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 1045,
-			"versionNonce": 2026898623,
+			"version": 1046,
+			"versionNonce": 371953745,
 			"isDeleted": true,
 			"id": "sC2uAMgIwOIIlRa0F1q3g",
 			"fillStyle": "hachure",
@@ -12755,7 +12841,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false
 		},
@@ -12778,11 +12864,11 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"seed": 2051178481,
-			"version": 124,
-			"versionNonce": 1068427953,
+			"version": 125,
+			"versionNonce": 1615927615,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13265,11 +13351,11 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"seed": 789047729,
-			"version": 165,
-			"versionNonce": 118428895,
+			"version": 166,
+			"versionNonce": 1540841009,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13918,11 +14004,11 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"seed": 876619857,
-			"version": 293,
-			"versionNonce": 79719569,
+			"version": 294,
+			"versionNonce": 1987680607,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14535,11 +14621,11 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"seed": 1383872017,
-			"version": 318,
-			"versionNonce": 2000101631,
+			"version": 319,
+			"versionNonce": 2056155153,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15252,11 +15338,11 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"seed": 1179004593,
-			"version": 58,
-			"versionNonce": 335983217,
+			"version": 59,
+			"versionNonce": 266147199,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15296,11 +15382,11 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"seed": 893084913,
-			"version": 33,
-			"versionNonce": 1060384063,
+			"version": 34,
+			"versionNonce": 806117329,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false
 		},
@@ -15325,11 +15411,11 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 2
 			},
 			"seed": 410520639,
-			"version": 64,
-			"versionNonce": 1949375505,
+			"version": 65,
+			"versionNonce": 765358559,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false
 		},
@@ -15354,8 +15440,8 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 3
 			},
 			"seed": 400406225,
-			"version": 26,
-			"versionNonce": 68029329,
+			"version": 27,
+			"versionNonce": 693307999,
 			"isDeleted": true,
 			"boundElements": [
 				{
@@ -15363,7 +15449,7 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 					"type": "text"
 				}
 			],
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false
 		},
@@ -15386,11 +15472,11 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"seed": 1504726225,
-			"version": 14,
-			"versionNonce": 341242367,
+			"version": 15,
+			"versionNonce": 285249297,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"text": "        ",
@@ -15423,11 +15509,11 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"seed": 125119985,
-			"version": 31,
-			"versionNonce": 1084207345,
+			"version": 32,
+			"versionNonce": 1436921599,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15566,11 +15652,11 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"seed": 430262431,
-			"version": 6,
-			"versionNonce": 1596248735,
+			"version": 7,
+			"versionNonce": 68158577,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15611,11 +15697,11 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 				"type": 3
 			},
 			"seed": 1814353329,
-			"version": 211,
-			"versionNonce": 881633937,
+			"version": 212,
+			"versionNonce": 1189837663,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false
 		},
@@ -15638,11 +15724,11 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"seed": 587083025,
-			"version": 5,
-			"versionNonce": 1846693695,
+			"version": 6,
+			"versionNonce": 545637361,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1714994545755,
+			"updated": 1714995471487,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15681,11 +15767,11 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"seed": 48633535,
-			"version": 4,
-			"versionNonce": 1654919007,
+			"version": 5,
+			"versionNonce": 1768438705,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1714994545755,
+			"updated": 1714995471488,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15724,11 +15810,11 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"frameId": null,
 			"roundness": null,
 			"seed": 1133976767,
-			"version": 10,
-			"versionNonce": 971994001,
+			"version": 11,
+			"versionNonce": 2102930769,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1714994937855,
+			"updated": 1714995471488,
 			"link": null,
 			"locked": false,
 			"text": "           ",
@@ -15741,6 +15827,40 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 			"containerId": null,
 			"originalText": "           ",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "ZpdH6d3FuiQPwYVXrIvLL",
+			"type": "rectangle",
+			"x": 4638.0305897151175,
+			"y": 1929.2190179709842,
+			"width": 1470,
+			"height": 532,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"seed": 425877073,
+			"version": 2,
+			"versionNonce": 1614998623,
+			"isDeleted": true,
+			"boundElements": [
+				{
+					"id": "UoOSfW3D",
+					"type": "text"
+				}
+			],
+			"updated": 1714995471488,
+			"link": null,
+			"locked": false
 		}
 	],
 	"appState": {
@@ -15758,10 +15878,10 @@ Aos pesquisar por algo em um dicionário, sempre devemos pesquisar pela CHAVE
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 277.4368954192091,
-		"scrollY": 13.198555841485359,
+		"scrollX": -185.47437459999082,
+		"scrollY": 3336.8530817104447,
 		"zoom": {
-			"value": 0.15000000000000002
+			"value": 0.1
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
