@@ -41,4 +41,15 @@ Existem efeitos concretos e simbólicos ligados ao bem estar no trabalho.
 - Algumas pessoas afirmam que é necessário aprender a motivar os outros, enquanto outras acreditam que ninguém pode jamais motivar quem quer que seja.
 	- No primeiro caso, pressupõe-se que a força que conduz o comportamento motivado está fora da pessoa, fatores extrínsecos.
 	- Já no segundo caso, pressupõe-se que a força que conduz o comportamento motivado está dentro da pessoa, fatores intrínsecos.
+- Movimento é oque nos move para termos motivação, fatores externos melhoram o movimento
+
+
+## Comprometimento com o trabalho
+___
+
+- Indica uma interação social de compromisso e envolvimento do indivíduo com variados aspectos do trabalho
+- Três componentes de comprometimento: afetivo, calculativo e o normativo.
+	- Comprometimento afetivo: Identificação forte entre o trabalhador e a organização
+	- Comprometimento calculativo: Quando o indivíduo se baseia em uma razão percebida entre custos e perdas, o quanto ele investiu, oque seria sacrificado, etc.
+	- Comprometimento normativo: O indivíduo se sente em uma dívida moral com a organização e um sentimento de culpa por não seguir na empresa. O indivíduo acaba se sentindo obrigado a permanecer na empresa, diferente do comprometimento afetivo.
 - 
