@@ -102,3 +102,9 @@
 	- Satisfação do usuário
 	- Flexibilidade
 	- Utilidade
+	- Segurança no uso
+	- Barreira
+	- Obstáculo
+	- Ruído
+
+- 
