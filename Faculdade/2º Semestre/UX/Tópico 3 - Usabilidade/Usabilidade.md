@@ -107,4 +107,12 @@
 	- Obstáculo
 	- Ruído
 
-- Existem problemas primários, que atrapalham o usuário a concluir ou realizar atividades de cunho emergente, principal e/ou importantes, e problemas secundários
+- Existem problemas primários, que atrapalham o usuário a concluir ou realizar atividades de cunho emergente, principal e/ou importantes, e problemas secundários, idem aos primários porem com questões menos emergentes
+
+- Para delimitar os tipos de problemas na usabilidade da interface, temos:
+
+	- **Problemas gerais**: de forma generalista, quando atrapalham todos os tipos de usuários.
+	- **De inicialização**: que são impeditivos de um novo utilizador (ou usuário não recorrente) a começar a interagir com a interface.
+	- **Avançados**: que atrapalham usuários avançados.
+	- **Especiais**: que atrapalham usuários PNE.
+- 
