@@ -40,4 +40,7 @@
 	4. **Diálogos indicativos de término de uma ação**: Criar diálogos que indiquem o fim de uma ação para que o usuário possa saber e prosseguir na experiência
 	5. **Evite erros**: Projetar a experiência para que erros mais graves sejam evitados
 	6. **Permita fácil reversão de ações**: Facilitar para que o usuário possa reverter algo feito para que ele se sinta mais confiante
-	7. **Ofereça controle de usuário**:
+	7. **Ofereça controle de usuário**: O usuário deve ter controle da interface, principalmente os mais experientes, para que ele não fique entediado com janelas ou outras funções surgindo sem que ele tenha solicitado
+	8. **Reduzir a carga de memorização**: Reduzir a carga de esforço cognitivo para que o usuário tenha a sensação de maior facilidade em utilizar o sistema
+
+- 
