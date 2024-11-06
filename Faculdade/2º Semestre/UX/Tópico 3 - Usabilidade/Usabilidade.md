@@ -83,3 +83,5 @@
 	- Revisão de Guidelines: verifica se a usabilidade está equivalente ao _guidelines_ pré-estabelecido de usabilidade
 	- Inspeção de Consistência: verifica a consistência da experiência por meio da padronização da interface
 	- Percurso Cognitivo: avalia o caminho seguido pelo usuário por meio de uma simulação
+
+- 
