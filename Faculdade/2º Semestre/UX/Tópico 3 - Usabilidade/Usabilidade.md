@@ -60,4 +60,7 @@
 
 - A avaliação não deve ser uma fase exclusiva dentro do processo criativo e sim em conjunto com a evolução do projeto e se utilize essa avaliação para a melhoria da interface
 
-- 
+- O método de avaliação apresenta três objetivos centrais: avaliar a funcionalidade do sistema, avaliar o efeito da interface sob o usuário e identificar problemas no sistema
+
+	- **Avaliar a funcionalidade do sistema:** ajuda o criador a alinhar a qualidade da experiência com a praticidade de utilização, visando a eficiência. Analisa além da relação humano-computador, a performance do utilizador. Quando se a avalia a usabilidade, pode se focar nos problemas de design, elementos que sejam passíveis a mudança para evitar problemas de usabilidade
+	- 
