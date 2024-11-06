@@ -43,4 +43,5 @@
 	7. **Ofereça controle de usuário**: O usuário deve ter controle da interface, principalmente os mais experientes, para que ele não fique entediado com janelas ou outras funções surgindo sem que ele tenha solicitado
 	8. **Reduzir a carga de memorização**: Reduzir a carga de esforço cognitivo para que o usuário tenha a sensação de maior facilidade em utilizar o sistema
 
-- 
+-  Em 1994 Nielsen propôs as 10 heurísticas de usabilidade
+	1. 
