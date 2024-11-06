@@ -115,4 +115,8 @@
 	- **De inicialização**: que são impeditivos de um novo utilizador (ou usuário não recorrente) a começar a interagir com a interface.
 	- **Avançados**: que atrapalham usuários avançados.
 	- **Especiais**: que atrapalham usuários PNE.
-- 
+	
+- Problemas de usabilidade, que envolvem problemas de interface:
+
+- **Falsos**: enganos que ocorrem por conta da inexperiência do avaliador ou da ferramenta utilizada por ele.
+- **Novos**: é o surgimento de um obstáculo após uma revisão de usabilidade feita de forma equivocada.
