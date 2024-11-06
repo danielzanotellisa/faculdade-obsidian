@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade/2º Semestre/UX/Usabilidade.md",
+                "file": "Faculdade/2º Semestre/UX/Tópico 3 - Usabilidade/Usabilidade.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8a54f6ee1cac8a68",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade/2º Semestre/UX/Usabilidade.md",
+                "file": "Faculdade/2º Semestre/UX/Tópico 3 - Usabilidade/Usabilidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade/2º Semestre/UX/Usabilidade.md",
+                "file": "Faculdade/2º Semestre/UX/Tópico 3 - Usabilidade/Usabilidade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade/2º Semestre/UX/Usabilidade.md"
+                "file": "Faculdade/2º Semestre/UX/Tópico 3 - Usabilidade/Usabilidade.md"
               }
             }
           }
@@ -149,8 +150,11 @@
   },
   "active": "bbcad47c5d1e3c18",
   "lastOpenFiles": [
+    "Faculdade/2º Semestre/UX/Tópico 3 - Usabilidade/pdf",
+    "Faculdade/2º Semestre/UX/Tópico 3 - Usabilidade/img",
+    "Faculdade/2º Semestre/UX/Tópico 3 - Usabilidade",
+    "Faculdade/2º Semestre/UX/Tópico 3 - Usabilidade/Usabilidade.md",
     "Faculdade/1º Semestre/2º Módulo/Introdução a Programação/Tópico 4 - Introdução a Python/Entrada e saída de dados.md",
-    "Faculdade/2º Semestre/UX/Usabilidade.md",
     "Faculdade/2º Semestre/UX",
     "Faculdade/2º Semestre",
     "Faculdade/1º Semestre/2º Módulo/Introdução a Programação/Tópico 4 - Introdução a Python/Tipos de dados e variáveis.md",
