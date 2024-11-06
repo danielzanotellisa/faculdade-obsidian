@@ -84,4 +84,21 @@
 	- Inspeção de Consistência: verifica a consistência da experiência por meio da padronização da interface
 	- Percurso Cognitivo: avalia o caminho seguido pelo usuário por meio de uma simulação
 
-- 
+- A comunicabilidade é parte importante a ser avaliada pois é parte importante da usabilidade
+
+- Existem um método chamado MAC(método de avaliação de comunicabilidade) que tem como objetivo observar como o usuário interage com a interface para identificar possíveis problemas, esse método possui três etapas:
+	- preparação, execução e análise
+
+- A etapa de análise se divide em:
+	- Etiquetagem: avaliadores analisam as interações e associam as expressões aos momentos de ruptura de comunicação
+	- Interpretação: os avaliadores interpretam as expressões que caracterizam ruptura de comunicação e a frequência e o contexto
+	- Perfil semiótico: delimitação do perfil do usuário em que se utiliza o template pré-estabelecido 
+
+- Principais fatores que devem ser analisados:
+	- Facilidade de aprendizado
+	- Facilidade de uso
+	- Eficiência de uso
+	- Eficiência de produtividade
+	- Satisfação do usuário
+	- Flexibilidade
+	- Utilidade
