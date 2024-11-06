@@ -107,4 +107,4 @@
 	- Obstáculo
 	- Ruído
 
-- 
+- Existem problemas primários, que atrapalham o usuário a concluir ou realizar atividades de cunho emergente, principal e/ou importantes, e problemas secundários
