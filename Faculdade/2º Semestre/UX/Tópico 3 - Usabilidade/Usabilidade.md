@@ -44,4 +44,8 @@
 	8. **Reduzir a carga de memorização**: Reduzir a carga de esforço cognitivo para que o usuário tenha a sensação de maior facilidade em utilizar o sistema
 
 -  Em 1994 Nielsen propôs as 10 heurísticas de usabilidade
-	1. 
+	1. **Visibilidade do _status_ do Sistema (_Visibility of system status_):** ser transparente com o usuário, isto é, informá-lo de todos os passos e o que está acontecendo no sistema.
+	2. **Combinação entre o sistema e o mundo real (_Match between system and the real world_):** o designer **deve** falar a linguagem do usuário, seja por meio de palavras, frases ou jargões, claro, adequando ao seu público-alvo.
+	3. **Controle do usuário e liberdade (User control and freedom):** alguns usuários aprendem pela tentativa e erro, porém eles precisam de uma opção para sair desse erro.
+	4. **Consistência e padronização (_Consistency and standards_):** o cenário ideal para a fluidez de sua interface é que ela seja consistente, padronizada.
+	5. **Prevenção de erro (_Error prevention_):** “Boas mensagens de erro são importantes, mas um design pensado cuidadosamente prevê que esses erros aconteçam”.
