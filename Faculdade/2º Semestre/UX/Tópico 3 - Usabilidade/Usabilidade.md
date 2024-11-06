@@ -63,4 +63,11 @@
 - O método de avaliação apresenta três objetivos centrais: avaliar a funcionalidade do sistema, avaliar o efeito da interface sob o usuário e identificar problemas no sistema
 
 	- **Avaliar a funcionalidade do sistema:** ajuda o criador a alinhar a qualidade da experiência com a praticidade de utilização, visando a eficiência. Analisa além da relação humano-computador, a performance do utilizador. Quando se a avalia a usabilidade, pode se focar nos problemas de design, elementos que sejam passíveis a mudança para evitar problemas de usabilidade
-	- 
+
+- Podemos obter dados de avaliação de algumas formas: 
+	- automaticamente por meio de software
+	- empiricamente onde testamos com usuários reais
+	- formalmente utilizando modelos e fórmulas
+	- informalmente baseando-se nos avaliadores
+
+- 
