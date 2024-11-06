@@ -70,4 +70,8 @@
 	- formalmente utilizando modelos e fórmulas
 	- informalmente baseando-se nos avaliadores
 
-- 
+- Além de identificar os erros, é adequado gerar uma lista de problemas de usabilidade
+
+- Os graus de severidade de um problema são decorrentes do impacto gerado pelo erro, tanto no usuário quanto no mercado
+
+-  Pode-se definir o grau de severidade de um problema se combinamos a frequência em que ocorre, o impacto deste problema na experiência e se é fácil ou difícil para o usuário superá-lo como barreira, e a persistência do erro, se ocorre de forma recorrente.
