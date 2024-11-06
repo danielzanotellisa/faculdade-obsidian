@@ -1,2 +1,2 @@
-/.obsidian
-.DS_STORE
+*/*.obsidian
+*.DS_STORE
