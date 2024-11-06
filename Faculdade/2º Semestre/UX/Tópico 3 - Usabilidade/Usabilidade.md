@@ -56,3 +56,5 @@
 	10. **Ajuda e documentação (_Help and documentation)_**: a ajuda deve estar à mão do utilizador, ser direta e pragmática, focando na utilização do usuário.
 
 ## Critérios de avaliação da usabilidade
+---
+
