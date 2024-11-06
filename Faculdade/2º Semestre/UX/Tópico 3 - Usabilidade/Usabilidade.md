@@ -75,3 +75,11 @@
 - Os graus de severidade de um problema são decorrentes do impacto gerado pelo erro, tanto no usuário quanto no mercado
 
 -  Pode-se definir o grau de severidade de um problema se combinamos a frequência em que ocorre, o impacto deste problema na experiência e se é fácil ou difícil para o usuário superá-lo como barreira, e a persistência do erro, se ocorre de forma recorrente.
+
+- A inspeção de usabilidade é o conjunto de me2todos baseado em se ter avaliadores inspecionando ou examinando aspectos relacionados à usabilidade de uma interface de usuário.
+
+- Alguns métodos de inspeção que se destacam:
+	- Avaliação Heurística: baseia-se em uma lista pré-estabelecida de heurísticas de usabilidade
+	- Revisão de Guidelines: verifica se a usabilidade está equivalente ao _guidelines_ pré-estabelecido de usabilidade
+	- Inspeção de Consistência: verifica a consistência da experiência por meio da padronização da interface
+	- Percurso Cognitivo: avalia o caminho seguido pelo usuário por meio de uma simulação
