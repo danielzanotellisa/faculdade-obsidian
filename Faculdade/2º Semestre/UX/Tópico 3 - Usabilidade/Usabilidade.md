@@ -59,3 +59,5 @@
 ---
 
 - A avaliação não deve ser uma fase exclusiva dentro do processo criativo e sim em conjunto com a evolução do projeto e se utilize essa avaliação para a melhoria da interface
+
+- 
