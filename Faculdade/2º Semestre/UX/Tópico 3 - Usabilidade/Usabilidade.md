@@ -49,3 +49,10 @@
 	3. **Controle do usuário e liberdade (User control and freedom):** alguns usuários aprendem pela tentativa e erro, porém eles precisam de uma opção para sair desse erro.
 	4. **Consistência e padronização (_Consistency and standards_):** o cenário ideal para a fluidez de sua interface é que ela seja consistente, padronizada.
 	5. **Prevenção de erro (_Error prevention_):** “Boas mensagens de erro são importantes, mas um design pensado cuidadosamente prevê que esses erros aconteçam”.
+	6. **Reconhecimento ao invés de memorização (Recognition rather than recall):** nesta situação ressalta-se a intenção de diminuir o trabalho mental do usuário.
+	7. 1. **Flexibilidade e eficiência de uso (Flexibility and efficiency of use)**: de acordo com Nielsen, os atalhos (para usuários mais experientes) pode melhorar a experiência. Sugere-se que crie corta-caminhos pelo teclado ou gestos em aparelhos sensíveis ao toque, por exemplo. Permitir uma personalização também é uma forma de engajar o usuário para que ele crie sua própria experiência.
+	8. **Estética/Design minimalista (_Aesthetic and minimalista design_):** já ouviu aquele ditado “menos é mais”? Adequar a interface com elementos visuais leves e minimalistas ajuda na experiência, pois a interação sofrerá menos ruídos de componentes externos.
+	9.  **Ajude o usuário a reconhecer, diagnosticar e se recuperar de erros (_Help users recognize, diagnose, and recover from erros_)**: não fuja do clássico, o usuário precisa identificar imediatamente uma mensagem de erro. Porém, não fugir do clássico não quer dizer se manter no inadequado. Procure adaptar mensagens de erro de forma sucinta e direta, em cores de alerta e com imagens que correspondam ao erro. Fuja de linguagem técnica desnecessária que não acrescentará nada ao usuário no final das contas.
+	10. **Ajuda e documentação (_Help and documentation)_**: a ajuda deve estar à mão do utilizador, ser direta e pragmática, focando na utilização do usuário.
+
+## Critérios de avaliação da usabilidade
