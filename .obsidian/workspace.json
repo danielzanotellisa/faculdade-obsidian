@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "5291385df2f0dcd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "4826929c69a4484b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbcad47c5d1e3c18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Faculdade/2º Semestre/UX/Usabilidade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6bad23398a2606c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f969fbcd3a9392c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98902a6ef9ed1b7d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2f4c70eb2351316f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "08cb58627017e4d2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8a54f6ee1cac8a68",
+    "type": "split",
+    "children": [
+      {
+        "id": "01ac0fd384636c93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea06bc7d14149951",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Faculdade/2º Semestre/UX/Usabilidade.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b0bb4e797fe4a479",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Faculdade/2º Semestre/UX/Usabilidade.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "73a0dfb29681a929",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c68d1ed956fb1aff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Faculdade/2º Semestre/UX/Usabilidade.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bbcad47c5d1e3c18",
+  "lastOpenFiles": [
+    "Faculdade/1º Semestre/2º Módulo/Introdução a Programação/Tópico 4 - Introdução a Python/Entrada e saída de dados.md",
+    "Faculdade/2º Semestre/UX/Usabilidade.md",
+    "Faculdade/2º Semestre/UX",
+    "Faculdade/2º Semestre",
+    "Faculdade/1º Semestre/2º Módulo/Introdução a Programação/Tópico 4 - Introdução a Python/Tipos de dados e variáveis.md",
+    "Faculdade/1º Semestre/2º Módulo/Introdução a Programação/Tópico 4 - Introdução a Python/Operadores.md"
+  ]
+}
