@@ -5,3 +5,6 @@
 	- **_Feedback Imediato:_** notificações e respostas rápidas às ações do usuário
 - UX =/ UI: O UX se preocupa com a experiência do usuário como um todo, a sua usabilidade, acessibilidade, etc. UI é a parte gráfica que se preocupa somente com o design da interface
 - ![](img/Captura%20de%20Tela%202024-11-07%20às%2009.54.52.png)
+
+- Utilizar a ferramenta Balsamiq para criação de protótipos de baixa qualidade
+- 
