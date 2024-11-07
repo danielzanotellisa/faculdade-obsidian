@@ -3,3 +3,5 @@
 	- **_Navegação intuitiva_:** uma estrutura de navegação clara e lógica que permite o usuário encontrar facilmente oque procuram
 	- **_Design Acessível:_** interfaces com contraste adequado, tamanho de fonte legível e suporte a recursos de acessibilidade
 	- **_Feedback Imediato:_** notificações e respostas rápidas às ações do usuário
+- UX =/ UI: O UX se preocupa com a experiência do usuário como um todo, a sua usabilidade, acessibilidade, etc. UI é a parte gráfica que se preocupa somente com o design da interface
+- 
