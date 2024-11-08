@@ -29,3 +29,20 @@
 - Uma representação de pequenas instâncias na vida das pessoas, usado para o designer se empatizar com o usuário, rico em detalhes triviais
 - Podemos usar o esquema: Como um (tipo de usuário), eu quero (algum objetivo) para (algum motivo)
 - Critérios de aceitação são apresentados em uma lista de itens de negócio, que expressam modos de usar a funcionalidade implementada na história
+- Temos o formado de Job Stories também, que foca na casualidade e não na hipótese: quando/eu quero/ então eu posso
+
+## Moodboard
+---
+
+- Trata-se de estruturas que carregam elementos de referências visuais para o seu projeto
+- Atuam como inspirações para o seu projeto
+- Vai ser preenchido com  ideias e motivações para a criação do design, por isso é interessante procurar inspirações de diversas fontes para auxiliar na construção
+	- Designers costumam usar moodboards que reúnem imagens, texturas, tipografias, paletas de cores e palavras descritivas
+- Três motivos para usar moodboards:
+	1. <span style="color:rgb(242, 154, 2)">Inspiração</span>
+	2. <span style="color:rgb(242, 154, 2)">Melhora a comunicação</span>: Ajuda a diminuir a abstração e os choques de idéias 
+	3. <span style="color:rgb(242, 154, 2)">Ajuda para encontrar um estilo para o design</span>
+
+## Storyboard
+---
+
