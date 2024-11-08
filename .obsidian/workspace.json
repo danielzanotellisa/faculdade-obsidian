@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Aula ao vivo 30-10-2024"
             }
-          },
-          {
-            "id": "f16f19a717a4bf7d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8a54f6ee1cac8a68",
@@ -177,7 +163,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f16f19a717a4bf7d",
+  "active": "bbcad47c5d1e3c18",
   "lastOpenFiles": [
     "Faculdade/2º Semestre/UX/Tópico 3 - Usabilidade/Aulas Ao Vivo/Aula ao vivo 23-10-2024.md",
     "Faculdade/2º Semestre/UX/Tópico 3 - Usabilidade/Aulas Ao Vivo/Aula ao vivo 30-10-2024.md",
