@@ -60,3 +60,7 @@
 ## Card Sorting
 ---
 
+- Metodologia que tem como objetivo central a organização da disposição das informações
+- Realizada na primeira etapa do design
+- Excelente vetor para entendimento e mapeamento do "pensar" do seu usuário
+- Usando essa metodologia podemos encontrar informações pertinentes, como a forma que devemos nomear os menus, como criar categorias, como dispô-las em tela etc
