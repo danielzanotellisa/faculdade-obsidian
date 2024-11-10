@@ -46,3 +46,17 @@
 ## Storyboard
 ---
 
+- Essa abordagem envolve participação concreta e ativa de todos os participantes do processo de desenvolvimento de um software
+- Apresenta e convence o cliente sobre as funcionalidades da experiência que sua equipe está desenvolvendo, serve como auxílio no processo criativo da equipe
+- Podemos desenhar a experiência do usuário e o seu contexto com as funcionalidades do produto, como se fosse uma história em quadrinho
+- Vantagens de um _storyboard_
+	- <span style="color:rgb(242, 154, 2)">Facilidade</span>: facilmente digerido por públicos não especializados
+	- <span style="color:rgb(242, 154, 2)">Desenho</span>: envolve o comportamento do usuário e a interface do projeto de maneira igualitária
+	- <span style="color:rgb(242, 154, 2)">Circular com facilidade</span>: facilidade de circular entre os interessados pelo projeto
+	- <span style="color:rgb(242, 154, 2)">Despertar novas ideias</span>: mais fácil a criação de novas ideias 
+	- <span style="color:rgb(242, 154, 2)">Visibilidade</span>: apresentado em um formato facilmente consumido por qualquer público
+	- <span style="color:rgb(242, 154, 2)">Contexto de uso</span>: você irá se forçar a imaginar cenários de contexto de uso da experiência, como rotina ou cenário
+
+## Card Sorting
+---
+
