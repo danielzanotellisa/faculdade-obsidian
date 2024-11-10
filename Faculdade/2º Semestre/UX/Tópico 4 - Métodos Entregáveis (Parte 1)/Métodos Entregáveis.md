@@ -82,3 +82,9 @@
 ## User flow / Sitemap
 ---
 
+- O sitemap é um arquivo de texto com o "esqueleto" das nossas páginas, que ajuda na indexação  por motores de busca
+- É recomendado o seu uso antes de criarmos nossas wireframes para sabermos o número de telas e a função de cada uma
+- Permite ter uma visão mais ampla sobre a hierarquia da navegação
+- O _user flow_ destaca o fluxo do usuário na jornada pela nossa experiência
+- Envolvem os caminhos que poderão ser traçados pela pessoa
+- São eficazes para analisar as tarefas, das mais simples às mais complexas, é recomendado que sejam feitos antes dos wireframes
