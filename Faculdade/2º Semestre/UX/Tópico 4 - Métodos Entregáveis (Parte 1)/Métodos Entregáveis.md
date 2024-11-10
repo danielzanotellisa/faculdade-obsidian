@@ -63,4 +63,18 @@
 - Metodologia que tem como objetivo central a organização da disposição das informações
 - Realizada na primeira etapa do design
 - Excelente vetor para entendimento e mapeamento do "pensar" do seu usuário
-- Usando essa metodologia podemos encontrar informações pertinentes, como a forma que devemos nomear os menus, como criar categorias, como dispô-las em tela etc
+- Usando essa metodologia podemos encontrar informações pertinentes, como a forma que devemos nomear os menus, como criar categorias, como dispô-las em tela.
+- Devemos considerar os seguintes pontos para preparar o card sorting
+	- <span style="color:rgb(242, 154, 2)">Seleção de conteúdo</span>: o material deve ser fiel a experiência
+	- <span style="color:rgb(242, 154, 2)">Recrutamento dos participantes</span>: a dinâmica pode ser aplicada em grupo ou individualmente, de 8 a 10 pessoas (individual) e 5 grupos com 3 a 5 pessoas. 
+	- <span style="color:rgb(242, 154, 2)">Preparação dos cards</span>: cada validação deve ser apresentada em um cartão
+- Existem três tipos de card sorting
+	1. <span style="color:rgb(242, 154, 2)">Aberto</span>: ideal para descobrir o modelo mental dos participantes, deixamos que o usuário agrupe os cards da forma que desejar
+	2. <span style="color:rgb(242, 154, 2)">Fechado</span>: usado com experiências já existentes, solicitamos ao usuário que organize de acordo com um modelo pré-estabelecido
+	3. <span style="color:rgb(242, 154, 2)">Híbrido</span>: permite o melhor dos dois mundos
+
+## Eye tracking
+---
+
+- Feita por meio de tecnologias de software e hardware, consiste em fazer um mapeamento ocular da pessoa para identificar o "escaneamento" visual feito na hora da interação
+- Importante para verificarmos se a ferramenta está disposta de forma correta, se estamos atraindo a atenção do usuário para o local que queríamos. Apresenta feedback fiel à percepção do usuário
