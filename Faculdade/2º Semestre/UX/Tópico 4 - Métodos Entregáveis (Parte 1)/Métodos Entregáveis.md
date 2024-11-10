@@ -78,3 +78,7 @@
 
 - Feita por meio de tecnologias de software e hardware, consiste em fazer um mapeamento ocular da pessoa para identificar o "escaneamento" visual feito na hora da interação
 - Importante para verificarmos se a ferramenta está disposta de forma correta, se estamos atraindo a atenção do usuário para o local que queríamos. Apresenta feedback fiel à percepção do usuário
+
+## User flow / Sitemap
+---
+
