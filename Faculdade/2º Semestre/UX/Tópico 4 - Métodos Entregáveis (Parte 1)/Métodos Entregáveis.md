@@ -88,3 +88,4 @@
 - O _user flow_ destaca o fluxo do usuário na jornada pela nossa experiência
 - Envolvem os caminhos que poderão ser traçados pela pessoa
 - São eficazes para analisar as tarefas, das mais simples às mais complexas, é recomendado que sejam feitos antes dos wireframes
+- Ajuda a identificar possíveis "portas de entradas", onde o usuário entra na nossa experiência sem ser pela página inicial
