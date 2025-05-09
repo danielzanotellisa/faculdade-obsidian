@@ -16,4 +16,11 @@
 ---
 - A Agile Alliance estabelece 12 princípios para alcançar a agilidade
 - A satisfação do cliente se da pela entrega de um artefato de software o mais rápido possível
-- Os desenvolvedores ágeis entendem que os requisitos irão se alterar, eles entregam
+- Os desenvolvedores ágeis entendem que os requisitos irão se alterar, eles entregam incrementos de software com frequência e trabalham ao lado de todos os envolvidos para que o feedback sobre as entregas seja rápido e significativo
+- Uma equipe ágil é composta por indivíduos motivados
+- A equipe segue um processo que incentiva a excelência técnica e o bom projeto, enfatizando a simplicidade
+- Uma equipe ágil é uma equipe auto organizada, capaz de desenvolver arquiteturas bem estruturadas, parte da cultura da equipe é considerar o seu trabalho introspectivamente, sempre com a intenção de melhorar a forma como busca o seu objetivo principal.
+
+## Política do desenvolvimento ágil
+---
+- 
