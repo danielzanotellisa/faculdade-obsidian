@@ -46,4 +46,7 @@
 - Uma equipe scrum é formada por um product owner, um scrum master e uma pequena equipe de desenvolvimento(três a seis pessoas)
 - Os principais artefatos do Scrum são o backlog do produto, o backlog do sprint e o incremento de código
 - O desenvolvimento avança pela divisão do projeto em uma série de períodos de desenvolvimento incremental do protótipo, com duração de 2 a 4 semanas, chamados de sprints.
-- 
+- O backlog de produtos é uma lista priorizada de requisitos ou características do artefato que agregam valor de negócio para o cliente. Novos itens podem ser adicionados ao backlog de produtos com a aprovação do product owner e da equipe de desenvolvimento, o product owner ordena os itens no backlog do produto para cumprir as metas mais importantes do desenvolvimento. Somente o PO pode decidir encerrar uma sprint antecipadamente ou extende-la caso seja necessário
+- o backlog da sprint é um subconjunto do backlog de produtos, no qual a equipe de produtos seleciona itens que serão trabalhados na sprint. O incremento é a união de todos os itens completados no backlog de produto anteriores e os que estão na sprint atual. O tempo de uma sprint varia, e a forma como serão implementados os incrementos é definido pela equipe. A equipe decide quando o incremento está pronto e deve ser apresentado ao PO. Nenhum item pode ser adicionado ao backlog do sprint a menos que que o sprint seja cancelado ou reiniciado
+- O Scrum Master é um facilitador, auxiliando a todos os envolvidos, comanda a reunião diária do Scrum e é responsável por remover os obstáculos identificados pelos membros da equipe
+
