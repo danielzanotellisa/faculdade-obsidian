@@ -62,7 +62,10 @@
     "UX": 50,
     "Usabilidade": 51,
     "UserExperience": 52,
-    "Entregáveis": 53
+    "Entregáveis": 53,
+    "EgenhariaDeSoftware": 54,
+    "SCRUM": 55,
+    "Metodologia": 56
   },
   "_version": 3
 }
