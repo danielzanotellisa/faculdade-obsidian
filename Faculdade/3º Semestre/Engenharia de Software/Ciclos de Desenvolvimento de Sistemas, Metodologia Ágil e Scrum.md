@@ -23,4 +23,21 @@
 
 ## Política do desenvolvimento ágil
 ---
+- A benefícios em metodologias ágeis e tradicionais, saber se aproveitar delas para o desenvolvimento de software é essencial. Se adaptar as mudanças é essencial para que possamos estar sempre prontos para todos os desafios.
+
+## <span style="color:rgb(242, 154, 2)">SCRUM</span>
+---
+- Um método de desenvolvimento ágil concebido no início dos anos 1990
+- Os princípios do <span style="color:rgb(242, 154, 2)">SCRUM</span> são coerentes com o manifesto ágil e são usados para orientar as atividades de desenvolvimento dentro de um processo.
+- Atividades metodológicas do <span style="color:rgb(242, 154, 2)">SCRUM</span>:
+	- REQUISITOS
+	- ANÁLISE
+	- PROJETO
+	- EVOLUÇÃO
+	- ENTREGA
+- Em cada atividade metodológica, é definida uma janela de tempo chamada de <span style="color:rgb(242, 154, 2)">SPRINT</span> 
+- O trabalho realizado dentro de uma sprint é adaptado ao problema em questão e definido, e muitas vezes modificado em tempo real
+ ![](Captura%20de%20Tela%202025-05-09%20às%2013.24.21.png)
+- Fluxo do processo Scrum
+
 - 
