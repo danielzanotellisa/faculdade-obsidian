@@ -40,4 +40,10 @@
  ![](Captura%20de%20Tela%202025-05-09%20às%2013.24.21.png)
 - Fluxo do processo Scrum
 
+## Equipes e artefatos do Scrum
+---
+
+- Uma equipe scrum é formada por um product owner, um scrum master e uma pequena equipe de desenvolvimento(três a seis pessoas)
+- Os principais artefatos do Scrum são o backlog do produto, o backlog do sprint e o incremento de código
+- O desenvolvimento avança pela divisão do projeto em uma série de períodos de desenvolvimento incremental do protótipo, com duração de 2 a 4 semanas, chamados de sprints.
 - 
