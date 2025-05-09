@@ -50,3 +50,37 @@
 - o backlog da sprint é um subconjunto do backlog de produtos, no qual a equipe de produtos seleciona itens que serão trabalhados na sprint. O incremento é a união de todos os itens completados no backlog de produto anteriores e os que estão na sprint atual. O tempo de uma sprint varia, e a forma como serão implementados os incrementos é definido pela equipe. A equipe decide quando o incremento está pronto e deve ser apresentado ao PO. Nenhum item pode ser adicionado ao backlog do sprint a menos que que o sprint seja cancelado ou reiniciado
 - O Scrum Master é um facilitador, auxiliando a todos os envolvidos, comanda a reunião diária do Scrum e é responsável por remover os obstáculos identificados pelos membros da equipe
 
+## Reunião de planejamento do sprint
+----
+- Antes de iniciar, toda a equipe de desenvolvimento trabalha com o PO e os outros envolvidos para desenvolver os itens no backlog do produto
+- O PO e a equipe de desenvolvimento ordenam os no backlog de produtos pela sua importância
+- Antes do início de cada sprint, o PO enuncia a meta de desenvolvimento para o incremento a ser completado no próximo sprint
+- O Scrum Master junto da equipe de desenvolvimento, selecionam os itens que irão para o backlog da sprint, a equipe determina oque é possível ser entregue no incremento dentro da janela de tempo. A equipe decide quais papéis são necessários e como precisarão ser atendidos
+
+## Reunião diária do Scrum
+---
+
+- Uma pequena reunião de 15 minutos realizada a cada 24h antes do início do dia de trabalho, conduzida pelo Scrum Master, a reunião conta com a ED (e as vezes o PO). 
+- Nessa reunião são feitas 3 perguntas
+	- Oque você completou desde a última reunião de equipe?
+	- Quais obstáculos está encontrando?
+	- O que planeja realizar até a próxima reunião de equipe?
+- As perguntas são respondidas individualmente por cada membro da ED.
+- A reunião diária não é para solução de problemas
+- Algumas equipes usam as reuniões diárias para declarar quais itens do backlog do sprint estão completos ou prontos. Quando considerar que todos os itens do backlog do sprint estão completos, a equipe pode decidir marcar uma demonstração ou revisão do incremento completo junto com o PO
+
+## Reunião de revisão do Sprint
+---
+
+- Uma reunião que acontece ao final do sprint, junto do PO e de quem mais esteja envolvido a fim de se demonstrar o incremento de software desenvolvido durante o sprint.
+- O PO pode aceitar ou não o incremento como completo, caso não aceite, o PO e os envolvidos fornecem um feedback para possibilitar a realização de uma nova rodada de planejamento do sprint.
+
+## Retrospectiva do Sprint
+---
+
+- Uma reunião que o Scrum Master organiza antes do inicio de uma nova rodada de planejamento do sprint
+- Durante essa reunião a equipe debate:
+	- O que deu certo no sprint
+	- O que poderia melhorar
+	- Com o que a equipe se compromete em melhorar no próximo sprint
+- A equipe planeja formas de melhorar a qualidade do produto com a adaptaça7o da sua definição de "pronto".
