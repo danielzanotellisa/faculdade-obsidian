@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ee1dfca1c2f3f55a",
+        "id": "d4b25b5a83b2aa51",
         "type": "tabs",
         "children": [
           {
-            "id": "4a1a6c4315a4f789",
+            "id": "6e3d1eda94a6e7bd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -36,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -156,8 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,8 +170,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98902a6ef9ed1b7d",
+  "active": "6e3d1eda94a6e7bd",
   "lastOpenFiles": [
+    "Faculdade/3º Semestre/Untitled.md",
+    "Faculdade/3º Semestre/Arquitetura de dados Relacionais II",
+    "Faculdade/3º Semestre/Sistemas Operacionais",
+    "Faculdade/3º Semestre/Engenharia de Software",
     "Faculdade/Untitled",
     "Untitled.canvas",
     "Untitled 1.canvas",
@@ -188,10 +192,7 @@
     "Faculdade/2º Semestre/UX/Tópico 3 - Usabilidade/Usabilidade.md",
     "Faculdade/2º Semestre/UX/Tópico 3 - Usabilidade/pdf",
     "Faculdade/2º Semestre/UX/Tópico 3 - Usabilidade/img",
-    "Faculdade/2º Semestre/UX/Tópico 3 - Usabilidade",
     "Faculdade/1º Semestre/2º Módulo/Introdução a Programação/Tópico 4 - Introdução a Python/Entrada e saída de dados.md",
-    "Faculdade/2º Semestre/UX",
-    "Faculdade/2º Semestre",
     "Faculdade/1º Semestre/2º Módulo/Introdução a Programação/Tópico 4 - Introdução a Python/Tipos de dados e variáveis.md",
     "Faculdade/1º Semestre/2º Módulo/Introdução a Programação/Tópico 4 - Introdução a Python/Operadores.md"
   ]
