@@ -1,1 +1,3 @@
+- O Linux possui uma hierarquia baseada em um sistema de arquivos e diretórios, diferente do Windows que possui discos.
+- A estrutura padrão de arquivos do linux é a seguinte![](Captura%20de%20Tela%202025-05-11%20às%2013.39.58.png)
 - 
