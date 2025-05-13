@@ -55,4 +55,11 @@ tags:
 ## Fragmentação
 ---
 
-- 
+- A fragmentação pode ocorrer de dudas formas, em arquivos ou na unidade de armazenamento:
+	- Arquivos: Quando o arquivo é muito grande e não pode ser armazenado em um pedaço contíguo de memória, ele é fragmentado para que possa caber na unidade de armazenamento. Isso faz com que a leitura e a escrita desse arquivo se torne mais lenta, pois o sistema operacional e a unidade de armazenamento tem de buscar por esse arquivo em blocos de memória separados.
+	- Fragmentação de espaço: Pode ocorrer após a exclusão e gravação repetida de arquivos, esse tipo de fragmentação pode impedir a criação de arquivos maiores que, de outra forma, caberiam no espaço total não utilizado disponível, simplesmente porque esse espaço não está contíguo. Para isso existe a desfragmentação, que reorganiza os arquivos para que eles ocupem um espaço de memória contíguo, melhorando assim o desempenho na leitura e gravação de novos arquivos.
+		- A desfragmentação é muito útil para unidades em disco mas pouco útil para SSDs, ja que eles usam memórias flash (não é recomendado a desfragmentação pois isso acaba com a vida útil dos SSDs). Para os SSDs, é recomendado o trim, um comando que permite que o sistema operacional informe ao SSD quais blocos de dados não são mais considerados em uso e podem ser apagados internamente.
+
+## Tipos de alocação
+---
+
