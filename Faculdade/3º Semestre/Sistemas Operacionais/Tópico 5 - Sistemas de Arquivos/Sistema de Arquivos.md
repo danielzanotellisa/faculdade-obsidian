@@ -63,3 +63,9 @@ tags:
 ## Tipos de alocação
 ---
 
+- Existem vários métodos e tipos de alocação de dados diferentes. Entender como elas funcionam é essencial.
+- Procurar mais detalhes sobre as alocações encadeadas (FAT), alocação indexada (NTFS ou ext4), B-tree etc etc.
+- A técnica de alocação adotada pelo sistema de arquivos influencia diretamente a eficiência na utilização e gestão do espaço em disco, assim como no desempenho de leitura e gravação de arquivos. Cada abordagem apresenta vantagens e desvantagens, e a escolha ideal frequentemente varia de acordo com os requisitos específicos do sistema e as características predominantes de uso.
+
+## Virtual File System (VFS)
+---
