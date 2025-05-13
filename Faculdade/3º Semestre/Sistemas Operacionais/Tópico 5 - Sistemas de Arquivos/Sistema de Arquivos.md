@@ -28,4 +28,7 @@ tags:
 	- Tipo de arquivo(regular, diretório, link simbólico, etc)
 	- Contagem de links(número de hard links para o arquivo)
 	- Localização dos blocos de dados do arquivo no disco(ponteiros para os blocos de dados)
-- 
+- O inode não armazena o nome ou conteúdo real de um arquivo, esse trabalho é o do diretório, que aponta para o inode correspondente. A princípio os diretórios podem parecer somente containers para guardar arquivos, mas em sistemas UNIX eles são na verdade arquivos especiais que contêm listas de entradas associando nomes de arquivos a seus inodes. Quando um usuário acessa um diretório e vê a lista de arquivos, está na verdade olhando para o conteúdo desse arquivo de diretório.
+- Para entender como os diretórios funcionam precisamos também entender hard e soft (symbolic) links.
+	- Hard Link: Funciona como uma "cópia", criamos um link que aponta para o mesmo inode do arquivo inicial. Qualquer alteração feita em um hard link será refletido no arquivo original, afinal, estamos alterando o conteúdo no mesmo espaço de memória do arquivo original. Ao deletarmos o arquivo original, o hard link ainda funcionará. Algo só pode ser deletado da memória quando deletamos todos os hard links que apontam para o conteúdo.
+	- Soft Link: É uma referência ao nome do arquivo e não ao seus dados. Um arquivo separado que aponta para outro arquivo. Se o arquivo original for excluído, o soft link não irá mais funcionar. Possuem seu próprio inode e podem ser identificados como *links simbólicos* em listagens de diretórios
