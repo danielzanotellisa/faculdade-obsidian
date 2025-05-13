@@ -37,4 +37,22 @@ tags:
 ## Manipulação de arquivos
 ---
 
+- A manipulação de arquivos e diretórios em sistemas UNIX/Linux é feita majoritariamente atráves da linha de comando.
+	- Comandos uteis para se gravar:
+		- **touch**: cria um arquivo no diretório atual
+		- **rm `<nome do arquivo>`**: remove o arquivo especificado (não exclui completamente os dados, apenas libera o espaço na memória para que outras coisas possam ser alocadas ali)
+		- **wipe**: usado para destruir de forma segura o conteúdo de um arquivo, garantindo que ele não possa ser recuperado
+		- **file**: determina o tipo de arquivo observando os padrões de dados dentro do arquivo
+		- **foremost**: ferramenta de recuperação de dados que busca por assinaturas ou padrões de arquivo específicos.
+		- **stat**: serve para visualizarmos metadados como: inode, proprietário do arquivo, grupo do arquivo e o MAC time:
+			- Modified: hora em que o arquivo foi modificado pela última vez
+			- Acessed: hora em que o arquivo foi acessado pela última vez
+			- Changed: hora em que os metadados do arquivo foram alterados pela última vez
+- A persistência dos dados refere-se à capacidade dos dados de permanecerem em um dispositivo, mesmo depois de aparentemente terem sido excluídos ou, em alguns casos, após o dispositivo ter sido formatado.
+- A formatação é o processo de preparação de um dispositivo de armazenamento para ser usado por um sistema de arqvuios. Durante a formatação, a estrutura e os diretórios do sistema de arquivos são criados.
+	- Uma formatação simples não apaga completamente os dados do sistema, ela apenas apaga as referências aos dados e marca o espaço como disponível. Mesmo que o dispositivo pareça estar vazio, os dados originais ainda podem persistis nele até serem sobrescritos.
+
+## Fragmentação
+---
+
 - 
