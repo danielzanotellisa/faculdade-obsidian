@@ -33,5 +33,8 @@ tags:
 	- Hard Link: Funciona como uma "cópia", criamos um link que aponta para o mesmo inode do arquivo inicial. Qualquer alteração feita em um hard link será refletido no arquivo original, afinal, estamos alterando o conteúdo no mesmo espaço de memória do arquivo original. Ao deletarmos o arquivo original, o hard link ainda funcionará. Algo só pode ser deletado da memória quando deletamos todos os hard links que apontam para o conteúdo.
 	- Soft Link: É uma referência ao nome do arquivo e não ao seus dados. Um arquivo separado que aponta para outro arquivo. Se o arquivo original for excluído, o soft link não irá mais funcionar. Possuem seu próprio inode e podem ser identificados como *links simbólicos* em listagens de diretórios
 	- Podemos criar um hard link usando o comando: `ln <arquivo_para_ser_linkado> [nome do arquivo]`
-	- Para criarmos um soft link usamos a seguinte sintaxe: ```ln -s <nome_do_arquivo_para_vincular_o_link> [nome do novo arquivo link]
-	- 
+	- Para criarmos um soft link usamos a seguinte sintaxe: ```ln -s <nome_do_arquivo_para_vincular_o_link> [nome do novo arquivo link]```
+## Manipulação de arquivos
+---
+
+- 
