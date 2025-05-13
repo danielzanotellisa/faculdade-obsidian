@@ -1,0 +1,8 @@
+---
+tags:
+  - Linux
+  - SIstemaOperacional
+  - Desenvolvimento
+---
+---
+
