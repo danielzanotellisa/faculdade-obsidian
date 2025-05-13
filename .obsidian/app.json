@@ -1,4 +1,6 @@
 {
   "useMarkdownLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheck": false,
+  "vimMode": true
 }
