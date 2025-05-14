@@ -89,4 +89,9 @@ tags:
 ## Jornalamento e Integridade
 ---
 
-- 
+- O *logging* é um "jornal" onde as operações de escrita que estão prestes a serem realizadas são escritas. Serve para que em caso de reinicializações, desligamentos ou falhas de hardware/software abruptas, o sistema possa saber de onde parou para dar continuidade ou reverter a um ponto seguro todos os arquivos que estavam sendo utilizados.
+- Garante (não 100%) a integridade de arquivos e sua consistênca.
+- Existem tipos de "jornalamento"
+	- journal: todas as informações como metadados e conteúdo são gravadas no jornal antes de serem escritas no local de armazenamento
+	- ordered: somente os metadados são gravados no jornal mas eles são escritos antes dos dados associados
+	- writeback: apenas os metadados são jornalados e não há ordem específica garantida para a escrita de dados reais
