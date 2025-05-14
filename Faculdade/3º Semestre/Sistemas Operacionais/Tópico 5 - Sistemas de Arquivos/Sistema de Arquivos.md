@@ -69,3 +69,9 @@ tags:
 
 ## Virtual File System (VFS)
 ---
+- Oferece um conjunto de abstrações que torna a comunicação entre aplicativos e usuários com os diversos sistemas de armazenamento de arquivos mais fácil
+- Como se fosse um intermediador, ele reune todos os arquivos que podem estar espalhados em unidades de armazenamento diferentes em uma única "árvore" de forma abstrata para que o acesso seja facilitado
+- Pode realizar o caching de inode e de diretório para acelerar o acesso aos sistemas de arquivos
+- Apresenta uma arquitetura modular oque torna relativamente simples adicionar suporte a novos sistemas de arquivos
+- Pode implementar verificações de segurança e outras políticas, garantindo que os aplicativos não violem as regras de acesso ao tentar ler ou escrever em sistemas de arquivos
+- 
