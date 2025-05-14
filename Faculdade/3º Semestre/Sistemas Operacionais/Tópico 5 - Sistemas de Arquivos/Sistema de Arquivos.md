@@ -74,4 +74,19 @@ tags:
 - Pode realizar o caching de inode e de diretório para acelerar o acesso aos sistemas de arquivos
 - Apresenta uma arquitetura modular oque torna relativamente simples adicionar suporte a novos sistemas de arquivos
 - Pode implementar verificações de segurança e outras políticas, garantindo que os aplicativos não violem as regras de acesso ao tentar ler ou escrever em sistemas de arquivos
+
+## Tipos de Sistema de Arquivos
+---
+
+- Escolher um sistema de arquivos adequado depende em grande parte das necessidades do usuário, do tipo de dispositivo de armazenamento e do ambiente operacional específico
+- Alguns tipos de sistema de arquivos são:
+	- FAT
+	- FAT32
+	- FAT64
+	- NTFS
+	- EXT2/3/4
+
+## Jornalamento e Integridade
+---
+
 - 
