@@ -65,7 +65,11 @@
     "Entregáveis": 53,
     "EgenhariaDeSoftware": 54,
     "SCRUM": 55,
-    "Metodologia": 56
+    "Metodologia": 56,
+    "BD": 57,
+    "SQL": 58,
+    "ArquiteturaDeDados": 59,
+    "Relacional": 60
   },
   "_version": 3
 }
