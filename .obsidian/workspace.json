@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8a54f6ee1cac8a68",
@@ -176,8 +175,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e3d1eda94a6e7bd",
+  "active": "98902a6ef9ed1b7d",
   "lastOpenFiles": [
+    "Faculdade/3º Semestre/Arquitetura de dados Relacionais II/Tópico 3 - Programação Avançada em SQL",
     "Faculdade/3º Semestre/Sistemas Operacionais/Livro AOP 2.md",
     "Faculdade/3º Semestre/Sistemas Operacionais/Tópico 5 - Sistemas de Arquivos/Sistema de Arquivos.md",
     "Faculdade/3º Semestre/Sistemas Operacionais/Tópico 5 - Sistemas de Arquivos/img",
